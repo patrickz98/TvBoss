@@ -1,0 +1,52 @@
+[
+	{
+		"Title": "Bayern plus - Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "15.30 / 16.30 / 17.30Bayernnachrichten, Wetter16.00 / 17.00 Nachrichten, Wetter, Verkehr",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-10T15:05:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bayern plus - Meine Schlager hören",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Jeweils zur vollen StundeNachrichten, Wetter, Verkehr",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-10T18:05:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Schlagernacht von BR und MDR",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "23.00 Nachrichten, Wetter, Verkehr",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-10T22:05:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

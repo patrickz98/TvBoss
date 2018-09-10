@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T00:05:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T06:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Domino",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T06:04:00+02:00",
+		"Stop": "2018-09-16T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T10:00:00+02:00",
+		"Stop": "2018-09-16T10:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Absolut Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T10:04:00+02:00",
+		"Stop": "2018-09-16T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T14:00:00+02:00",
+		"Stop": "2018-09-16T14:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Sonntag im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T14:04:00+02:00",
+		"Stop": "2018-09-16T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T21:00:00+02:00",
+		"Stop": "2018-09-16T21:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Abend im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-16T21:04:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

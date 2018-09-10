@@ -1,0 +1,42 @@
+[
+	{
+		"Title": "SWR4 BW Regional um Vier",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-10T16:00:00+02:00",
+		"Stop": "2018-09-10T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um Fünf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-10T17:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "18:57 - 19:00 Abendgedanken19:00 - 19:04 Nachrichten20:00 - 20:03 Nachrichten",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "21:00 - 21:03 Nachrichten22:00 - 22:03 Nachrichten22:03 - 22:05 Sport Aktuell23:00 - 23:03 Nachrichten",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

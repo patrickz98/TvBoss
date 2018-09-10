@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "International Desk (with World Sport)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Live from CNN's headquarters in Atlanta, International Desk offers an in-depth look at major news headlines with key interviews and CNN reports from around the world.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T16:00:00+02:00",
+		"Stop": "2018-09-10T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Connect the World with Becky Anderson",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "CNN's Becky Anderson joins the dots of stories and events by exploring how an event or circumstance in one part of the world can have a significant impact elsewhere.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T17:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Quest Express",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Richard Quest offers a quick-fire briefing on the latest market movements and business stories from around the world.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T18:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Marketplace Africa",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "CNN Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world. Hosted by Robyn Curnow.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T18:45:00+02:00",
+		"Stop": "2018-09-10T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wolf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "CNN's lead political anchor Wolf Blitzer looks at politics, breaking news and international news.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T19:00:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Amanpour",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hala Gorani Tonight",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Hala Gorani breaks down the day's news, curating the stories that matter and getting into exactly why they are important.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Quest Means Business",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "CNN's Richard Quest presents a round-up of the day's global business news with focus on international business and market trends.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Amanpour",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T23:00:00+02:00",
+		"Stop": "2018-09-10T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "World Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport.",
+		"ChannelName": "CNN (eng)",
+		"Start": "2018-09-10T23:30:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

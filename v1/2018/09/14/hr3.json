@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 Morningshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-14T05:00:00+02:00",
+		"Stop": "2018-09-14T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-14T09:30:00+02:00",
+		"Stop": "2018-09-14T13:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Kate Menzyk Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-14T13:30:00+02:00",
+		"Stop": "2018-09-14T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Vorabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-14T17:30:00+02:00",
+		"Stop": "2018-09-14T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-14T21:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T00:00:00+02:00",
+		"Stop": "2018-09-13T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T05:00:00+02:00",
+		"Stop": "2018-09-13T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T10:00:00+02:00",
+		"Stop": "2018-09-13T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T13:00:00+02:00",
+		"Stop": "2018-09-13T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T15:00:00+02:00",
+		"Stop": "2018-09-13T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kulturjournal",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T19:00:00+02:00",
+		"Stop": "2018-09-13T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Treffpunkt Hamburg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T20:00:00+02:00",
+		"Stop": "2018-09-13T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Traumhaft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T21:00:00+02:00",
+		"Stop": "2018-09-13T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T22:00:00+02:00",
+		"Stop": "2018-09-13T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-13T23:30:00+02:00",
+		"Stop": "2018-09-14T00:00:00+02:00",
+		"Info": {}
+	}
+]

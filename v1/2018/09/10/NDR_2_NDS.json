@@ -1,0 +1,42 @@
+[
+	{
+		"Title": "Wiswedel \u0026 Mahrhold - Der NDR 2 Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Alle News des Tages, Talks, Aktionen und Comedy.Stündlich die NDR 2 Nachrichten, Wetter und halbstündlich Verkehr.",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-10T14:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der NDR 2 Hit-Mix",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der NDR 2 Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Live-Berichte von den Spielen der Fußball-Bundesliga",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-10T19:00:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 2 Soundcheck Live",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Tipps zu aktuellen Live-Alben, DVDs und exklusive Raritäten aus dem Konzertarchiv des NDR.Live-Berichte von den Spielen der Fußball-BundesligaIm NDR 2 Radiokonzert: Graham Nash (1), Rudolstadt Festival, Juli 2018Stündlich die NDR 2 Nachrichten, Wetter und Verkehr.Erstsendung Montag, Wiederholung am Sonnabend auf NDR Blue",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

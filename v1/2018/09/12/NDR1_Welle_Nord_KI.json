@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten und Wetter, halbstündlich Verkehr",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Horst und Mandy am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "\"Horst und Mandy am Morgen\" bringt ab 5.00 Uhr Schwung in Ihren Tag. Musik, die Sie aus den Federn holt, aktuelle Infos aus ganz Schleswig-Holstein, Nachrichten aus aller Welt und der beste Wetter- und Verkehrsservice ganz speziell für Ihre Region - das alles bekommen Sie montags bis freitags von 5.00 bis 09.30 Uhr.Halbstündlich Nachrichten und Schleswig-Holstein Service, stündlich \"um halb\" Regionalwetter.",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schleswig-Holstein bis 2",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "\"Schleswig-Holstein bis 2\" begleitet Sie durch den Vormittag bei der Arbeit, unterwegs oder zu Hause. Aktuelle Infos, Service, Promi-Meldungen - mit uns verpassen Sie nichts. Unsere Reporter sind im Land unterwegs und berichten über Themen, über die man in Schleswig-Holstein spricht. Und wir sorgen für \"Mehr Spaß bei der Arbeit\": Wir kommen zu Ihnen in Ihren Betrieb und erfüllen Ihre Musikwünsche!Halbstündlich Nachrichten und Schleswig-Holstein Service",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T09:30:00+02:00",
+		"Stop": "2018-09-12T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "\"NDR 1 Welle Nord - Der Nachmittag\" macht einfach gute Laune und bringt die wichtigsten Infos des Tages zu Ihnen nach Hause, ins Büro und auf dem Weg in den Feierabend. Dazu gibt es Promis im Studio, Schleswig-Holsteins zuverlässigstes Wetter und einen Moderator, der immer für eine Überraschung gut ist.Halbstündlich Nachrichten und Schleswig-Holstein Service, stündlich \"um halb\" regionales Wetter",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T14:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hits \u0026 Oldies",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Von Binnenland und Waterkant",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-12T23:30:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

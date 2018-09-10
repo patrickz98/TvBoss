@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-17T01:08:00+02:00",
+		"Stop": "2018-09-17T01:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Naokos Lächeln",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-17T01:10:00+02:00",
+		"Stop": "2018-09-17T03:13:00+02:00",
+		"Info": {}
+	}
+]

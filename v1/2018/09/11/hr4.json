@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "ARD - Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "01:00 Nachrichten und Wetter02:00 Nachrichten und Wetter03:00 Nachrichten und Wetter04:00 Nachrichten und Wetter05:00 Nachrichten und Wetter",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T00:05:00+02:00",
+		"Stop": "2018-09-11T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Mein Morgen in Hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "09:30 hr4 - die hessenschau am Morgen08:30 hr4 - die hessenschau am Morgen07:30 hr4 - die hessenschau am Morgen06:30 hr4 - die hessenschau am Morgen06:20 hr4-Horoskop09:45 Haus und GartenDer hr4-Garten-Doc",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T06:05:00+02:00",
+		"Stop": "2018-09-11T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Britta am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T10:05:00+02:00",
+		"Stop": "2018-09-11T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Britta am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "12:30 hr4 - die hessenschau für Südhessen und Rhein-Main / für Nord- und Osthessen / für Mittelhessen",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T12:05:00+02:00",
+		"Stop": "2018-09-11T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Wünsch Dir was",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wunschkonzert. Unser \"Wünsch Dir was\"-Telefon ist jetzt 24 Stunden am Tag für Sie da: 0800 7777224 (kostenfrei)",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T13:05:00+02:00",
+		"Stop": "2018-09-11T14:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "15:30 hr4 - Unser Thema aus Süd-/Nord-/Ost-/Mittelhessen/aus Rhein-Main14:30 hr4 - die hessenschau für Südhessen und Rhein-Main / für Nord- und Osthessen / für Mittelhessen",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T14:05:00+02:00",
+		"Stop": "2018-09-11T16:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mit hr4 in den Feierabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "18:30 hr4 - die hessenschau am Abend17:30 hr4 - die hessenschau am Abend16:30 hr4 - die hessenschau für Südhessen und Rhein-Main / für Nord- und Osthessen / für Mittelhessen17:45 Übrigens",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T16:05:00+02:00",
+		"Stop": "2018-09-11T20:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Musik liegt in der Luft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-11T20:05:00+02:00",
+		"Stop": "2018-09-12T00:05:00+02:00",
+		"Info": {}
+	}
+]

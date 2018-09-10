@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "SR 1 - Hallo Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "14:30 - 14:31 Kurznachrichten15:00 - 15:04 Nachrichten15:30 - 15:31 Kurznachrichten16:00 - 16:04 Nachrichten16:30 - 16:31 Kurznachrichten17:00 - 17:04 Nachrichten17:30 - 17:31 Kurznachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T14:04:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T18:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Stand der Dinge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die wichtigsten Nachrichten des Tages18:30 - 18:31 Kurznachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T18:04:00+02:00",
+		"Stop": "2018-09-10T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T19:00:00+02:00",
+		"Stop": "2018-09-10T19:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Abendrot",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "20:00 - 20:04 Nachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T19:04:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T21:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Abend im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "22:00 - 22:05 Nachrichten23:00 - 23:04 Nachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-10T21:04:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

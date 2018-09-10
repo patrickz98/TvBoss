@@ -1,0 +1,52 @@
+[
+	{
+		"Title": "SPUTNIK - Dein HAMMER Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Was passiert in der Welt, in der SPUTNIK-Zone und im Netz? Kathrin versüßt euch den Nachmittag mit allem, was ihr für eine gelungene zweite Tageshälfte braucht, dazu natürlich wie immer eure Lieblingsmusik!",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-10T14:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK - Dein Tagesupdate",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mindestens im Stundenrhythmus informiert SPUTNIK den ganzen Tag über alles, was wichtig ist. Und im SPUTNIK Tagesupdate gehen die Nachrichtenredakteure den Dingen nachdrücklich auf den Grund - mit Expertengesprächen, Reportern vor Ort und mehr als hundert ARD-Auslandskorrespondenten.",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Popkult",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "SPUTNIK Popkult spürt das Kultige im \"Massenprodukt\" Popkultur auf. Die Sendung liefert drei Stunden lang viel neue Musik, Interviews mit spannenden Leuten, Literatur, Kino, Lifestyle und vieles mehr. Lydias Lesestoff ist bei SPUTNIK Popkult zuhause.",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-10T19:00:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Firstplay",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Deine Lieblingsmusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "SPUTNIK Deine Lieblingsmusik",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

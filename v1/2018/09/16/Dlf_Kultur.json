@@ -1,0 +1,362 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Literatur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T00:05:00+02:00",
+		"Stop": "2018-09-16T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T01:00:00+02:00",
+		"Stop": "2018-09-16T01:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tonart",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T01:05:00+02:00",
+		"Stop": "2018-09-16T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T04:00:00+02:00",
+		"Stop": "2018-09-16T04:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tonart",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T04:05:00+02:00",
+		"Stop": "2018-09-16T06:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wort zum Tage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T06:55:00+02:00",
+		"Stop": "2018-09-16T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T07:00:00+02:00",
+		"Stop": "2018-09-16T07:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Feiertag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T07:05:00+02:00",
+		"Stop": "2018-09-16T07:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kakadu für Frühaufsteher",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T07:30:00+02:00",
+		"Stop": "2018-09-16T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T08:00:00+02:00",
+		"Stop": "2018-09-16T08:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kakadu",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T08:05:00+02:00",
+		"Stop": "2018-09-16T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T09:00:00+02:00",
+		"Stop": "2018-09-16T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sonntagmorgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T09:05:00+02:00",
+		"Stop": "2018-09-16T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T11:00:00+02:00",
+		"Stop": "2018-09-16T11:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Deutschlandrundfahrt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T11:05:00+02:00",
+		"Stop": "2018-09-16T11:59:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Freiheitsglocke",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T11:59:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9 kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T12:05:00+02:00",
+		"Stop": "2018-09-16T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Reportage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T12:30:00+02:00",
+		"Stop": "2018-09-16T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T13:00:00+02:00",
+		"Stop": "2018-09-16T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sein und Streit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T13:05:00+02:00",
+		"Stop": "2018-09-16T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T14:00:00+02:00",
+		"Stop": "2018-09-16T14:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Religionen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T14:05:00+02:00",
+		"Stop": "2018-09-16T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T15:00:00+02:00",
+		"Stop": "2018-09-16T15:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Interpretationen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T15:05:00+02:00",
+		"Stop": "2018-09-16T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T17:00:00+02:00",
+		"Stop": "2018-09-16T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9 kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T17:05:00+02:00",
+		"Stop": "2018-09-16T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachspiel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T17:30:00+02:00",
+		"Stop": "2018-09-16T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hörspiel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T18:30:00+02:00",
+		"Stop": "2018-09-16T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T20:00:00+02:00",
+		"Stop": "2018-09-16T20:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Konzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T20:03:00+02:00",
+		"Stop": "2018-09-16T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Musikfeuilleton",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T22:00:00+02:00",
+		"Stop": "2018-09-16T22:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9 kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T22:30:00+02:00",
+		"Stop": "2018-09-16T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T23:00:00+02:00",
+		"Stop": "2018-09-16T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fazit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-16T23:05:00+02:00",
+		"Stop": "2018-09-16T23:59:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T05:00:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T13:00:00+02:00",
+		"Stop": "2018-09-14T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T15:00:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kulturjournal",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Stadtgespräch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-14T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-14T23:30:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

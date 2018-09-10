@@ -1,0 +1,452 @@
+[
+	{
+		"Title": "Bob Ross - The Joy of Painting",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T00:05:00+02:00",
+		"Stop": "2018-09-14T00:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T00:35:00+02:00",
+		"Stop": "2018-09-14T01:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T01:35:00+02:00",
+		"Stop": "2018-09-14T01:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T01:50:00+02:00",
+		"Stop": "2018-09-14T02:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T02:30:00+02:00",
+		"Stop": "2018-09-14T02:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Einfach genial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T02:45:00+02:00",
+		"Stop": "2018-09-14T03:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Vom Ahorn bis zur Zwiebel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T03:10:00+02:00",
+		"Stop": "2018-09-14T03:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "nano",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T03:15:00+02:00",
+		"Stop": "2018-09-14T03:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Quantensprung",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T03:45:00+02:00",
+		"Stop": "2018-09-14T04:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen: Alzheimer - Kampf gegen das große Vergessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T04:30:00+02:00",
+		"Stop": "2018-09-14T05:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-demokratie",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T05:30:00+02:00",
+		"Stop": "2018-09-14T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bob Ross - The Joy of Painting",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T06:00:00+02:00",
+		"Stop": "2018-09-14T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Englisch für Anfänger (9/51)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T06:30:00+02:00",
+		"Stop": "2018-09-14T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hablamos Español (31/39)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T07:00:00+02:00",
+		"Stop": "2018-09-14T07:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Grundkurs Englisch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T07:30:00+02:00",
+		"Stop": "2018-09-14T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tele-Gym",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T08:00:00+02:00",
+		"Stop": "2018-09-14T08:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panoramabilder",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T08:15:00+02:00",
+		"Stop": "2018-09-14T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schulfernsehen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T09:30:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "GRIPS Deutsch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T10:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "GRIPS Deutsch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T10:15:00+02:00",
+		"Stop": "2018-09-14T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Campus Cinema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T10:30:00+02:00",
+		"Stop": "2018-09-14T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen: Alzheimer - Kampf gegen das große Vergessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T11:00:00+02:00",
+		"Stop": "2018-09-14T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesgespräch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T12:05:00+02:00",
+		"Stop": "2018-09-14T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brandgefährlich (2/2)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T13:00:00+02:00",
+		"Stop": "2018-09-14T13:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "7 Tage ... bei der Feuerwehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T13:45:00+02:00",
+		"Stop": "2018-09-14T14:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Einfach clever: Wie Tiere denken (3/3)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T14:15:00+02:00",
+		"Stop": "2018-09-14T15:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Sendung mit der Maus",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T15:05:00+02:00",
+		"Stop": "2018-09-14T15:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wissen macht Ah!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T15:35:00+02:00",
+		"Stop": "2018-09-14T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-retro: Alvar Aalto - Architekt in Finnland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T16:00:00+02:00",
+		"Stop": "2018-09-14T16:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gut zu wissen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T16:30:00+02:00",
+		"Stop": "2018-09-14T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Quarks: Land unter - Was hilft bei Hochwasser?",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T17:00:00+02:00",
+		"Stop": "2018-09-14T17:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "nano",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T17:45:00+02:00",
+		"Stop": "2018-09-14T18:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen: Pflegekräfte am Limit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T18:15:00+02:00",
+		"Stop": "2018-09-14T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verbrechen auf der Spur (5/5)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T19:15:00+02:00",
+		"Stop": "2018-09-14T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-demokratie",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T19:30:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-14T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die großen Geheimnisse der Geschichte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T20:15:00+02:00",
+		"Stop": "2018-09-14T20:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die großen Geheimnisse der Geschichte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T20:40:00+02:00",
+		"Stop": "2018-09-14T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die großen Geheimnisse der Geschichte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T21:00:00+02:00",
+		"Stop": "2018-09-14T21:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die großen Geheimnisse der Geschichte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T21:25:00+02:00",
+		"Stop": "2018-09-14T21:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "UFO (1/26)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T21:50:00+02:00",
+		"Stop": "2018-09-14T22:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "English bite-size",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T22:40:00+02:00",
+		"Stop": "2018-09-14T22:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "euroblick",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T22:45:00+02:00",
+		"Stop": "2018-09-14T23:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "The Day - News in Review",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T23:15:00+02:00",
+		"Stop": "2018-09-14T23:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Tagesschau vor 20 Jahren",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-14T23:45:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

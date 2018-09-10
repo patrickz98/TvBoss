@@ -1,0 +1,32 @@
+[
+	{
+		"Title": "Die Kate Menzyk Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Kate Menzyk und Christian Kaempfert bringen Euch mit Euren Lieblingssongs gut durch den Nachmittag.",
+		"ChannelName": "hr3",
+		"Start": "2018-09-10T13:30:00+02:00",
+		"Stop": "2018-09-10T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Vorabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nur Eure Lieblingssongs - das ist der Abend in hr3!",
+		"ChannelName": "hr3",
+		"Start": "2018-09-10T17:30:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nur Eure Lieblingssongs - das ist der Abend in hr3!",
+		"ChannelName": "hr3",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

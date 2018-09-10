@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "RuhePULS",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Worte? Nichts als Schall und Rauch! Deshalb ist hier laberfreie Zone. Wir spielen die Musik für die Nacht: Indie, Elektro, Hiphop und Pop. Zum Runterkommen, Draufkommen und sowieso gut in den neuen Tag kommen.",
+		"ChannelName": "PULS",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hochfahren",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Early Bird, Langschläfer oder gerade auf dem Weg zur nächsten After Hour? Mit uns startet ihr gut in den Morgen. Wir fahren gemeinsam mit euch hoch, checken die Topstories auf unserer Timeline und erzählen die Geschichten, die euch durch den Tag bringen. Kaffee gibt' s bei uns natürlich auch.",
+		"ChannelName": "PULS",
+		"Start": "2018-09-12T07:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Freundeskreis",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Funkt euch rein in den Freundeskreis. Die Sendung zum Anfassen und Mitreden. Schickt uns eure Kommentare, Videos, Fotos oder Votes! Dazu braucht ihr nur unsere deinPULS App auf eurem Smartphone. Außerdem gibt's jeden Tag feine neue Musik aus Bayern, Updates aus aller Welt und Typen wie den Grantler.",
+		"ChannelName": "PULS",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Filter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Plattenbau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Spätschicht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

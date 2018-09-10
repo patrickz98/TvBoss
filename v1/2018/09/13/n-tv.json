@@ -1,0 +1,662 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T00:00:00+02:00",
+		"Stop": "2018-09-13T00:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brennpunkt Bahn: Die Hightech-Jäger",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Buntmetalldiebe machen der Deutschen Bahn das Leben schwer. Nun hat das Unternehmen den Verbrechern eine Sondereinheit von Deutscher Bahn und Bundespolizei entgegengestellt. Mithilfe künstlicher DNA wurden ganz neue Methoden bei der Verbrechensbekämpfung eingeführt. Die Dokumentation blickt hinter die Fassaden der Instandhaltungsanlagen und in die verborgenen Räume der Sicherheitszentrale von Europas größtem Bahn-Drehkreuz.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T00:10:00+02:00",
+		"Stop": "2018-09-13T01:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rekord! Die stärksten Baufahrzeuge der Welt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Mittwoch, 20:15 Uhr. Planierraupen, Bagger und Lastwagen wurden dazu gebaut, sprichwörtlich ganze Berge zu versetzen. Die starken Maschinen müssen täglich Tonnen von Erdreich transportieren. Auch steiniges Gelände darf kein Hindernis darstellen. Die Dokumentation macht sich auf die Suche nach der stärksten, schwersten und größten Baumaschine. Wer wird das Rennen machen? Die infrage kommenden Kandidaten sind über die ganze Welt verteilt.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T01:05:00+02:00",
+		"Stop": "2018-09-13T01:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rekord! Die größten Schiffe der Welt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Mittwoch, 21:05 Uhr. Schiffe gehören zu den ältesten Transportmitteln, die von Menschen gebaut wurden. Bis heute wird 90 Prozent des weltweiten Handelsverkehrs auf dem Seeweg bestritten. Die Ozeangiganten müssen mehr als einmal an ihre Belastungsgrenzen gehen. Doch welches Schiff ist der unbestrittene König der Seefahrt? Wer transportiert die größte Fracht und ist am schnellsten? Die Dokumentation geht diesen Fragen nach.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T01:45:00+02:00",
+		"Stop": "2018-09-13T02:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Flugzeug-Katastrophen - Verhängnisvolles Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Mittwoch, 22:10 Uhr. Ein Flugzeugabsturz ist immer ein tragisches Unglück und kostet meist viele Menschenleben. Gewitter, starker Wind oder Schneestürme - nicht zuletzt können auch extreme Witterungsbedingungen Flugzeugen zum Verhängnis werden. Kann das Wetter wirklich dafür sorgen, dass ein Flugzeug abstürzt? Die Dokumentation gibt eine erschreckende Antwort auf diese Frage.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T02:30:00+02:00",
+		"Stop": "2018-09-13T03:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Flugzeug-Katastrophen - Wenn Technik versagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Mittwoch, 23:05 Uhr. Flugzeugunglücke können verschiedene Ursachen haben. Wenn Flugzeuge allerdings von ihrer geplanten Route abkommen und auf dramatische Weise gegen Berge prallen oder ins Meer stürzen, sind das besonders tragische Ereignisse. Welche Fehler können passieren? Die Dokumentation zeigt, dass auch die beste Technik einmal versagen kann.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T03:10:00+02:00",
+		"Stop": "2018-09-13T03:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brennpunkt Bahn: Die Hightech-Jäger",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Buntmetalldiebe machen der Deutschen Bahn das Leben schwer. Nun hat das Unternehmen den Verbrechern eine Sondereinheit von Deutscher Bahn und Bundespolizei entgegengestellt. Mithilfe künstlicher DNA wurden ganz neue Methoden bei der Verbrechensbekämpfung eingeführt. Die Dokumentation blickt hinter die Fassaden der Instandhaltungsanlagen und in die verborgenen Räume der Sicherheitszentrale von Europas größtem Bahn-Drehkreuz.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T03:55:00+02:00",
+		"Stop": "2018-09-13T04:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Moscheen hinter dem Schleier",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Dienstag, 22:10 Uhr. Kinder werden zum Hass erzogen, ein Scharia-Rat vermittelt bei Streit zwischen Mitgliedern, geltendes Gesetz spielt keine Rolle: Was zwei Reporter bei ihren Recherchen in acht großen Moscheen in Dänemark aufdecken, erschreckt. Denn in den Gemeinden geht es längst nicht so moderat zu wie gedacht. Die Dokumentation zeigt versteckte Aufnahmen eines vermeintlichen Flüchtlingspaares und offenbart eine ungeahnt radikale Parallelgesellschaft.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T04:35:00+02:00",
+		"Stop": "2018-09-13T05:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Bräute Allahs",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Dienstag, 23:05 Uhr. Kämpferinnen des Terrors: Warum radikalisieren sich junge Frauen? Was bewegt sie dazu, durch Selbstmordattentate Hunderte Menschen in den Tod zu reißen? Die Antwort können nur Frauen wie Sarema Musachojewa geben, denn die 'Schwarze Witwe' überlebte ihr in Moskau geplantes Attentat. Die Dokumentation gibt seltene Einblicke in das Seelenleben dieser Frauen und zeigt, wie durch Manipulation Mörderinnen aus ihnen werden.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T05:15:00+02:00",
+		"Stop": "2018-09-13T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T06:00:00+02:00",
+		"Stop": "2018-09-13T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T06:05:00+02:00",
+		"Stop": "2018-09-13T06:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T06:20:00+02:00",
+		"Stop": "2018-09-13T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T06:30:00+02:00",
+		"Stop": "2018-09-13T06:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T06:40:00+02:00",
+		"Stop": "2018-09-13T06:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T06:50:00+02:00",
+		"Stop": "2018-09-13T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T07:00:00+02:00",
+		"Stop": "2018-09-13T07:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T07:10:00+02:00",
+		"Stop": "2018-09-13T07:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T07:30:00+02:00",
+		"Stop": "2018-09-13T07:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T07:40:00+02:00",
+		"Stop": "2018-09-13T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T08:00:00+02:00",
+		"Stop": "2018-09-13T08:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T08:10:00+02:00",
+		"Stop": "2018-09-13T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T08:30:00+02:00",
+		"Stop": "2018-09-13T08:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T08:40:00+02:00",
+		"Stop": "2018-09-13T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T09:00:00+02:00",
+		"Stop": "2018-09-13T09:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T09:10:00+02:00",
+		"Stop": "2018-09-13T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T09:30:00+02:00",
+		"Stop": "2018-09-13T09:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T09:40:00+02:00",
+		"Stop": "2018-09-13T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T10:00:00+02:00",
+		"Stop": "2018-09-13T10:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T10:10:00+02:00",
+		"Stop": "2018-09-13T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T10:30:00+02:00",
+		"Stop": "2018-09-13T10:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T10:40:00+02:00",
+		"Stop": "2018-09-13T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T11:00:00+02:00",
+		"Stop": "2018-09-13T11:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T11:10:00+02:00",
+		"Stop": "2018-09-13T11:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T11:30:00+02:00",
+		"Stop": "2018-09-13T11:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T11:40:00+02:00",
+		"Stop": "2018-09-13T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T12:00:00+02:00",
+		"Stop": "2018-09-13T12:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T12:10:00+02:00",
+		"Stop": "2018-09-13T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "News Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T12:30:00+02:00",
+		"Stop": "2018-09-13T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T13:00:00+02:00",
+		"Stop": "2018-09-13T13:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T13:10:00+02:00",
+		"Stop": "2018-09-13T13:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "News Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T13:30:00+02:00",
+		"Stop": "2018-09-13T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T14:00:00+02:00",
+		"Stop": "2018-09-13T14:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T14:10:00+02:00",
+		"Stop": "2018-09-13T14:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "News Reportage: Marode Meiler",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "In Deutschland sind noch sieben Atomkraftwerke in Betrieb. In drei Jahre werden sie endgültig vom Netz genommen. Wie steht es um die Sicherheit der Atommeiler?",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T14:30:00+02:00",
+		"Stop": "2018-09-13T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T15:00:00+02:00",
+		"Stop": "2018-09-13T15:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ratgeber - Hightech",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Mittwoch, 18:35 Uhr. Moderation: Carola Ferstl+ Hotspots: So kommen Sie einfach überall ins Netz + Sicher im Netz: So wird das Handy zum Spion + Immobilien-Apps: Mit diesen Programmen schneller ins neue zu Hause",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T15:20:00+02:00",
+		"Stop": "2018-09-13T15:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T15:40:00+02:00",
+		"Stop": "2018-09-13T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T16:00:00+02:00",
+		"Stop": "2018-09-13T16:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T16:15:00+02:00",
+		"Stop": "2018-09-13T16:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "News Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T16:30:00+02:00",
+		"Stop": "2018-09-13T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T17:00:00+02:00",
+		"Stop": "2018-09-13T17:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T17:15:00+02:00",
+		"Stop": "2018-09-13T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "News Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die News Spezials beleuchten ein wichtiges Nachrichten-Thema umfangreich und von allen Seiten. Korrespondenten, Politiker und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T17:30:00+02:00",
+		"Stop": "2018-09-13T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T18:00:00+02:00",
+		"Stop": "2018-09-13T18:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T18:20:00+02:00",
+		"Stop": "2018-09-13T18:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ratgeber - Test",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Moderation: Torsten Knippertz+ Supermärkte im Test: Bester Service, beste Preise + Trainings-Booster: Was taugen die angeblichen Fitness-Pusher? + Bankschließfächer: Stahlfach für Schätze  + Basmati-Reis: Wie gesund ist der Reis?",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T18:35:00+02:00",
+		"Stop": "2018-09-13T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T19:00:00+02:00",
+		"Stop": "2018-09-13T19:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "n-tv Wissen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wiederholung vom Samstag, 19:10 Uhr. Moderation: Jule Gölsdorf+ Spitzenreiter in luftiger Höhe: Achterbahn Hochbau + Geheimnis des Klangs: Der Holzkohle Test + High-Speed UFOs fürs Wasser  + Urkäse: Die unterirdische Käse Fabrik + Der erste Pizza Roboter Deutschlands + Gefährliche Rennen in der Steinwüste",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T19:10:00+02:00",
+		"Stop": "2018-09-13T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T20:00:00+02:00",
+		"Stop": "2018-09-13T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Safari-Paparazzi: Wildlife pur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mit viel Glück erhält man während eines Afrika-Urlaubs einen Einblick in die Tierwelt des Kontinents. In dieser Dokumentation gibt es die besten Bilder zu sehen, die je von Urlaubern gemacht worden sind. Sie zeigen unter anderem, dass Raubtiere bei der Auswahl ihrer Beute scheinbar nicht wählerisch sind. Doch wenn sich in einem Gebiet zu viele Löwen aufhalten und die Konkurrenz wächst, müssen auch sie erfinderisch werden.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T20:15:00+02:00",
+		"Stop": "2018-09-13T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Safari-Paparazzi - Wildlife pur (2)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Begegnung mit Tieren in freier Wildbahn versetzt Touristen oftmals in Aufregung, denn nicht selten überraschen Wildtiere durch ihre aufsehenerregenden Verhaltensweisen. Wen erstaunt es nicht, wenn Löwen ihre Beute aus dem Boden ausgraben oder wenn ein Hund einen Sibirischen Tiger hütet? Die Dokumentation zeigt spannende Aufnahmen, die begleitet werden von den Kommentaren des Kölner Zoodirektors Theo Pagel.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T21:05:00+02:00",
+		"Stop": "2018-09-13T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T22:00:00+02:00",
+		"Stop": "2018-09-13T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Telebörse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die 'Mutter aller Börsensendungen' informiert über das Wirtschaftsgeschehen und die wichtigsten Themen des Tages. Ob Aktien-, Renten- oder Devisen-Märkte: die n-tv Börsenreporter in Frankfurt und New York haben für n-tv das Geschehen der Finanzmärkte im Blick. Analysten und Experten geben ihre Einschätzungen ab.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T22:05:00+02:00",
+		"Stop": "2018-09-13T22:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fight Club der Tiere - Unterschätzte Helden",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Was passiert eigentlich, wenn einige der besten Kämpfer des Tierreichs mit Krallen und Zähnen aufeinander losgehen? Naturfilmer haben die actionreichen Auseinandersetzungen festgehalten und sorgen für überraschende Erkenntnisse: Denn es zeigt sich, dass am Ende häufig das Tier siegreich aus dem Kampf hervorgeht, von dem man es nicht erwartet hätte. Die Dokumentation wirft einen neuen Blick auf die kämpferischen Fähigkeiten einiger Tiere.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T22:10:00+02:00",
+		"Stop": "2018-09-13T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "n-tv informiert über die aktuellen Top-Themen des Tages, zeigt die wichtigsten Entwicklungen auf der ganzen Welt, liefert Hintergründe und Einschätzungen und fasst zusammen, was die Menschen bewegt. Immer wieder sind Experten und Politiker im Studio oder zugeschaltet, die die Nachrichtenlage kommentieren und einordnen.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T23:00:00+02:00",
+		"Stop": "2018-09-13T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fight Club der Tiere - Tödliche Missionen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Wildnis hält die ganze Bandbreite bizarrer Überlebenskämpfe parat. Die Aufnahmen der Naturfilmer liefern spannende Einblicke in das Verhalten eiskalt agierender Killer: Einige von ihnen lauern mit ihren scharfen Krallen und spitzen Zähnen im Hinterhalt, andere schlagen mit ihren tödlichen Waffen direkt zu. Die Dokumentation zeigt, wie facettenreich die Grausamkeiten der Natur und ihrer Bewohner sind.",
+		"ChannelName": "n-tv",
+		"Start": "2018-09-13T23:05:00+02:00",
+		"Stop": "2018-09-14T00:00:00+02:00",
+		"Info": {}
+	}
+]

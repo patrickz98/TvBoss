@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-14T06:00:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Hier und heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-14T14:00:00+02:00",
+		"Stop": "2018-09-14T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Ab ins Wochenende - Die 70er/80er Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-14T18:00:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Musik zum Träumen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

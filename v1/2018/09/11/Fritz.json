@@ -1,0 +1,122 @@
+[
+	{
+		"Title": "Nightflight",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Simon Dörner",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nightflight (Wdhl.)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T02:00:00+02:00",
+		"Stop": "2018-09-11T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Soundgarden",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Musik non stop",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T04:00:00+02:00",
+		"Stop": "2018-09-11T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radiofritzen am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Von 5 bis 10 Uhr gibt es hier die neueste Musik, Nachrichten, was zum Lachen, die wichtigen Themen des Tages und die bestaussehendsten Radiogesichter! Und auch sonst viel Hübsches.",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T05:00:00+02:00",
+		"Stop": "2018-09-11T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Soundgarden am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Neueste Musik, neue Künstler \u0026 Popnews",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T10:00:00+02:00",
+		"Stop": "2018-09-11T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "High Noon",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Talksendung auf Fritz am Mittag",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T12:00:00+02:00",
+		"Stop": "2018-09-11T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Soundgarden am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Neueste Musik, neue Künstler \u0026 Popnews",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T13:00:00+02:00",
+		"Stop": "2018-09-11T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radiofritzen am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Ab 15 Uhr holen Euch die Fritzen ab! Dann gibt es alles, was den Tag interessant macht: Events, Infos und natürlich Themen, die Euch und uns gerade durch den Kopf wabern.",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T15:00:00+02:00",
+		"Stop": "2018-09-11T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MeinFritz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Sendung zu unserer Fritz App und fritz.de für Musikwünsche.",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T19:00:00+02:00",
+		"Stop": "2018-09-11T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Beste Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Claudia Kamieth",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T20:00:00+02:00",
+		"Stop": "2018-09-11T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Blue Moon",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Talkrunde auf Fritz vor Mitternacht",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T22:00:00+02:00",
+		"Stop": "2018-09-11T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Late Line",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-11T23:00:00+02:00",
+		"Stop": "2018-09-12T00:00:00+02:00",
+		"Info": {}
+	}
+]

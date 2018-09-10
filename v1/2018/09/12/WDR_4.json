@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T06:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Hier und heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T14:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Ab in den Feierabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Legenden",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T21:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Musik zum Träumen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

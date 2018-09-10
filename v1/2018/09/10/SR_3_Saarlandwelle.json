@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "Region am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "16:30 - 16:31 SR 3 Schlagzeilen um halb",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T16:04:00+02:00",
+		"Stop": "2018-09-10T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten/Regionalnachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T17:00:00+02:00",
+		"Stop": "2018-09-10T17:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 3 - Der Feierabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "17:30 - 17:31 SR 3 Schlagzeilen um halb18:00 - 18:10 SR 3 - Rundschau18:30 - 18:31 SR 3 Schlagzeilen um halb19:00 - 19:04 Nachrichten",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T17:04:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T20:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Deutsch pur21:00 - 21:04 Nachrichten",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T20:04:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bis Mitternacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "23:00 - 23:04 Nachrichten",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-10T22:05:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

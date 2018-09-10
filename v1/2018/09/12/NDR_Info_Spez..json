@@ -1,0 +1,242 @@
+[
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Seewetterbericht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T00:05:00+02:00",
+		"Stop": "2018-09-12T00:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die ARD Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Halbstündlich Nachrichten, viertelstündlich Wetter und Verkehr sowie Berichte und Reportagen zu aktuellen Ereignissen. Dazu Sport, Wirtschaft und Kultur.",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T00:25:00+02:00",
+		"Stop": "2018-09-12T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR Info",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Nachrichten im Viertelstundentakt",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T06:00:00+02:00",
+		"Stop": "2018-09-12T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Seewetterbericht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T08:30:00+02:00",
+		"Stop": "2018-09-12T08:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR Info",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Nachrichten im Viertelstundentakt",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T08:50:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mittagsecho",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T13:05:00+02:00",
+		"Stop": "2018-09-12T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "COSMO - Das junge europäische Kulturradio auf NDR Info Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Vielfältige Themen aus unterschiedlichen Ländern und ein internationaler Musikmix präsentiert von zwei ModeratorenÜbernahme vom WDR",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T14:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bundestagsübertragung",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "COSMO - Das junge europäische Kulturradio auf NDR Info Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T16:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "COSMO - Das junge europäische Kulturradio auf NDR Info Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Zeitzeichen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T20:15:00+02:00",
+		"Stop": "2018-09-12T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Forum - Themenabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T20:30:00+02:00",
+		"Stop": "2018-09-12T20:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Standpunkte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T20:50:00+02:00",
+		"Stop": "2018-09-12T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T21:00:00+02:00",
+		"Stop": "2018-09-12T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Redezeit - Themenabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T21:05:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Seewetterbericht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T22:05:00+02:00",
+		"Stop": "2018-09-12T22:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Play Jazz!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T22:25:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-12T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachtclub Magazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T23:05:00+02:00",
+		"Stop": "2018-09-12T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR Info Spez.",
+		"Start": "2018-09-12T23:30:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

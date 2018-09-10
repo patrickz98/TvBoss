@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Morgenandacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T06:50:00+02:00",
+		"Stop": "2018-09-15T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Samstagmorgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T07:00:00+02:00",
+		"Stop": "2018-09-15T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Zwei",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T11:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Zwei",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fundsachen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sounds",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T19:00:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sounds in Concert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

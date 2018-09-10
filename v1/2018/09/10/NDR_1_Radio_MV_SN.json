@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "NDR 1 Radio MV - Der Tag ...",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Einfach besser informiert - Berichte und Reportagen aus MVInformationen und Service werden von Montag bis Freitag in der Zeit von 16 Uhr bis 19 Uhr präsentiert. Wir informieren Sie über alles, was zum Feierabend wichtig ist - kompakt, kompetent und auf den Punkt gebracht. Neben Nachrichten und Reportagen aus Deutschland und der Welt hören Sie die aktuellen Themen aus Ihrer Region. Dazu gibt es Spannendes aus der Kulturszene des Landes und Sportthemen. Halbstündlich Nachrichten, Wetter, Verkehr, Blitzer",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T16:00:00+02:00",
+		"Stop": "2018-09-10T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Kulturjournal",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Ausstellungen, Konzerte oder Premierenberichte - im Programm von NDR 1 Radio MV  gibt es viele interessante Sendungen aus dem Bereich Kultur. Montag bis Freitag ab 19.05 Uhr werden im Kulturjournal zeitgemäße Akzente gesetzt. Vom Premierenbericht bis zur Glosse - das Kulturjournal pflegt einen Kulturbegriff, der sich nicht nur am Staatstheater orientiert, sondern auch die Alltagskultur zur Kenntnis nimmt.",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T19:00:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Forum aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Zwischen 20.15 und 21.00 Uhr sendet NDR 1 Radio MV vertiefende Informationen und Hintergrundberichte im Wechsel mit aktuellen Ratgebersendungen - ob Landtagsdebatten, Reportagen aus Mecklenburg-Vorpommern oder Sendereihen wie \"Ortszeit regional\" oder \"Streiflichter aus Mecklenburg-Vorpommern\", \"Ostseemagazin\". Gründliche Recherche und Themenkompetenz sind die Markenzeichen dieser Reihen. \"Radio Pomerania\" sendet außerdem jeden letzten Mittwoch im Monat Berichte aus der deutsch-polnischen Grenzregion.",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T20:15:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Das Beste auf Deutsch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mit Karsten Stotko und Ihrer deutschsprachigen Lieblingsmusik. Einfach mehr Abwechslung, einfach die beste Musik.",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten und Wetter, halbstündlich Verkehr",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-10T23:30:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

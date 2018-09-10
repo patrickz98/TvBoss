@@ -1,0 +1,182 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T00:00:00+02:00",
+		"Stop": "2018-09-13T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T00:05:00+02:00",
+		"Stop": "2018-09-13T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T05:00:00+02:00",
+		"Stop": "2018-09-13T05:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T05:03:00+02:00",
+		"Stop": "2018-09-13T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten/Regionalnachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T09:00:00+02:00",
+		"Stop": "2018-09-13T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bunte Funkminuten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T09:05:00+02:00",
+		"Stop": "2018-09-13T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten/Regionalnachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T12:00:00+02:00",
+		"Stop": "2018-09-13T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Region am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T12:05:00+02:00",
+		"Stop": "2018-09-13T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 3 - Rundschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T13:00:00+02:00",
+		"Stop": "2018-09-13T13:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 3 - Kiosk",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T13:10:00+02:00",
+		"Stop": "2018-09-13T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten/Regionalnachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T16:00:00+02:00",
+		"Stop": "2018-09-13T16:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Region am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T16:04:00+02:00",
+		"Stop": "2018-09-13T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten/Regionalnachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T17:00:00+02:00",
+		"Stop": "2018-09-13T17:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 3 - Der Feierabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T17:04:00+02:00",
+		"Stop": "2018-09-13T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T20:00:00+02:00",
+		"Stop": "2018-09-13T20:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T20:04:00+02:00",
+		"Stop": "2018-09-13T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T22:00:00+02:00",
+		"Stop": "2018-09-13T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bis Mitternacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-13T22:05:00+02:00",
+		"Stop": "2018-09-14T00:00:00+02:00",
+		"Info": {}
+	}
+]

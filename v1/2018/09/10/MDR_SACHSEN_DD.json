@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sachsen und d i e Sachsen - Menschen, die man kennenlernen möchteNatur, die zum Erholen einlädtKultur, die neugierig machtWir haben von allem etwas - und dazu aktuelle Informationen und Serviceangebote aus allen sächsischen Regionen jeweils zur halben Stunde, Verkehrshinweise und ein Gespräch mit dem Wetterstudio gegen 17.15 Uhr.",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T13:08:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radioreport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T18:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Musikgeschichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Starten Sie mit Ihrer Lieblingsmusik in den Abend!",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T18:08:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aufgefallen - Das Kulturmagazin von MDR SACHSEN - Das Sachsenradio.",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gehörtes, Gesehenes, Gelesenes in Kritiken, Gesprächen, Porträts und Reportagen",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichtengesamtschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aufgefallen - Das Kulturmagazin von MDR SACHSEN - Das Sachsenradio.",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gehörtes, Gesehenes, Gelesenes in Kritiken, Gesprächen, Porträts und Reportagen",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T22:08:00+02:00",
+		"Stop": "2018-09-10T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-10T23:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

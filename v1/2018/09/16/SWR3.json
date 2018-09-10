@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "Luna",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sunrise - Die Frühshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T05:00:00+02:00",
+		"Stop": "2018-09-16T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Sonntagsshow - Best of New Pop Festival 2018",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T08:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Topthemen am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "PopUp",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T13:00:00+02:00",
+		"Stop": "2018-09-16T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Weltweit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T16:00:00+02:00",
+		"Stop": "2018-09-16T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Club - Pop and go",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-16T19:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]
