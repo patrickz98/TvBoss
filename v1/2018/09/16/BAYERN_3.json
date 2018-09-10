@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN 3",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "BAYERN 3 am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN 3",
+		"Start": "2018-09-16T05:00:00+02:00",
+		"Stop": "2018-09-16T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mehr Zeit für Menschen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN 3",
+		"Start": "2018-09-16T09:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schönes Wochenende - und DU mittendrin!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN 3",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schönes Wochenende - und DU mittendrin!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN 3",
+		"Start": "2018-09-16T16:00:00+02:00",
+		"Stop": "2018-09-16T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schönes Wochenende - und DU mittendrin!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN 3",
+		"Start": "2018-09-16T20:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

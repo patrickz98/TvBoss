@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Nachtkonzert - präsentiert von BR-KLASSIK",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T00:05:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Frühprogramm",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Konzert Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T10:00:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Intermezzo",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Das Werk",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Drive Time",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T16:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Programmübernahme von MDR KULTUR",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Musik zum Träumen (Nachtkonzert)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

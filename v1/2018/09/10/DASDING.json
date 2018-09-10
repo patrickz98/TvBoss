@@ -1,0 +1,42 @@
+[
+	{
+		"Title": "DASDING Dein Nachmittag mit Vivi oder Marci",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "14:00 - 14:03 DASDING Nachrichten15:00 - 15:03 DASDING Nachrichten16:00 - 16:03 DASDING Nachrichten17:00 - 17:03 DASDING Nachrichten",
+		"ChannelName": "DASDING",
+		"Start": "2018-09-10T14:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "DASDING - Dein Abend, Dein Update",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "18:00 - 18:03 DASDING Nachrichten19:00 - 19:03 DASDING Nachrichten",
+		"ChannelName": "DASDING",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "DASDING Play",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "DASDING",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "DASDING Sprechstunde",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "DASDING",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

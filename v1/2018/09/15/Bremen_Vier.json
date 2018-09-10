@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD-Popnacht (SWR3)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Vier Frei Haus",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Vier kommt rum!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-15T10:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kickt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Vier läuft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tanzt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

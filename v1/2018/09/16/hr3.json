@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Sonntag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Sonntagstalk in hr3",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-16T10:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Sonntag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 Chartshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-16T17:00:00+02:00",
+		"Stop": "2018-09-16T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "100pro Deutsch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-16T20:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

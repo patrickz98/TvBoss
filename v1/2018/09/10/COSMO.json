@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "COSMO",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T14:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Soundcheck",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Köln Radyosu",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radio Forum",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T20:30:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radio Colonia",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radio po-russki",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T21:30:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radio po polsku",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T22:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Al-Saut Al-Arabi",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T22:30:00+02:00",
+		"Stop": "2018-09-10T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schwarz zu blau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "bis 06:00 Uhr",
+		"ChannelName": "COSMO",
+		"Start": "2018-09-10T23:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

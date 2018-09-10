@@ -1,0 +1,142 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "1:00 - 1:03 Nachrichten2:00 - 2:03 Nachrichten3:00 - 3:03 Nachrichten4:00 - 4:03 Nachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T00:05:00+02:00",
+		"Stop": "2018-09-11T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T05:00:00+02:00",
+		"Stop": "2018-09-11T05:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Balser \u0026 Mark. Dein Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "5:30 - 5:31 Kurznachrichten6:00 - 6:04 Nachrichten6:30 - 6:31 Kurznachrichten7:00 - 7:04 Nachrichten7:30 - 7:31 Kurznachrichten8:00 - 8:04 Nachrichten8:30 - 8:31 Kurznachrichten8:57 - 8:59 Zwischenrufvon Christine Unrath, St. Wendel,Evangelische Kirche",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T05:03:00+02:00",
+		"Stop": "2018-09-11T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T09:00:00+02:00",
+		"Stop": "2018-09-11T09:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Vormittag im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "9:30 - 9:31 Kurznachrichten10:00 - 10:04 Nachrichten10:30 - 10:31 Kurznachrichten11:00 - 11:04 Nachrichten11:30 - 11:31 Kurznachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T09:04:00+02:00",
+		"Stop": "2018-09-11T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T12:00:00+02:00",
+		"Stop": "2018-09-11T12:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Mittag im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "12:30 - 12:31 Kurznachrichten13:00 - 13:10 SR 1 - Stand der DingeInformation am Mittag13:30 - 13:31 Kurznachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T12:04:00+02:00",
+		"Stop": "2018-09-11T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T14:00:00+02:00",
+		"Stop": "2018-09-11T14:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Hallo Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "14:30 - 14:31 Kurznachrichten15:00 - 15:04 Nachrichten15:30 - 15:31 Kurznachrichten16:00 - 16:04 Nachrichten16:30 - 16:31 Kurznachrichten17:00 - 17:04 Nachrichten17:30 - 17:31 Kurznachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T14:04:00+02:00",
+		"Stop": "2018-09-11T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T18:00:00+02:00",
+		"Stop": "2018-09-11T18:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Stand der Dinge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die wichtigsten Nachrichten des Tages18:30 - 18:31 Kurznachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T18:04:00+02:00",
+		"Stop": "2018-09-11T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T19:00:00+02:00",
+		"Stop": "2018-09-11T19:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Absolut Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "20:00 - 20:04 Nachrichten21:00 - 21:04 Nachrichten22:00 - 22:05 Nachrichten23:00 - 23:04 Nachrichten",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-11T19:04:00+02:00",
+		"Stop": "2018-09-12T00:00:00+02:00",
+		"Info": {}
+	}
+]

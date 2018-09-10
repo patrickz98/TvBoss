@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Nachtkonzert - präsentiert von BR-KLASSIK",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T00:05:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Frühprogramm",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Geistliche Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T09:00:00+02:00",
+		"Stop": "2018-09-16T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Das Sonntagskonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T10:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Intermezzo",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Das Werk",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T14:00:00+02:00",
+		"Stop": "2018-09-16T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Drive Time",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T16:00:00+02:00",
+		"Stop": "2018-09-16T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Programmübernahme von MDR KULTUR",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T19:30:00+02:00",
+		"Stop": "2018-09-16T22:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KLASSIK - Musik zum Träumen (Nachtkonzert)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KLASSIK",
+		"Start": "2018-09-16T22:30:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

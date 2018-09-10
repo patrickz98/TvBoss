@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Die ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T06:00:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T12:00:00+02:00",
+		"Stop": "2018-09-14T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T13:00:00+02:00",
+		"Stop": "2018-09-14T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T16:00:00+02:00",
+		"Stop": "2018-09-14T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T18:00:00+02:00",
+		"Stop": "2018-09-14T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Am Abend II",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 RP",
+		"Start": "2018-09-14T21:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

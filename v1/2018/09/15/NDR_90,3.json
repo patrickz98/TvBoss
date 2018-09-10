@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg \"Der Morgen\"",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Große Freiheit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T10:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Disco-Fever",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Traumhaft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

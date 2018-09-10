@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten und Wetter, halbstündlich Verkehr",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hellwach",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Hellwach-Moderatoren Susanne Neuß und Andreas Kuhnt sorgen im Wechsel für schwungvolles Aufstehen zwischen Ems und Elbe. Mit vielen aktuellen Informationen, spannenden und kuriosen Geschichten aus Niedersachsen und der Welt, guter Laune und natürlich den größten Hits aus 50 Jahren. Internationale Pop-Klassiker, deutsche Kult-Hits und die schönsten Oldies - einfach die beste Musik.Halbstündlich Nachrichten, regionale Informationen aus Niedersachsen und aktuelle Verkehrsinformationen schon vor den Nachrichten.",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Niedersachsen am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Egal ob bei der Arbeit, unterwegs oder zu Hause - Christiane Köller oder Michael Thürnau sorgen für gute Laune am Vormittag mit Reportagen über spannende Themen aus Niedersachsen, wie die Sterne stehen und mit dem regionalen Veranstaltungskalender. Stündlich Nachrichten, regionale Informationen aus Niedersachsen um halb und aktuelle Verkehrsinformationen schon vor den Nachrichten.",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T09:00:00+02:00",
+		"Stop": "2018-09-12T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Plattenkiste",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Plattenkiste - Hörer machen ein Musikprogramm. In der Sendung stellen sich Vereine oder Clubs vor - egal ob Bürogemeinschaft, Surfclub, Kegelverein oder Internetgruppe. Gäste plaudern live im NDR Studio - außerdem haben sie das Musikprogramm für die Stunde zusammengestellt.",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T12:00:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Niedersachsen am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mit Kerstin Werner oder Jens Krause geht es entspannt und gut gelaunt durch die Mittagsstunden: Die größten Pop-Songs, die schönsten Oldies, deutsche Kulthits, der kleine Erziehungsratgeber und interessante Reportagen aus Niedersachsen stehen auf dem Programm. Stündlich Nachrichten, regionale Informationen aus Niedersachsen um halb und aktuelle Verkehrsinformationen schon vor den Nachrichten.",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Niedersachsen am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Funkbilder",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Reden wir drüber",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Traumhaft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Nieders. HAN",
+		"Start": "2018-09-12T23:30:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

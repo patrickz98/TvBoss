@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Morgen Sachsen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MDR SACHSEN - Das Sachsenradio begleitet Sie mit einfach guter Musik, mit aktuellen Informationen und Berichten aus Politik, Kultur, Sport, Natur und Umwelt in den Tag.Jeweils zur vollen Stunde: NachrichtenJeweils zur halben Stunde: Regionalinformationen aus den Studios in Bautzen, Chemnitz, Dresden, Leipzig",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Hier bekommen Sie Rat für alle Lebenslagen, Tipps für die Freizeit und viel Musik.Unser spezieller Service für Sie:Dienstags: ExpertenratMittwochs: Gartensprechstunde / Tierarztsprechstunde im WechselDonnerstags:Hausarztsprechstunde 14-tägigFreitags:Tipps vom KfZ.-Meister 14-tägig",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radioreport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mit MDR SACHSEN - Das Sachsenradio Aktuell sind Sie immer auf dem Laufenden - mit Informationen, Berichten und Korrespondentengesprächen zum Zeitgeschehen",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T13:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sachsen und d i e Sachsen - Menschen, die man kennenlernen möchteNatur, die zum Erholen einlädtKultur, die neugierig machtWir haben von allem etwas - und dazu aktuelle Informationen und Serviceangebote aus allen sächsischen Regionen jeweils zur halben Stunde, Verkehrshinweise und ein Gespräch mit dem Wetterstudio gegen 17.15 Uhr.",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T13:08:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radioreport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T18:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Musikgeschichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T18:08:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hurra Sachsen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichtengesamtschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hurra Sachsen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T22:08:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

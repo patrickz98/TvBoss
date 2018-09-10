@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr3",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 Morningshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mit hr3 wird Aufstehen zum besten Teil des Tages! Denn jeden Morgen ab 5 Uhr kümmern sich Tobi Kämmerer und Tanja Rösner höchstpersönlich um Euren perfekten Start in den Tag.",
+		"ChannelName": "hr3",
+		"Start": "2018-09-11T05:00:00+02:00",
+		"Stop": "2018-09-11T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gut informiert und dazu Eure Lieblingssongs - so kommt Ihr mit hr3 durch den Vormittag!",
+		"ChannelName": "hr3",
+		"Start": "2018-09-11T09:30:00+02:00",
+		"Stop": "2018-09-11T13:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Kate Menzyk Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Kate Menzyk und Christian Kaempfert bringen Euch mit Euren Lieblingssongs gut durch den Nachmittag.",
+		"ChannelName": "hr3",
+		"Start": "2018-09-11T13:30:00+02:00",
+		"Stop": "2018-09-11T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Vorabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nur Eure Lieblingssongs - das ist der Abend in hr3!",
+		"ChannelName": "hr3",
+		"Start": "2018-09-11T17:30:00+02:00",
+		"Stop": "2018-09-11T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr3 am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nur Eure Lieblingssongs - das ist der Abend in hr3!",
+		"ChannelName": "hr3",
+		"Start": "2018-09-11T21:00:00+02:00",
+		"Stop": "2018-09-12T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Presseclub",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-17T00:05:00+02:00",
+		"Stop": "2018-09-17T00:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Presseclub - nachgefragt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-17T00:45:00+02:00",
+		"Stop": "2018-09-17T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-17T01:00:00+02:00",
+		"Stop": "2018-09-17T01:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bücher - Das WDR 5-Literaturmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-17T01:03:00+02:00",
+		"Stop": "2018-09-17T02:00:00+02:00",
+		"Info": {}
+	}
+]

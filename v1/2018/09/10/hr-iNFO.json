@@ -1,0 +1,142 @@
+[
+	{
+		"Title": "Aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Aktuelles, alle 20 Minuten Nachrichten, Wetter, Verkehr; dazwischen Hintergründe, Analysen, Meinungen",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T06:00:00+02:00",
+		"Stop": "2018-09-10T19:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T19:20:00+02:00",
+		"Stop": "2018-09-10T19:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Cybercrime - ein Podcast von hr-iNFO",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T19:25:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Tagesschau zum Hören",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Tag in Hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Wichtigste des Tages in 12 Minuten.",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T20:15:00+02:00",
+		"Stop": "2018-09-10T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T20:30:00+02:00",
+		"Stop": "2018-09-10T20:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wissenswert: Große Fragen und kleine Schritte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wissen für Neugierige, aktuelle Forschung und HintergründeWird wiederholt am 09.09.2018.",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T20:35:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuelles \u0026 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Hintergründe, Analysen, Meinungen",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T21:05:00+02:00",
+		"Stop": "2018-09-10T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T21:30:00+02:00",
+		"Stop": "2018-09-10T21:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wissenswert: Mit den Banken die Welt retten?",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wissen für Neugierige, aktuelle Forschung und HintergründeWird wiederholt am 09.09.2018.",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T21:35:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr2 - Der Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Tagesgeschehen um die Ecke gedacht",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T22:05:00+02:00",
+		"Stop": "2018-09-10T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-10T23:00:00+02:00",
+		"Stop": "2018-09-11T06:00:00+02:00",
+		"Info": {}
+	}
+]

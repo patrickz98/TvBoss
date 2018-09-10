@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "MDR JUMP Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die MDR JUMP Morningshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T05:00:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP Bei der Arbeit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T12:00:00+02:00",
+		"Stop": "2018-09-14T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die MDR JUMP Feierabendshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T14:00:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP am Abend - Die Themen des Tages",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP Am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sonntagmorgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Leute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T10:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um 12",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T13:00:00+02:00",
+		"Stop": "2018-09-16T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um 5",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T17:00:00+02:00",
+		"Stop": "2018-09-16T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Abend Rheinland-Pfalz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T18:00:00+02:00",
+		"Stop": "2018-09-16T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-16T20:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

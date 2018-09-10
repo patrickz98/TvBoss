@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 3 Saarlandwelle",
+		"Start": "2018-09-17T00:05:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	}
+]

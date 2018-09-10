@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "YOU FM Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-15T02:00:00+02:00",
+		"Stop": "2018-09-15T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Samstagmorgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-15T07:00:00+02:00",
+		"Stop": "2018-09-15T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Samstagmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-15T11:00:00+02:00",
+		"Stop": "2018-09-15T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Samstagnachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-15T15:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Samstagabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Press Play!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-16T01:00:00+02:00",
+		"Info": {}
+	}
+]

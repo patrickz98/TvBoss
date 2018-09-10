@@ -1,0 +1,312 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lange Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T00:05:00+02:00",
+		"Stop": "2018-09-15T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T03:00:00+02:00",
+		"Stop": "2018-09-15T03:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tonart",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T03:05:00+02:00",
+		"Stop": "2018-09-15T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T05:00:00+02:00",
+		"Stop": "2018-09-15T05:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aus den Archiven",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T05:05:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T06:05:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Im Gespräch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T09:05:00+02:00",
+		"Stop": "2018-09-15T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T11:00:00+02:00",
+		"Stop": "2018-09-15T11:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lesart",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T11:05:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9 - Der Tag mit ...",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T12:05:00+02:00",
+		"Stop": "2018-09-15T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T13:00:00+02:00",
+		"Stop": "2018-09-15T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Breitband",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T13:05:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T14:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rang 1",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T14:05:00+02:00",
+		"Stop": "2018-09-15T14:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Vollbild",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T14:30:00+02:00",
+		"Stop": "2018-09-15T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T16:00:00+02:00",
+		"Stop": "2018-09-15T16:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Echtzeit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T16:05:00+02:00",
+		"Stop": "2018-09-15T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T17:00:00+02:00",
+		"Stop": "2018-09-15T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9 kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T17:05:00+02:00",
+		"Stop": "2018-09-15T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tacheles",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T17:30:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Feature",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T18:05:00+02:00",
+		"Stop": "2018-09-15T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T19:00:00+02:00",
+		"Stop": "2018-09-15T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Oper",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T19:05:00+02:00",
+		"Stop": "2018-09-15T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die besondere Aufnahme",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T21:30:00+02:00",
+		"Stop": "2018-09-15T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T23:00:00+02:00",
+		"Stop": "2018-09-15T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fazit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Kultur",
+		"Start": "2018-09-15T23:05:00+02:00",
+		"Stop": "2018-09-15T23:59:00+02:00",
+		"Info": {}
+	}
+]

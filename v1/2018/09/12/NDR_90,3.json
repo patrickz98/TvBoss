@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten und Wetter, halbstündlich Verkehr",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Halbstündlich NDR 90,3 Nachrichten, Wetter und Verkehr für Hamburg und um 9:30 Uhr Norichten op platt.",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich NDR 90,3 Nachrichten, Wetter und Verkehr für Hamburg.",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich NDR 90,3 Nachrichten, halbstündlich Wetter und Verkehr für Hamburg",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hamburg am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kulturjournal",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kulturjournal Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Plattdeutsches Hörspiel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T21:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 90,3",
+		"Start": "2018-09-12T23:30:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "YOU FM Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T01:00:00+02:00",
+		"Stop": "2018-09-16T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Sonntagmorgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T08:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Sonntagmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Sonntagnachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T16:00:00+02:00",
+		"Stop": "2018-09-16T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Dein Sonntagabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T18:00:00+02:00",
+		"Stop": "2018-09-16T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Sounds",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T21:00:00+02:00",
+		"Stop": "2018-09-16T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Night Voyage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T23:00:00+02:00",
+		"Stop": "2018-09-16T23:59:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-16T23:59:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	}
+]

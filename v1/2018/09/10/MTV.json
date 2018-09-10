@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "M is for Music",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T17:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Classics",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T19:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Most Wanted - Album Charts",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T19:20:00+02:00",
+		"Stop": "2018-09-10T20:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Catfish: the TV Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mit Max Joseph, Yaniv Schulman, Io Tillett Wright, u.a. * Max und iO Tillett Wright wollen der 18-jährigen Mecca dabei helfen, den Jungen zu treffen, den sie seit fünf Jahren liebt. Als iO herausfindet, dass Meccas Schatz mit ihren Fotos vermutlich andere hinters Licht führt, will Mecca Antworten.",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T20:10:00+02:00",
+		"Stop": "2018-09-10T21:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Catfish: the TV Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "USA 2017 * Mit Max Joseph, Yaniv Schulman * Nachdem Sandra erfahren hat, dass ihre Enkelin Yasmine ihrem Internet-Freund Geld geschickt hat, bittet sie Nev und Max um Hilfe. Während sie sich den Fall genauer anschauen, stellen sie fest, dass Yasmine noch so einiges verheimlicht hat.",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T21:10:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Jersey Shore: Family Vacation",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Kandidaten von \"Jersey Shore\" hatten sich geschworen, stets gemeinsam zu verreisen. Fünf Jahre, fünf Kinder, drei Ehen und unzählige Stylings später macht die Truppe nun gemeinsam Urlaub in einer Villa in Miami Beach.",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T22:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Jersey Shore: Family Vacation",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Kandidaten von \"Jersey Shore\" hatten sich geschworen, stets gemeinsam zu verreisen. Fünf Jahre, fünf Kinder, drei Ehen und unzählige Stylings später macht die Truppe nun gemeinsam Urlaub in einer Villa in Miami Beach.",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T22:55:00+02:00",
+		"Stop": "2018-09-10T23:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Jersey Shore",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Reality-Soap * Die beliebteste WG der Welt begibt sich auf einen ereignisreichen Trip nach Bella Italia!",
+		"ChannelName": "MTV",
+		"Start": "2018-09-10T23:50:00+02:00",
+		"Stop": "2018-09-11T00:40:00+02:00",
+		"Info": {}
+	}
+]

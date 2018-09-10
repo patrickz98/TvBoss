@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Radiogarten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten - Der Tag um 12",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T12:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Radiogarten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T12:10:00+02:00",
+		"Stop": "2018-09-15T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T13:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Fazit vom Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Party",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T19:00:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten - Der ganze Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-15T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Party",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T22:08:00+02:00",
+		"Stop": "2018-09-15T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-15T23:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

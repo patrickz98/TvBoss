@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "Die ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um Zwölf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW Regional um halb Eins",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T12:30:00+02:00",
+		"Stop": "2018-09-15T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Samstagnachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T13:00:00+02:00",
+		"Stop": "2018-09-15T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um Fünf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T17:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-15T21:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Die Rundschau am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit kompakten Informationen aus dem Land Bremen und der Welt sowie der Sportzeit",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T17:00:00+02:00",
+		"Stop": "2018-09-10T17:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Buntes und Unterhaltsames",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T17:10:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Grüße und Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Musikwünsche unserer Hörerinnen und Hörer.- Um 19.00 Uhr: Nachrichten, Wetter, VerkehrMöchten Sie einen netten Gruß verschicken, jemandem gratulieren oder sich selbst einfach einen Musikwunsch erfüllen? Rufen Sie an! 0421/24 66 22 (Anrufbeantworter, rund um die Uhr)",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T18:05:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T20:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Eins Live",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Eine Stunde Live-Songs, Mitschnitte von legendären Konzerten und spektakulären Festivals",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T20:05:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-10T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der musikalische Tagesausklang- Jeweils zur vollen Stunde: Nachrichten, Wetter, Verkehr- 23.30 Uhr: Bremen Eins - Der Tag",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-10T21:05:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

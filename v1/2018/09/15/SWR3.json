@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "Luna",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sunrise - Die Frühshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T05:00:00+02:00",
+		"Stop": "2018-09-15T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Vormittagsshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T08:00:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Topthemen am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Festivalradio",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T13:00:00+02:00",
+		"Stop": "2018-09-15T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Wochenendshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T16:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Festivalradio",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

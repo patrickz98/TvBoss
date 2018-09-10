@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "N-JOY Night Lab",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nacht wird zur Teststrecke für Talente und Ideen. Dazu stündlich die N-JOY News, Wetter und Verkehr.",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gemeinsam bringen Euch die jungen Radioprogramme der ARD durch die Nacht. Ihr hört viel Musik, Comedys, VIP-News und alles Wichtige, was ihr wissen müsst. Moderiert wird die junge Nacht von 1LIVE.Außerdem stündlich News, Wetter und Verkehr",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T02:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kuhlage \u0026 Hardeland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wenn ihr wach werdet, sind die Gewinner des Deutschen Radiopreises schon da!In ihrer Personality-Show servieren sie euch die ersten Lacher des Tages in den Comedys \"Die Postillon Hörfunknachrichten\", \"Der beste Tag der Welt\" und \"Die N-JOY Pisa Polizei\". Zockt im \"N-JOY Duell\" gegen die Moderatoren - oder gewinnt beim Berufe-Raten \"Und was machst du so?\" den begehrten Kuhlage-und-Hardeland-Kaffeebecher.Die wichtigsten Themen zum Mitreden gibt es jede Stunde in der N-JOY Timeline, dazu halbstündlich die N-JOY News und aktuelle Verkehrsinfos sowie das Wetter-Update im Viertelstundentakt.",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Vormittagsshow für die beste Musik und den meisten Spaß bei der Arbeit. William Cohn - der Mann mit der tiefsten Stimme der Welt - verrät euch auf schräge und bitterböse Art, warum heute der beste Tag der Welt ist. Dazu aktuelle Musik-News und die Themen des Tages. Ihr wollt mitreden? Ruft kostenlos im N-JOY-Studio an: 08000-11 77 66, mailt an studio@n-joy.de oder schickt uns eure Nachricht über den Messenger in der kostenlosen N-JOY App. Stündlich gibt es außerdem die N-JOY News, halbstündlich aktuelle Verkehrsinfos.",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T09:00:00+02:00",
+		"Stop": "2018-09-12T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Der Graf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Vorlaut statt vornehm bringt euch der N-JOY Graf durch die Mittagspause. Dazu die meisten Hits von heute, unsere Comedy \"N-JOY Pisapolizei\", das Neuste aus Multimedia, Sport und Kino sowie der N-JOY Eventcheck mit den besten Konzerten und Partys im Norden.Quatscht mit dem Grafen: Ruft kostenlos im N-JOY-Studio an: 08000-11 77 66, mailt an studio@n-joy.de oder schickt uns eure Nachricht über den Messenger in der kostenlosen N-JOY App.Stündlich gibt es außerdem die N-JOY News, halbstündlich aktuelle Verkehrsinfos.",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T12:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Mit Nina und dem Haacke",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY POP - Wir lieben neue Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY NEU - Musik abseits des Mainstream",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Club",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY LateLine mit Caro Korneli",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "\"NDR 1 Welle Nord - Der Nachmittag\" macht einfach gute Laune und bringt die wichtigsten Infos des Tages zu Ihnen nach Hause, ins Büro und auf dem Weg in den Feierabend. Dazu gibt es Promis im Studio, Schleswig-Holsteins zuverlässigstes Wetter und einen Moderator, der immer für eine Überraschung gut ist.Halbstündlich Nachrichten und Schleswig-Holstein Service, stündlich \"um halb\" regionales Wetter",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-10T14:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hits \u0026 Oldies",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sie sind auf dem Weg nach Hause oder Sie haben es sich bereits auf dem Sofa gemütlich gemacht: Egal, auf NDR 1 Welle Nord gibt es dazu den besten Musikmix - auch mal Hits, die Sie sonst nicht so oft im Radio hören. Wir spielen alles, was gute Laune macht!Halbstündlich Nachrichten und Schleswig-Holstein Service",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Von Binnenland und Waterkant",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Feierabend-Magazin für Schleswig-Holstein. Wir sind live dabei und sagen Ihnen, was gespielt wird - ob auf den Bühnen des Landes oder beim Spitzen-Handball in Kiel und Flensburg. Unsere Reporter sind unterwegs von Brunsbüttel bis Flensburg, von Geesthacht bis List. Wir berichten von Forschung und Wissenschaft und sind immer auf der Suche nach den interessantesten Schleswig-Holsteinern und ihren Geschichten.Immer montags von 21.05 bis 22.00 Uhr auf Plattdeutsch.Stündlich Nachrichten und halbstündlich Schleswig-Holstein Service",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten und Wetter, halbstündlich Verkehr",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-10T22:00:00+02:00",
+		"Stop": "2018-09-10T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR1 Welle Nord KI",
+		"Start": "2018-09-10T23:30:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

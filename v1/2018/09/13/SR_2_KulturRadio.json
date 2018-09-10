@@ -1,0 +1,172 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T00:00:00+02:00",
+		"Stop": "2018-09-13T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Nachtkonzert (BR)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T00:05:00+02:00",
+		"Stop": "2018-09-13T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T06:00:00+02:00",
+		"Stop": "2018-09-13T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 2 - Der Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T06:05:00+02:00",
+		"Stop": "2018-09-13T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T09:00:00+02:00",
+		"Stop": "2018-09-13T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ZeitZeichen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T09:05:00+02:00",
+		"Stop": "2018-09-13T09:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 2 - Der Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T09:20:00+02:00",
+		"Stop": "2018-09-13T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bilanz am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T12:30:00+02:00",
+		"Stop": "2018-09-13T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 2 - Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T13:00:00+02:00",
+		"Stop": "2018-09-13T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bilanz am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T17:30:00+02:00",
+		"Stop": "2018-09-13T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "AbendMusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T18:00:00+02:00",
+		"Stop": "2018-09-13T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Politisches Magazin (DLF)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T19:15:00+02:00",
+		"Stop": "2018-09-13T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T20:00:00+02:00",
+		"Stop": "2018-09-13T20:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mouvement",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T20:04:00+02:00",
+		"Stop": "2018-09-13T22:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Studio 9 kompakt (Dlf Kultur/SR)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T22:30:00+02:00",
+		"Stop": "2018-09-13T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten (Dlf Kultur)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T23:00:00+02:00",
+		"Stop": "2018-09-13T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fazit (Dlf Kultur)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 2 KulturRadio",
+		"Start": "2018-09-13T23:05:00+02:00",
+		"Stop": "2018-09-14T00:00:00+02:00",
+		"Info": {}
+	}
+]

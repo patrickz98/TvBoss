@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "SWR Aktuell am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T15:00:00+02:00",
+		"Stop": "2018-09-10T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell mit Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T18:00:00+02:00",
+		"Stop": "2018-09-10T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell - Wirtschaft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T18:30:00+02:00",
+		"Stop": "2018-09-10T18:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell Kontext",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Rechnung haben die Bürger bezahlt",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T18:40:00+02:00",
+		"Stop": "2018-09-10T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T19:00:00+02:00",
+		"Stop": "2018-09-10T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Arbeitsplatz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Moderation: Katha Jansen/ Redaktion: Uwe Bettendorf",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T19:05:00+02:00",
+		"Stop": "2018-09-10T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell Baden-Württemberg und Rheinland-Pfalz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T19:30:00+02:00",
+		"Stop": "2018-09-10T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T20:00:00+02:00",
+		"Stop": "2018-09-10T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Forum",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wofür steht Franz von Assisi? Es diskutieren: Dr. Gunnar Decker, freier Autor und Philosoph, Berlin Dr. Martina Kreidler-Kos, Lehrbeauftragte für Theologie der Spiritualität, Hochschule Münster Prof. Dr. Volker Leppin, Kirchenhistoriker, Universität Tübingen Gesprächsleitung: Holger Gohla",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T20:15:00+02:00",
+		"Stop": "2018-09-10T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-10T21:00:00+02:00",
+		"Stop": "2018-09-11T00:00:00+02:00",
+		"Info": {}
+	}
+]

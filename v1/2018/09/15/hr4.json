@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "ARD - Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T00:05:00+02:00",
+		"Stop": "2018-09-15T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T06:05:00+02:00",
+		"Stop": "2018-09-15T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Britta am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T10:05:00+02:00",
+		"Stop": "2018-09-15T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Britta am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T12:05:00+02:00",
+		"Stop": "2018-09-15T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hallo Heygen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T13:05:00+02:00",
+		"Stop": "2018-09-15T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Tanzparty",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T17:05:00+02:00",
+		"Stop": "2018-09-15T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr4 - Tanzparty",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr4",
+		"Start": "2018-09-15T21:05:00+02:00",
+		"Stop": "2018-09-16T00:05:00+02:00",
+		"Info": {}
+	}
+]

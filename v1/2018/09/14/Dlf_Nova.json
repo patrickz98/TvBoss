@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "Soundtrack",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hielscher oder Haase",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-14T06:30:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Grünstreifen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Update",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-14T18:00:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Eine Stunde",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-14T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ab 21",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-14T21:00:00+02:00",
+		"Stop": "2018-09-14T23:59:00+02:00",
+		"Info": {}
+	}
+]

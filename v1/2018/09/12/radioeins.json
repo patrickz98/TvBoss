@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "Experience",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "(Wdhl. von Mo.)",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T01:00:00+02:00",
+		"Stop": "2018-09-12T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Laut und Kantig",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "(Wdhl. von Mo.)",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T03:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der schöne Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Stefan Rupp und Christoph Azone oder Marco Seiffert und Tom Boettcher",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "10 bis 13 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "13 bis 16 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Pop-News, der CD der Wocheund Studiogästen",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "16 bis 19 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T16:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "19 bis 21 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Swagga",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T21:00:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Freistil",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-13T01:00:00+02:00",
+		"Info": {}
+	}
+]

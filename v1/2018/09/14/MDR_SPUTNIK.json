@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "SPUTNIK LateLine",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T01:00:00+02:00",
+		"Stop": "2018-09-14T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK TAG und WACH",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T05:00:00+02:00",
+		"Stop": "2018-09-14T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK - Dein Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T09:00:00+02:00",
+		"Stop": "2018-09-14T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK - Dein HAMMER Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T14:00:00+02:00",
+		"Stop": "2018-09-14T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK - Dein Tagesupdate",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T18:00:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Heimspiel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Black Beatz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]
