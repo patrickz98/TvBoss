@@ -1,7 +1,1103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c084583-3595-4dca-b21d-02b85bd2463f" name="Default Changelist" comment="" />
+    <list default="true" id="7c084583-3595-4dca-b21d-02b85bd2463f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/v1/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/1-2-3.tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/1-2-3.tv_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/3sat_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ANIXE_SD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/AlJaz_Balkan_AlJaz_(bos_ara).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Al_Jazeera_Int_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Arirang_Fashion_TV_(eng_spa).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Astro_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BBC_World_News_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/BVN_(dut).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Beate-Uhse.TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Bibel_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/CNN_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/COMEDY_CENTRAL_VIVA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Channel21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Channel_One_Russia_Worldwide_(rus).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Chillout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Classica.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/DELUXE_MUSIC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/DMAX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Deutsches_Musik_Fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Disney_Channel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Disney_Junior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Disney_XD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Eurosport_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Fox_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/France24_(fre).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/HSE24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/HSE24_EXTRA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/HSE24_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Heimatkanal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Junior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Juwelo_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/KiKA_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/LRT_Lituanica_GINX_TV_(lit_engl).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MEGA_Radio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/MTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/N24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/N24_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Nickelodeon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/PCNE_NTD_TV_(chi).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/PHOENIX_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ProSieben.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ProSieben_MAXX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/QVC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/QVC_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/QVC_PLUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/RTL_II.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/RTL_NITRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/RTLplus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Radio_Horeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Radio_Paloma.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Romance_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SAT.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SAT.1_Gold.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SONLife_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SPORT1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SUPER_RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/SYFY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ServusTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Atlantic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Select.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Select_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Select_Event_B.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Sport_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Sport_Austria.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Sport_Bundesliga_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Sport_News.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Sky_Sport_News_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/TELE_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/TLC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/TNT_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/TOGGO_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/TV_5_Monde_(fre).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/VOX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Welt_der_Wunder_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/Zee.One.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/arte_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/euronews.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr-fernsehen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/kabel_eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/kabel_eins_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/n-tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/radioB2_SCHLAGER.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/sixx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/10/zdf_neo_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/1-2-3.tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/1-2-3.tv_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/3sat_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ANIXE_SD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/AlJaz_Balkan_AlJaz_(bos_ara).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Arirang_Fashion_TV_(eng_spa).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Astro_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BBC_World_News_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/BVN_(dut).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Beate-Uhse.TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Bibel_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/CNN_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/COMEDY_CENTRAL_VIVA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Channel21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Channel_One_Russia_Worldwide_(rus).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Classica.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/DELUXE_MUSIC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/DMAX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Deutsches_Musik_Fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Disney_Channel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Disney_Junior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Disney_XD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Eurosport_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Fox_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/HSE24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/HSE24_EXTRA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/HSE24_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Heimatkanal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Junior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/KiKA_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/LRT_Lituanica_GINX_TV_(lit_engl).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/MTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/N24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/N24_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Nickelodeon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/PCNE_NTD_TV_(chi).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/PHOENIX_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ProSieben.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ProSieben_MAXX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/QVC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/QVC_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/QVC_PLUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/RTL_II.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/RTL_NITRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/RTLplus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Radio_Horeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Romance_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SAT.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SAT.1_Gold.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SONLife_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SPORT1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SUPER_RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/SYFY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ServusTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Atlantic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Select_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Select_Event_B.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Sport_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Sport_Austria.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Sport_Bundesliga_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Sport_News.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Sky_Sport_News_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/TELE_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/TLC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/TNT_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/TOGGO_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/TV_5_Monde_(fre).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/VOX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Welt_der_Wunder_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/Zee.One.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/arte_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr-fernsehen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/kabel_eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/kabel_eins_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/n-tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/sixx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/11/zdf_neo_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/1-2-3.tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/1-2-3.tv_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/3sat_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ANIXE_SD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/AlJaz_Balkan_AlJaz_(bos_ara).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Arirang_Fashion_TV_(eng_spa).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BBC_World_News_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/BVN_(dut).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Beate-Uhse.TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/CNN_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/COMEDY_CENTRAL_VIVA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Channel21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Channel_One_Russia_Worldwide_(rus).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Classica.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/DELUXE_MUSIC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/DMAX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Deutsches_Musik_Fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Disney_Channel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Disney_Junior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Disney_XD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Eurosport_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Fox_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/HSE24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/HSE24_EXTRA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/HSE24_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Heimatkanal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Junior.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/KiKA_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/LRT_Lituanica_GINX_TV_(lit_engl).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/MTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/N24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/N24_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Nickelodeon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/PCNE_NTD_TV_(chi).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/PHOENIX_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ProSieben.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ProSieben_MAXX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/QVC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/QVC_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/QVC_PLUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/RTL_II.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/RTL_NITRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/RTLplus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Radio_Horeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Romance_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SAT.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SAT.1_Gold.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SONLife_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SPORT1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SUPER_RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/SYFY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ServusTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Atlantic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Select_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Select_Event_B.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Sport_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Sport_Austria.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Sport_Bundesliga_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Sport_News.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Sky_Sport_News_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/TELE_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/TLC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/TNT_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/TOGGO_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/TV_5_Monde_(fre).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/VOX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Welt_der_Wunder_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/Zee.One.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/arte_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr-fernsehen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/kabel_eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/kabel_eins_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/n-tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/sixx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/12/zdf_neo_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/3sat_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BBC_World_News_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/BVN_(dut).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Beate-Uhse.TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/CNN_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/COMEDY_CENTRAL_VIVA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Channel21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Channel_One_Russia_Worldwide_(rus).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Classica.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/DELUXE_MUSIC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/DMAX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Disney_Channel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Disney_XD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Eurosport_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Fox_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Heimatkanal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/KiKA_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/MTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/N24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/N24_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Nickelodeon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/PCNE_NTD_TV_(chi).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/PHOENIX_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ProSieben.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ProSieben_MAXX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/QVC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/QVC_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/RTL_II.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/RTL_NITRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/RTLplus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Radio_Horeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Romance_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SAT.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SAT.1_Gold.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SONLife_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SPORT1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SUPER_RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/SYFY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ServusTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Sky_Atlantic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Sky_Select_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Sky_Sport_Austria.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Sky_Sport_News.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Sky_Sport_News_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/TELE_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/TLC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/TNT_Serie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/TOGGO_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/VOX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Welt_der_Wunder_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/Zee.One.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/arte_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr-fernsehen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/kabel_eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/kabel_eins_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/n-tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/sixx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/13/zdf_neo_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/3sat_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BBC_World_News_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/BVN_(dut).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/CNN_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/COMEDY_CENTRAL_VIVA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Channel_One_Russia_Worldwide_(rus).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/DELUXE_MUSIC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/DMAX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Disney_Channel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Eurosport_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/KiKA_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/MTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/N24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/N24_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Nickelodeon.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/PHOENIX_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ProSieben.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ProSieben_MAXX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/QVC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/QVC_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/RTL_II.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/RTL_NITRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/RTLplus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SAT.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SAT.1_Gold.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SONLife_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SPORT1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SUPER_RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ServusTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/TELE_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/TLC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/TOGGO_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/VOX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Welt_der_Wunder_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/Zee.One.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/arte_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr-fernsehen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/kabel_eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/kabel_eins_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/n-tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/sixx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/14/zdf_neo_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/3sat_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BBC_World_News_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/BVN_(dut).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/CNN_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/COMEDY_CENTRAL_VIVA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Channel_One_Russia_Worldwide_(rus).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Eurosport_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/KiKA_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/MTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/PHOENIX_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ProSieben.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ProSieben_MAXX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/QVC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/QVC_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/RTL_II.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/RTL_NITRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/RTLplus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SAT.1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SAT.1_Gold.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SONLife_(eng).json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SPORT1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SUPER_RTL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ServusTV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/TLC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/TOGGO_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/VOX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/Welt_der_Wunder_TV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/arte_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr-fernsehen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/kabel_eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/kabel_eins_Doku.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/n-tv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/15/zdf_neo_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Dlf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Dlf_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Dlf_Nova.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/KiKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/YOU_FM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/hr-iNFO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/16/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/1LIVE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/1LIVE_diGGi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/3sat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/ARD-alpha.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Antenne_Brandenburg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/B5_aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/B5_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/BAYERN_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/BAYERN_plus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/BR-KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/BR_Fernsehen_Süd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/BR_Fernsehen_Süd_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Bayern_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Bayern_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Bremen_Eins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Bremen_Vier.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Bremen_Zwei.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/COSMO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/DASDING.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Das_Erste.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Das_Erste_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Fritz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Inforadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/KIRAKA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/Kulturradio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_AKTUELL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_JUMP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_KLASSIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_KULTUR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_S-ANHALT_MD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_S-Anhalt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_SACHSEN_DD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_SPUTNIK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_Sachsen_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/MDR_THÜRINGEN_EF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/N-JOY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR1_Welle_Nord_KI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_1_Nieders._HAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_1_Radio_MV_SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_2_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_90,3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_FS_HH_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_FS_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_FS_NDS_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_Info_NDS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_Info_Spez..json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/NDR_Kultur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/ONE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/PHOENIX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/PULS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SR_1_Europawelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SR_2_KulturRadio.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SR_3_Saarlandwelle.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR1_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR1_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR4_BW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR4_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR_Aktuell.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR_Fernsehen_RP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/SWR_RP_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_2_Rheinland.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_Event.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_HD_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/WDR_Köln.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/ZDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/ZDF_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/ZDFinfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/arte.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/hr-fernsehen.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/hr1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/hr2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/hr3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/hr4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/radioBERLIN_88,8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/radioeins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/rbb_Berlin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/rbb_Berlin_HD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/tagesschau24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/2018/09/17/zdf_neo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/channel-index.json" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,30 +1124,35 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="2" />
-          <entry key="json" value="27" />
+          <entry key="gitignore" value="1" />
+          <entry key="go" value="3" />
+          <entry key="json" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="2" />
-          <entry key="JSON" value="27" />
+          <entry key="Go" value="3" />
+          <entry key="JSON" value="32" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="tsconfig" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="1567" />
+          <entry key="go" value="1600" />
+          <entry key="json" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="1567" />
+          <entry key="Go" value="1600" />
+          <entry key="JSON" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -66,14 +1167,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
-              <folding>
-                <element signature="e#14#73#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="366">
+              <caret line="95" column="12" lean-forward="true" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v1/default.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -84,19 +1191,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go Application" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>old</find>
+      <find>Das</find>
+      <find>zdf</find>
+      <find>RTL</find>
+      <find>Sat</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.11/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/v1/default.json" />
       </list>
     </option>
   </component>
@@ -112,12 +1228,12 @@
     <option name="width" value="1400" />
     <option name="height" value="865" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,10 +1241,16 @@
               <item name="TvBoss" type="b2602c69:ProjectViewProjectNode" />
               <item name="TvBoss" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TvBoss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TvBoss" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +1292,7 @@
     <frame x="103" y="49" width="1400" height="865" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,7 +1304,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" weight="0.32958803" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -206,136 +1328,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-11.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58097" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-10.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27976">
-          <caret line="2049" column="32" lean-forward="true" selection-start-line="2049" selection-start-column="32" selection-end-line="2049" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-17.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20723">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-12---n-tv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7873">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-12---Sky Atlantic.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-11---N24 Doku.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3818" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-13---N-JOY.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-14---BBC World News (eng).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8153">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-15---arte HD.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-15---arte.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-10---arte HD.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-17---ZDF.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-17---ZDF HD.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018-09-10---ARD-alpha.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data-old/2018/09/10/1-2-3.tv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="8" column="138" selection-start-line="8" selection-start-column="138" selection-end-line="8" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018/09/10/1-2-3.tv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018/09/12/arte.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1665">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018/09/11/arte_HD.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018/09/11/CNN_(eng).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/2018/09/11/Das_Erste.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/channel-index.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v1/channel-index.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2018-09-11.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-10.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-17.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-12---n-tv.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-12---Sky Atlantic.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-11---N24 Doku.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-13---N-JOY.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-14---BBC World News (eng).json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-15---arte HD.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-15---arte.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-10---arte HD.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-17---ZDF.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-17---ZDF HD.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018-09-10---ARD-alpha.json" />
+    <entry file="file://$PROJECT_DIR$/data-old/2018/09/10/1-2-3.tv.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018/09/10/1-2-3.tv.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018/09/12/arte.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018/09/11/arte_HD.json" />
+    <entry file="file://$PROJECT_DIR$/data/2018/09/11/CNN_(eng).json" />
+    <entry file="file://$PROJECT_DIR$/data/2018/09/11/Das_Erste.json" />
+    <entry file="file://$PROJECT_DIR$/channel-index.json" />
     <entry file="file://$PROJECT_DIR$/v1/2018/09/12/1LIVE.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="601">
@@ -346,13 +1359,31 @@
     <entry file="file://$PROJECT_DIR$/v1/2018/09/12/1LIVE_diGGi.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/channel-index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
-          <folding>
-            <element signature="e#14#73#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="366">
+          <caret line="95" column="12" lean-forward="true" selection-start-line="95" selection-start-column="12" selection-end-line="95" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/default.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
