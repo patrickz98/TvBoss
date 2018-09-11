@@ -1,0 +1,122 @@
+[
+	{
+		"Title": "MTV Uncensored",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T01:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Night Videos",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MTV spielt die besten und angesagtesten Clips _ all night long. Night Videos _ und die Nacht wird zum Tag!",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T01:30:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Breakfast Club",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der \"MTV Breakfast Club\" liefert die perfekten Clips zur morgendlichen Stunde _ schnelles Wachwerden garantiert.",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Classics",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T09:00:00+02:00",
+		"Stop": "2018-09-16T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Urban",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Musik mit Großstadtfeeling * Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T11:00:00+02:00",
+		"Stop": "2018-09-16T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Most Wanted - Ultimate Charts",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T13:00:00+02:00",
+		"Stop": "2018-09-16T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Most Wanted - German Charts",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T14:00:00+02:00",
+		"Stop": "2018-09-16T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "M is for Music",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Magazin",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T15:00:00+02:00",
+		"Stop": "2018-09-16T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Brand New",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sonstige",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T17:00:00+02:00",
+		"Stop": "2018-09-16T18:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MTV Top 100",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "(21) * Show",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T18:15:00+02:00",
+		"Stop": "2018-09-16T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "The Charlotte Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "(6) * Sonstige",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T20:15:00+02:00",
+		"Stop": "2018-09-16T21:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "The Charlotte Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "(7) * Sonstige",
+		"ChannelName": "MTV",
+		"Start": "2018-09-16T21:10:00+02:00",
+		"Stop": "2018-09-16T22:00:00+02:00",
+		"Info": {}
+	}
+]

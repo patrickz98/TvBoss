@@ -1,0 +1,122 @@
+[
+	{
+		"Title": "SWR 1 - Das Nachtprogramm auf Bremen Eins",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T05:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T05:05:00+02:00",
+		"Stop": "2018-09-15T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T10:00:00+02:00",
+		"Stop": "2018-09-15T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Eins am Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T10:05:00+02:00",
+		"Stop": "2018-09-15T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T13:00:00+02:00",
+		"Stop": "2018-09-15T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Beatclub",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T13:05:00+02:00",
+		"Stop": "2018-09-15T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T15:00:00+02:00",
+		"Stop": "2018-09-15T15:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Fußball-Bundesliga",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T15:05:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Grüße und Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T18:05:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-15T20:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Eins am Samstagabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Eins",
+		"Start": "2018-09-15T20:05:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

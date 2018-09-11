@@ -1,0 +1,32 @@
+[
+	{
+		"Title": "ZDF-History",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Deutschland 2011\"Davon haben wir nichts gewusst\", so lautete nach Kriegsende die deutsche Antwort auf Fragen nach dem Holocaust. \"ZDF-History\" rekonstruiert den Informationsstand der deutschen Bevölkerung.Ein kleiner fanatischer Kreis von Tätern habe den Judenmord unter strengster Geheimhaltung begangen. Von der historischen Forschung wurde diese Version inzwischen als kollektives Muster der Verdrängung entlarvt.Altersfreigabe: 6",
+		"ChannelName": "ZDFinfo",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T00:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "heute journal",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Themen liegen noch nicht vor",
+		"ChannelName": "ZDFinfo",
+		"Start": "2018-09-18T00:45:00+02:00",
+		"Stop": "2018-09-18T01:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nero",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Italien 2010Nero galt lange als der Wahnsinnige auf dem Kaiserthron, als der skrupellose Brandstifter, der Rom im Jahr 64 in Flammen aufgehen ließ. Mittlerweile zeichnen Historiker ein anderes Bild.Wer auch immer für den Brand der Ewigen Stadt verantwortlich zeichnete: Es war Nero, der sie wieder aufbaute. Und dieses neue Rom prägt das Bild der antiken Metropole bis heute.Altersfreigabe: 6",
+		"ChannelName": "ZDFinfo",
+		"Start": "2018-09-18T01:15:00+02:00",
+		"Stop": "2018-09-18T02:00:00+02:00",
+		"Info": {}
+	}
+]

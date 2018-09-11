@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "ARD-Popnacht (SWR3)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Vier läuft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Zebra Vier",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T08:00:00+02:00",
+		"Stop": "2018-09-16T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Vier läuft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T11:00:00+02:00",
+		"Stop": "2018-09-16T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Top44",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T13:00:00+02:00",
+		"Stop": "2018-09-16T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Vier läuft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T16:00:00+02:00",
+		"Stop": "2018-09-16T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Vorsicht, Völz!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Vier",
+		"Start": "2018-09-16T20:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,322 @@
+[
+	{
+		"Title": "Nachtmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Im Nachtmagazin werden die wichtigsten Ereignisse des abgelaufenen Tages noch einmal zusammengefasst. Zudem gibt es einen Ausblick auf die zu erwartenden Themen des nächsten Tages.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T01:00:00+02:00",
+		"Stop": "2018-09-13T01:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "extra 3",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Christian Ehring zeigt den Irrsinn der Woche, immer bissig, frech und witzig. Extra 3 - die einzige Satiresendung.Moderation: Christian Ehring",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T01:20:00+02:00",
+		"Stop": "2018-09-13T01:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Extra",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T01:50:00+02:00",
+		"Stop": "2018-09-13T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T02:00:00+02:00",
+		"Stop": "2018-09-13T02:02:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau vor 20 Jahren",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T02:02:00+02:00",
+		"Stop": "2018-09-13T02:17:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR THÜRINGEN JOURNAL",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Themen u.a.:* Getroffen: Straßen- und Verkehrskongress in Erfurt* Geerntet: Promis und ihre Kartoffeln* Gespielt: Music in motionModeration: Aline Thielmann",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T02:17:00+02:00",
+		"Stop": "2018-09-13T02:47:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Extra",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T02:47:00+02:00",
+		"Stop": "2018-09-13T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T03:00:00+02:00",
+		"Stop": "2018-09-13T03:02:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Landesschau Baden-Württemberg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Den Finger stets am Puls des Landes und seiner Menschen: Hintergrundinformationen zu aktuellen Themen im Zoom, Reportagen, interessante Gäste, die Regio News und vieles mehr - das ist die SWR Landesschau, von Montag bis Freitag, 18.45 Uhr im SWR Fernsehen. Aus sieben Studios berichten wir über alles, was in Baden-Württemberg geschieht.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T03:02:00+02:00",
+		"Stop": "2018-09-13T03:47:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Extra",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T03:47:00+02:00",
+		"Stop": "2018-09-13T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T04:00:00+02:00",
+		"Stop": "2018-09-13T04:02:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Jeden Abend gibt es von uns das Wichtigste aus Politik, Kultur, Wirtschaft und Sport, die Szene-Trends und die Kiezgeschichten. Kurz: \"Wir sind ein Berliner\" - Die ABENDSCHAU hat den Berlin-Blick: Nah an den Menschen und ihren Geschichten, rau aber herzlich. Immer um 19:30 Uhr. Egal wann etwas passiert, die ABENDSCHAU ist dabei.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T04:02:00+02:00",
+		"Stop": "2018-09-13T04:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "aktueller bericht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Was auch immer passiert, der AKTUELLE BERICHT ist einfach dichter dran - mit Reporterberichten, Nachrichtenfilmen, Meldungen, Kommentaren und der Meinung unserer Zuschauerinnen und Zuschauer. Diese können sich täglich mit ihren Fragen und Diskussionsbeiträgen direkt via Telefon an Experten im Studio wenden. Reporterinnen und Reporter sind ständig vor Ort, wenn es aktuelle Probleme gibt. Komplizierte Sachverhalte werden mit Fallstudien - also nah am Menschen - allgemeinverständlich dargestellt. Selbstverständlich kommt auch der Sport im Aktuellen Bericht zu seinem Recht.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T04:30:00+02:00",
+		"Stop": "2018-09-13T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T05:00:00+02:00",
+		"Stop": "2018-09-13T05:02:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T05:02:00+02:00",
+		"Stop": "2018-09-13T05:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ZDF-Morgenmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Für einen guten Start in den Tag",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T05:30:00+02:00",
+		"Stop": "2018-09-13T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau-Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News.Die Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T09:00:00+02:00",
+		"Stop": "2018-09-13T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "extra 3",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Christian Ehring zeigt den Irrsinn der Woche, immer bissig, frech und witzig. Extra 3 - die einzige Satiresendung.Moderation: Christian Ehring",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T09:30:00+02:00",
+		"Stop": "2018-09-13T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau-Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News.Die Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T10:00:00+02:00",
+		"Stop": "2018-09-13T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Plusminus",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Sendung vermittelt Hintergründe, deckt Missstände auf und bringt eine Vielzahl ganz konkreter Verbrauchertipps.Moderation: Pinar Atalay",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T10:30:00+02:00",
+		"Stop": "2018-09-13T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau-Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News.Die Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T11:00:00+02:00",
+		"Stop": "2018-09-13T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Mittagsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nach fast 30 Jahren in München sendet das Mittagsmagazin seit Januar 2018 direkt aus dem Herzen der deutschen Hauptstadt. In Berlin sind wir noch näher dran an der deutschen Politik - und das zeigen wir mit noch mehr Gesprächsgästen im Studio, Hintergründen und Reportagen.Ganz wie Sie es vom Mittagsmagazin gewohnt sind, versorgen wir Sie mit aktuellen Informationen, erklären Zusammenhänge und ordnen politische Entscheidungen ein.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T13:00:00+02:00",
+		"Stop": "2018-09-13T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau-Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Wichtigste aus Politik, Wirtschaft, Kultur, Sport und Wissenschaft. Korrespondenten der ARD sorgen für schnelle und präzise News.Die Tagesschau-Ausgaben zur vollen Stunde werden teilweise mit Videotext-Untertiteln ausgestrahlt.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T14:00:00+02:00",
+		"Stop": "2018-09-13T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Geheimnisvolle Orte: Die Schneekoppe",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die legendäre und schneesichere Region um die Schneekoppe im Riesengebirge ist das beliebteste Urlaubsziel der Deutschen in Polen und Tschechien. Bereits vor dem Ersten Weltkrieg avancierte die Region zum Ferienparadies der Berliner. Die damalige Zuganbindung war sensationell: Frühstück in Berlin - Kaffee auf der Schneekoppe.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T19:15:00+02:00",
+		"Stop": "2018-09-13T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T20:00:00+02:00",
+		"Stop": "2018-09-13T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Deutschtürken-Report",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Mesut Özil, Ausnahmefußballer und Enkel türkischer Gastarbeiter, galt Jahre lang als Musterbeispiel für gelungene Integration. Bis er und sein Teamkollege Ilkay Gündogan im Mai 2018 mit dem türkischen Präsidenten Recep Tayyip Erdogan posierten. Wie hält es der von Politik und Fans zum Vorbild stilisierte Özil mit Werten wie Menschenrechte und Meinungsfreiheit, will die Nation nun wissen. Spätestens seit dem frühzeitigen Aus Deutschlands bei der Fußballweltmeisterschaft in Russland nahm die Debatte an Schärfe zu. Die türkischstämmigen Fußballer wurden ausgepfiffen und sahen sich rassistischen Angriffen ausgesetzt.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T20:15:00+02:00",
+		"Stop": "2018-09-13T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T21:00:00+02:00",
+		"Stop": "2018-09-13T21:02:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Maischberger",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sandra Maischberger diskutiert mit Gästen aktuelle Themen, die gesellschaftlich relevant sind, von Schönheitswahn bis Rassismus - journalistisch, kontrovers, informativ und unterhaltend.Die Bandbreite bei Maischberger reicht von Politik, Gesellschaft und Boulevard bis Sport. Ihre Gäste sind Prominente, Fachleute und Betroffene.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T21:02:00+02:00",
+		"Stop": "2018-09-13T22:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Plusminus",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Sendung vermittelt Hintergründe, deckt Missstände auf und bringt eine Vielzahl ganz konkreter Verbrauchertipps.Moderation: Pinar Atalay",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T22:15:00+02:00",
+		"Stop": "2018-09-13T22:47:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Extra",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Extra wird täglich aktuell im Programm von tagesschau24 eingesetzt. Extra schließt Lücken und informiert den Zuschauer in kurzen aktuellen Filmen aus den Bereichen Politik, Wirtschaft und Gesellschaft. Extra gibt es nur bei tagesschau24.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T22:47:00+02:00",
+		"Stop": "2018-09-13T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesthemen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.Moderation: Ingo Zamperoni",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T23:00:00+02:00",
+		"Stop": "2018-09-13T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kontraste",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "KONTRASTE - das Hintergrundmagazin vom Rundfunk Berlin-Brandenburg. Kein Infotainment, keine Politikerphrasen. Geht den Dingen auf den Grund: neugierig und mit sorgfältiger Recherche. Bezieht Stellung und bringt Gegensätze auf den Punkt.",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-13T23:30:00+02:00",
+		"Stop": "2018-09-14T00:00:00+02:00",
+		"Info": {}
+	}
+]

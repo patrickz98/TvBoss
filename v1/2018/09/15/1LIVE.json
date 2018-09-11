@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "1LIVE Hip Hop Session",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T01:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Freddie Schürheck",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Franziska Niesar und Tilmann Köllner",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Marvin Fischer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Moving",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE DJ Session",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

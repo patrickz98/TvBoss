@@ -1,0 +1,42 @@
+[
+	{
+		"Title": "Asül für alle",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd HD",
+		"Start": "2018-09-18T00:15:00+02:00",
+		"Stop": "2018-09-18T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rundschau Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd HD",
+		"Start": "2018-09-18T01:00:00+02:00",
+		"Stop": "2018-09-18T01:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ringlstetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd HD",
+		"Start": "2018-09-18T01:10:00+02:00",
+		"Stop": "2018-09-18T01:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Dahoam is Dahoam (2187)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd HD",
+		"Start": "2018-09-18T01:55:00+02:00",
+		"Stop": "2018-09-18T02:25:00+02:00",
+		"Info": {}
+	}
+]

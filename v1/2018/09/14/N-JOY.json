@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Die N-JOY LateLine",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T01:00:00+02:00",
+		"Stop": "2018-09-14T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kuhlage \u0026 Hardeland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T05:00:00+02:00",
+		"Stop": "2018-09-14T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T09:00:00+02:00",
+		"Stop": "2018-09-14T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Der Graf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T12:00:00+02:00",
+		"Stop": "2018-09-14T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "N-JOY Mit Nina und dem Haacke",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T15:00:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Beste aus den deutschen Top 100",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die N-JOY Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "N-JOY",
+		"Start": "2018-09-14T23:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

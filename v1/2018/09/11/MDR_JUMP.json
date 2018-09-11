@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "MDR JUMP Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gute Unterhaltung, beste Musik, perfekter Service - das ist MDR JUMP. Alle Infos zum Programm: www.jumpradio.de. Dein kostenfreier Anruf ins MDR JUMP-Studio unter 0800-1232340",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die MDR JUMP Morningshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MDR JUMP-Morningshow: Die richtige Musik, um dir aus den Federn zu helfen. Nützliche Infos, die du brauchst, um gut in den Tag zu kommen: Verkehr, Wetter, Nachrichten. Comedy, die dir das erste Lachen des Tages schenkt. Und zwei Moderatoren, die dich einfach gut unterhalten. Das ist die MDR JUMP-Morningshow. So macht das Aufstehen Spaß!",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T05:00:00+02:00",
+		"Stop": "2018-09-11T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP Bei der Arbeit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gute Unterhaltung, beste Musik, perfekter Service - das ist MDR JUMP. Alle Infos zum Programm: www.jumpradio.de. Dein kostenfreier Anruf ins MDR JUMP-Studio unter 0800-1232340",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T10:00:00+02:00",
+		"Stop": "2018-09-11T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T12:00:00+02:00",
+		"Stop": "2018-09-11T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die MDR JUMP Feierabendshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MDR JUMP am Nachmittag - Die Feierabendshow",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T14:00:00+02:00",
+		"Stop": "2018-09-11T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP am Abend - Die Themen des Tages",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T19:00:00+02:00",
+		"Stop": "2018-09-11T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR JUMP Am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Gute Unterhaltung, beste Musik, perfekter Service - das ist MDR JUMP. Alle Infos zum Programm: www.jumpradio.de. Dein kostenfreier Anruf ins MDR JUMP-Studio unter 0800-1232340",
+		"ChannelName": "MDR JUMP",
+		"Start": "2018-09-11T20:00:00+02:00",
+		"Stop": "2018-09-12T00:00:00+02:00",
+		"Info": {}
+	}
+]

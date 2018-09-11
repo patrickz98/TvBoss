@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "SPUTNIK Heimspiel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T03:00:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Deine Lieblingsmusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Dein Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T08:00:00+02:00",
+		"Stop": "2018-09-16T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radio mit K / SPUTNIK Deine Lieblingsmusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T19:00:00+02:00",
+		"Stop": "2018-09-16T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Roboton - Wiederholung",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T21:00:00+02:00",
+		"Stop": "2018-09-16T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Soundcheck - Wiederholung",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T22:00:00+02:00",
+		"Stop": "2018-09-16T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SPUTNIK Black Beatz Wdh.",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-16T23:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

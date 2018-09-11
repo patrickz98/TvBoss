@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "HappySad",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T01:00:00+02:00",
+		"Stop": "2018-09-17T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kaleidoskop",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T03:00:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der schöne Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "10 bis 13 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "13 bis 16 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "16 bis 19 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "19 bis 21 Uhr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Laut und Kantig",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Experience",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-18T01:00:00+02:00",
+		"Info": {}
+	}
+]

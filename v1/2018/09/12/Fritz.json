@@ -1,0 +1,122 @@
+[
+	{
+		"Title": "Late Line",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nightflight",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "im Wechsel:EDMmit Selin GüngörElectro Remixmit Bruno Dietel",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T01:00:00+02:00",
+		"Stop": "2018-09-12T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nightflight (Wdhl.)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T03:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radiofritzen am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Von 5 bis 10 Uhr gibt es hier die neueste Musik, Nachrichten, was zum Lachen, die wichtigen Themen des Tages und die bestaussehendsten Radiogesichter! Und auch sonst viel Hübsches.",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Soundgarden am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Neueste Musik, neue Künstler \u0026 Popnews",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "High Noon",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Talksendung auf Fritz am Mittag",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T12:00:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Soundgarden am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Neueste Musik, neue Künstler \u0026 Popnews",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radiofritzen am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MeinFritz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Beste Musik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Blue Moon",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Late Line",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Fritz",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

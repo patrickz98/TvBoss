@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "Nachtmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-18T00:15:00+02:00",
+		"Stop": "2018-09-18T00:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tatort: Tiere der Großstadt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-18T00:35:00+02:00",
+		"Stop": "2018-09-18T02:08:00+02:00",
+		"Info": {}
+	}
+]

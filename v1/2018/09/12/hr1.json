@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD-Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1-Koschwitz am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Unsere Moderatoren bringen Sie gut informiert und mit der besten Musikmischung für Frühaufsteher in den Tag.",
+		"ChannelName": "hr1",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1 am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Alles, was den Alltag leichter und die Freizeit schöner macht. Hier kümmern wir uns um alle Bereiche Ihres Lebens. Fragen zu Partnerschaft und Familie, Psychologie und Lebensplanung. Wissenswertes und Nützliches sowie Trends aus Technik und Sport, Genuss und Lebensfreude.",
+		"ChannelName": "hr1",
+		"Start": "2018-09-12T09:00:00+02:00",
+		"Stop": "2018-09-12T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1 am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Wichtigste am Mittag mit den großen Gesprächsthemen von heute. Alles, was man wissen muss, um mitreden zu können. Mit Gesprächspartnern, die etwas zu sagen haben und \"unserem Thema des Tages\". Was bewegt in Hessen, was betrifft uns in Politik und Wirtschaft, was ist los im Sport? Hier erfahren Sie es - und werden zusätzlich gut unterhalten mit aktuellen Neuigkeiten aus unserer Musikredaktion und den \"hr1-Songstories\". Freitags zusätzlich mit den \"hr1-Wochenendtipps\", damit Sie wissen, was in Ihrer Region passiert.",
+		"ChannelName": "hr1",
+		"Start": "2018-09-12T12:00:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1 am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1-Lounge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

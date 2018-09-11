@@ -1,0 +1,42 @@
+[
+	{
+		"Title": "Bob Ross - The Joy of Painting",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T00:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-18T00:30:00+02:00",
+		"Stop": "2018-09-18T01:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-18T01:30:00+02:00",
+		"Stop": "2018-09-18T01:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-18T01:45:00+02:00",
+		"Stop": "2018-09-18T02:30:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "Soundtrack",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "06:00-06:03 Nachrichten",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hielscher oder Haase",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "06:30-06:33 Nachrichten07:00-07:03 Nachrichten07:30-07:33 Nachrichten08:00-08:03 Nachrichten08:30-08:33 Nachrichten09:00-09:03 Nachrichten09:30-09:33 Nachrichten",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-11T06:30:00+02:00",
+		"Stop": "2018-09-11T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Grünstreifen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "10:00-10:03 Nachrichten10:30-10:33 Nachrichten11:00-11:03 Nachrichten11:30-11:33 Nachrichten12:00-12:03 Nachrichten12:30-12:33 Nachrichten13:00-13:03 Nachrichten13:30-13:33 Nachrichten14:00-14:03 Nachrichten14:30-14:33 Nachrichten15:00-15:03 Nachrichten15:30-15:33 Nachrichten16:00-16:03 Nachrichten16:30-16:33 Nachrichten17:00-17:03 Nachrichten17:30-17:33 Nachrichten",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-11T10:00:00+02:00",
+		"Stop": "2018-09-11T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Update",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "18:00-18:03 Nachrichten19:00-19:03 Nachrichten",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-11T18:00:00+02:00",
+		"Stop": "2018-09-11T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Eine Stunde",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "20:00-20:03 Nachrichten",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-11T20:00:00+02:00",
+		"Stop": "2018-09-11T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ab 21",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "21:00-21:03 Nachrichten22:00-22:03 Nachrichten23:00-23:03 Nachrichten",
+		"ChannelName": "Dlf Nova",
+		"Start": "2018-09-11T21:00:00+02:00",
+		"Stop": "2018-09-11T23:59:00+02:00",
+		"Info": {}
+	}
+]

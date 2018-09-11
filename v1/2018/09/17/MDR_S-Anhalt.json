@@ -1,0 +1,402 @@
+[
+	{
+		"Title": "Kripo live",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T00:40:00+02:00",
+		"Stop": "2018-09-17T01:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Steimles Welt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T01:05:00+02:00",
+		"Stop": "2018-09-17T02:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sport im Osten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T02:35:00+02:00",
+		"Stop": "2018-09-17T03:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nah dran - Das Magazin für Lebensfragen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T03:15:00+02:00",
+		"Stop": "2018-09-17T03:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sachsen aus halber Höhe",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T03:45:00+02:00",
+		"Stop": "2018-09-17T04:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR SACHSENSPIEGEL",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T04:05:00+02:00",
+		"Stop": "2018-09-17T04:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR SACHSEN-ANHALT HEUTE",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T04:35:00+02:00",
+		"Stop": "2018-09-17T05:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR THÜRINGEN JOURNAL",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T05:05:00+02:00",
+		"Stop": "2018-09-17T05:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Unterwegs in Sachsen-Anhalt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T05:35:00+02:00",
+		"Stop": "2018-09-17T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sehen statt Hören",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T06:05:00+02:00",
+		"Stop": "2018-09-17T06:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Hubschrauber Cops (1)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T06:35:00+02:00",
+		"Stop": "2018-09-17T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T07:00:00+02:00",
+		"Stop": "2018-09-17T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sturm der Liebe (2996)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T08:00:00+02:00",
+		"Stop": "2018-09-17T08:48:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T08:48:00+02:00",
+		"Stop": "2018-09-17T08:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft - Die jungen Ärzte (103)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T08:50:00+02:00",
+		"Stop": "2018-09-17T09:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verrückt nach Meer (71)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T09:40:00+02:00",
+		"Stop": "2018-09-17T10:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Länder kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T10:28:00+02:00",
+		"Stop": "2018-09-17T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Elefant, Tiger \u0026 Co. (791)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T10:30:00+02:00",
+		"Stop": "2018-09-17T10:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T10:55:00+02:00",
+		"Stop": "2018-09-17T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR um 11",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T11:00:00+02:00",
+		"Stop": "2018-09-17T11:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft (711)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T11:45:00+02:00",
+		"Stop": "2018-09-17T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Alter Kahn und junge Liebe",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T12:30:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR um 2",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T15:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T15:13:00+02:00",
+		"Stop": "2018-09-17T15:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gefragt - Gejagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T15:15:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR um 4",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR um 4",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T16:30:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR um 4",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T17:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T17:45:00+02:00",
+		"Stop": "2018-09-17T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter für 3",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T18:05:00+02:00",
+		"Stop": "2018-09-17T18:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brisant",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T18:10:00+02:00",
+		"Stop": "2018-09-17T18:54:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Unser Sandmännchen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T18:54:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR SACHSEN-ANHALT HEUTE",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T19:30:00+02:00",
+		"Stop": "2018-09-17T19:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mach dich ran",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T19:50:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Polizeiruf 110: Todsicher",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T21:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T21:45:00+02:00",
+		"Stop": "2018-09-17T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fakt ist! Aus Magdeburg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T22:05:00+02:00",
+		"Stop": "2018-09-17T23:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T23:03:00+02:00",
+		"Stop": "2018-09-17T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Picknick mit Bären",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-Anhalt",
+		"Start": "2018-09-17T23:05:00+02:00",
+		"Stop": "2018-09-18T00:40:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,412 @@
+[
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 5 Quarks - Wissenschaft und mehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T00:05:00+02:00",
+		"Stop": "2018-09-14T01:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hörtipps",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T01:55:00+02:00",
+		"Stop": "2018-09-14T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T02:00:00+02:00",
+		"Stop": "2018-09-14T02:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Westblick - Das Landesmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T02:03:00+02:00",
+		"Stop": "2018-09-14T02:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Politikum - Das Meinungsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T02:45:00+02:00",
+		"Stop": "2018-09-14T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T03:00:00+02:00",
+		"Stop": "2018-09-14T03:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Funkhausgespräche",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T03:03:00+02:00",
+		"Stop": "2018-09-14T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T04:00:00+02:00",
+		"Stop": "2018-09-14T04:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Neugier genügt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T04:03:00+02:00",
+		"Stop": "2018-09-14T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T06:00:00+02:00",
+		"Stop": "2018-09-14T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Morgenecho",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T06:05:00+02:00",
+		"Stop": "2018-09-14T09:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ZeitZeichen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T09:45:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Neugier genügt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T10:05:00+02:00",
+		"Stop": "2018-09-14T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Tag um zwölf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T12:00:00+02:00",
+		"Stop": "2018-09-14T12:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 5 - Tagesgespräch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T12:10:00+02:00",
+		"Stop": "2018-09-14T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T13:00:00+02:00",
+		"Stop": "2018-09-14T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mittagsecho",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T13:05:00+02:00",
+		"Stop": "2018-09-14T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T14:00:00+02:00",
+		"Stop": "2018-09-14T14:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Scala - Aktuelles aus der Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T14:05:00+02:00",
+		"Stop": "2018-09-14T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T15:00:00+02:00",
+		"Stop": "2018-09-14T15:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 5 Quarks - Wissenschaft und mehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T15:05:00+02:00",
+		"Stop": "2018-09-14T16:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hörtipps",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T16:55:00+02:00",
+		"Stop": "2018-09-14T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T17:00:00+02:00",
+		"Stop": "2018-09-14T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Westblick - Das Landesmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T17:05:00+02:00",
+		"Stop": "2018-09-14T17:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Politikum - Das Meinungsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T17:45:00+02:00",
+		"Stop": "2018-09-14T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T18:00:00+02:00",
+		"Stop": "2018-09-14T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Profit - Das Wirtschaftsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T18:05:00+02:00",
+		"Stop": "2018-09-14T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Echo des Tages",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T18:30:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell, Verkehrslage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 5 KiRaKa. Radio für Kinder",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T19:05:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-14T20:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das philosophische Radio",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T20:04:00+02:00",
+		"Stop": "2018-09-14T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T21:00:00+02:00",
+		"Stop": "2018-09-14T21:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Scala - Aktuelles aus der Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T21:04:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-14T22:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "U 22 - Unterhaltung nach zehn",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T22:04:00+02:00",
+		"Stop": "2018-09-14T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T23:00:00+02:00",
+		"Stop": "2018-09-14T23:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Profit - Das Wirtschaftsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T23:04:00+02:00",
+		"Stop": "2018-09-14T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 5",
+		"Start": "2018-09-14T23:30:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

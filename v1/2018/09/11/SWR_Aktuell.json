@@ -1,0 +1,142 @@
+[
+	{
+		"Title": "ARD Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T06:00:00+02:00",
+		"Stop": "2018-09-11T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T09:00:00+02:00",
+		"Stop": "2018-09-11T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T12:00:00+02:00",
+		"Stop": "2018-09-11T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T15:00:00+02:00",
+		"Stop": "2018-09-11T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell mit Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T18:00:00+02:00",
+		"Stop": "2018-09-11T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell - Wirtschaft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T18:30:00+02:00",
+		"Stop": "2018-09-11T18:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell Kontext",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T18:40:00+02:00",
+		"Stop": "2018-09-11T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T19:00:00+02:00",
+		"Stop": "2018-09-11T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell Weitwinkel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Moderation: Bernd Hefter",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T19:05:00+02:00",
+		"Stop": "2018-09-11T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR Aktuell Baden-Württemberg und Rheinland-Pfalz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T19:30:00+02:00",
+		"Stop": "2018-09-11T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T20:00:00+02:00",
+		"Stop": "2018-09-11T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Forum",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wie anders kann man werden? Es diskutieren: Prof. Dr. Rüdiger Görner, Germanist, London Paul Ingendaay, Schriftsteller, Journalist, Berlin Prof. Dr. Jürgen Ritte, Germanist, Paris Gesprächsleitung: Burkhard Müller-Ullrich",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T20:15:00+02:00",
+		"Stop": "2018-09-11T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR Aktuell",
+		"Start": "2018-09-11T21:00:00+02:00",
+		"Stop": "2018-09-12T00:00:00+02:00",
+		"Info": {}
+	}
+]

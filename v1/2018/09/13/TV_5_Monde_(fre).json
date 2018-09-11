@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "TV5MONDE, le journal Afrique",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Toute l'actualité africaine proposée par la rédaction de TV5MONDE.",
+		"ChannelName": "TV 5 Monde (fre)",
+		"Start": "2018-09-13T00:48:00+02:00",
+		"Stop": "2018-09-13T01:16:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Temps présent",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "`Temps Présent' traite de sujets politiques, sociaux, économiques et historiques puisés dans l'actualité au sens large. Avec ses enquêtes pointues et son regard critique.",
+		"ChannelName": "TV 5 Monde (fre)",
+		"Start": "2018-09-13T01:16:00+02:00",
+		"Stop": "2018-09-13T02:16:00+02:00",
+		"Info": {}
+	}
+]

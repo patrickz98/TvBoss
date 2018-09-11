@@ -1,0 +1,402 @@
+[
+	{
+		"Title": "WER WEISS ES?",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T00:15:00+02:00",
+		"Stop": "2018-09-17T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ich trage einen großen Namen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T01:00:00+02:00",
+		"Stop": "2018-09-17T01:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Sudetendeutschen und Hitler (1/2)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T01:30:00+02:00",
+		"Stop": "2018-09-17T02:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Sudetendeutschen und Hitler (2/2)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T02:15:00+02:00",
+		"Stop": "2018-09-17T03:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft (824)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T03:00:00+02:00",
+		"Stop": "2018-09-17T03:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft - Die jungen Ärzte (71)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T03:45:00+02:00",
+		"Stop": "2018-09-17T04:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Fröhliches Grillen mit Oliver",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T04:35:00+02:00",
+		"Stop": "2018-09-17T04:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Giraffe, Erdmännchen \u0026 Co. (290)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T04:55:00+02:00",
+		"Stop": "2018-09-17T05:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schloss Einstein (732)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T05:45:00+02:00",
+		"Stop": "2018-09-17T06:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hank Zipzer (14/26)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T06:10:00+02:00",
+		"Stop": "2018-09-17T06:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Zehn Gebote (1/10)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T06:35:00+02:00",
+		"Stop": "2018-09-17T07:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rote Rosen (2732)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T07:05:00+02:00",
+		"Stop": "2018-09-17T07:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sturm der Liebe (2996)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T07:55:00+02:00",
+		"Stop": "2018-09-17T08:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nashorn, Zebra \u0026 Co. (318)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T08:45:00+02:00",
+		"Stop": "2018-09-17T09:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "maintower weekend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T09:35:00+02:00",
+		"Stop": "2018-09-17T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T10:05:00+02:00",
+		"Stop": "2018-09-17T10:33:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschauwetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T10:33:00+02:00",
+		"Stop": "2018-09-17T10:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Engel fragt: Ist weniger wirklich mehr?",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T10:35:00+02:00",
+		"Stop": "2018-09-17T11:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "herkules",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T11:05:00+02:00",
+		"Stop": "2018-09-17T11:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kochen macht glücklich",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T11:35:00+02:00",
+		"Stop": "2018-09-17T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Einfach Kochen mit Oliver",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T12:05:00+02:00",
+		"Stop": "2018-09-17T12:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nicht ohne meinen Enkel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T12:50:00+02:00",
+		"Stop": "2018-09-17T14:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nashorn, Zebra \u0026 Co (319)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T14:20:00+02:00",
+		"Stop": "2018-09-17T15:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Giraffe, Erdmännchen \u0026 Co. (291)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T15:10:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hallo hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschau kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T16:45:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hallo hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T17:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschau kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T17:50:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "maintower",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brisant",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T18:25:00+02:00",
+		"Stop": "2018-09-17T18:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "service: zuhause",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T18:50:00+02:00",
+		"Stop": "2018-09-17T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alle wetter!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T19:15:00+02:00",
+		"Stop": "2018-09-17T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T19:30:00+02:00",
+		"Stop": "2018-09-17T19:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschauwetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T19:58:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "defacto",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Erntestress auf dem Elkenhof",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hessenschau kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T21:30:00+02:00",
+		"Stop": "2018-09-17T21:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tatort: Jagdzeit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T21:45:00+02:00",
+		"Stop": "2018-09-17T23:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "heimspiel!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-fernsehen",
+		"Start": "2018-09-17T23:15:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

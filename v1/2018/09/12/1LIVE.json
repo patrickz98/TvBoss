@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Die junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Tobi Schäfer und dem Bursche",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die tägliche, aktuelle Morgen-Show in 1LIVE",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Simon Beeck",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der Vormittag in 1LIVE",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Kammel und Kühler",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der Nachmittag in 1LIVE",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T14:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE ...",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Dennis - Der Sektor ruft an",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Plan B",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T20:00:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Fuck Forward",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

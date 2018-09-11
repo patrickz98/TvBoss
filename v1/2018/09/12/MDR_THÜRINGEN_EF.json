@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "+ das gemeinsame Nachtprogramm von MDR SACHSEN, MDR SACHSEN-ANHALT und MDR THÜRINGEN+ im wöchentlichen Wechsel aus den Funkhäusern in Dresden, Erfurt und Magdeburg+ stündlich Nachrichten von MDR AKTUELL sowie die neuesten Informationen zum Wetter und zur Verkehrslage im Sendegebiet",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Johannes und der Morgenhahn",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MDR THÜRINGEN - Das Radio ... präsentiert das Morgenmagazin mit Johannes-Michael Noack.Beginnen Sie den Tag mit Ihrer Lieblingsmusik, aktuellen Informationen, Berichten und Interviews zu Themen aus Ihrer Region, aus dem Freistaat, Deutschland und der Welt.Nachrichten jeweils zur vollen Stunde, dazu um 05.30, 06.30, 07.30 und 08.30 Uhr Schlagzeilen und Regionalnachrichten, halbstündlich aktuelle Informationen zum Wetter und zur Verkehrslage. Zusätzlich sprechen wir um 05.50 und 08.10 Uhr mit dem MDR-Wetterstudio ausführlich über die Aussichten. \"Augenblick mal\" - die kirchlichen Worte zum Tag hören Sie gegen 06.20 Uhr. Und um 08.40 Uhr präsentieren wir Ihnen aktuelle Informationen direkt aus den Thüringer Landespolizeiinspektionen im Polizeibericht.Jede Woche spielen wir mit einem Morgenhahn-Team um 5 x 100 Euro. Bewerben können Sie sich im Internet auf der Seite http://www.mdr.de/mdr-thueringen oder telefonisch unter 0800 218 16 16.",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T05:00:00+02:00",
+		"Stop": "2018-09-12T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MDR THÜRINGEN - das Radio... am Vormittag.Neben Ihrer Lieblingsmusik stehen Unterhaltung und Service-Themen im Mittelpunkt. Stündlich Nachrichten, dazu um 09.30, 10.30 und 11.30 Uhr Regionalnachrichten oder Veranstaltungstipps. Um 09.20 Uhr hören Sie \"Augenblick mal\" - die kirchlichen Worte zum Tag.",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T09:00:00+02:00",
+		"Stop": "2018-09-12T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten - Der Tag um 12",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichtenredaktion von MDR THÜRINGEN bietet Ihnen ausführliche Informationen mit Berichten unserer Korrespondenten aus Thüringen, Deutschland und der Welt.",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T12:00:00+02:00",
+		"Stop": "2018-09-12T12:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "MDR THÜRINGEN - Das Radio... begleitet Sie mit viel Musik unterhaltsam in den Nachmittag.Stündlich Nachrichten, dazu halbstündlich Wetter und Verkehrsinformationen. Gegen 12.45 Uhr erfahren Sie im Gespräch mit dem MDR-Wetterstudio, was Sie vom Wetter in Thüringen am Nachmittag und Abend erwarten können.",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T12:10:00+02:00",
+		"Stop": "2018-09-12T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ramm am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T15:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Fazit vom Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten - Der ganze Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-12T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T22:08:00+02:00",
+		"Stop": "2018-09-12T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-12T23:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

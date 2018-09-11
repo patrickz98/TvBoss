@@ -1,0 +1,302 @@
+[
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das ARD-Nachtkonzert (I)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T00:05:00+02:00",
+		"Stop": "2018-09-17T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T02:00:00+02:00",
+		"Stop": "2018-09-17T02:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das ARD-Nachtkonzert (II)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T02:03:00+02:00",
+		"Stop": "2018-09-17T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T04:00:00+02:00",
+		"Stop": "2018-09-17T04:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das ARD-Nachtkonzert (III)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T04:03:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T05:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das ARD-Nachtkonzert (IV)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T05:03:00+02:00",
+		"Stop": "2018-09-17T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Allegro",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T06:05:00+02:00",
+		"Stop": "2018-09-17T08:57:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Werbung",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T08:57:00+02:00",
+		"Stop": "2018-09-17T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T09:00:00+02:00",
+		"Stop": "2018-09-17T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Philharmonie",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T09:05:00+02:00",
+		"Stop": "2018-09-17T11:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Terminkalender",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T11:55:00+02:00",
+		"Stop": "2018-09-17T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T12:00:00+02:00",
+		"Stop": "2018-09-17T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mittagsmusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T12:05:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T14:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panorama",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T14:05:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Leporello",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T16:05:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Klassik-Stars",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T18:05:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "con passione",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T19:05:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kammermusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T20:05:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "67. Internationaler ARD-Musikwettbewerb",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T21:05:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-17T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Jazztime",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR-KLASSIK",
+		"Start": "2018-09-17T23:05:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

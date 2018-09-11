@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Morgen Sachsen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radioreport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T13:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T13:08:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Radioreport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Musikgeschichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T18:08:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aufgefallen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichtengesamtschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aufgefallen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T22:08:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SACHSEN DD",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

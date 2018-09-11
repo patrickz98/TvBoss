@@ -1,0 +1,32 @@
+[
+	{
+		"Title": "Gefragt - Gejagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR RP HD",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T00:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Quiz-Helden - Wer kennt den Südwesten? (78)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR RP HD",
+		"Start": "2018-09-18T00:45:00+02:00",
+		"Stop": "2018-09-18T01:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Stadt - Land - Quiz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR RP HD",
+		"Start": "2018-09-18T01:30:00+02:00",
+		"Stop": "2018-09-18T02:15:00+02:00",
+		"Info": {}
+	}
+]

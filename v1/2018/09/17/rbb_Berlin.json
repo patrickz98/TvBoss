@@ -1,0 +1,402 @@
+[
+	{
+		"Title": "Palast",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Leben mit dem Smartphone",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T01:00:00+02:00",
+		"Stop": "2018-09-17T01:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Weltspiegel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T01:30:00+02:00",
+		"Stop": "2018-09-17T02:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T02:10:00+02:00",
+		"Stop": "2018-09-17T02:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brandenburg aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T02:40:00+02:00",
+		"Stop": "2018-09-17T03:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb Praxis",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T03:10:00+02:00",
+		"Stop": "2018-09-17T03:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Täter - Opfer - Polizei",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T03:55:00+02:00",
+		"Stop": "2018-09-17T04:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Luzyca",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T04:20:00+02:00",
+		"Stop": "2018-09-17T04:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb UM6 - Das Ländermagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T04:50:00+02:00",
+		"Stop": "2018-09-17T05:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berlin erwacht - Sommer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T05:20:00+02:00",
+		"Stop": "2018-09-17T05:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ihr kriegt uns nicht hier raus!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T05:50:00+02:00",
+		"Stop": "2018-09-17T06:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rote Rosen (2732)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T06:20:00+02:00",
+		"Stop": "2018-09-17T07:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sturm der Liebe (2996)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T07:10:00+02:00",
+		"Stop": "2018-09-17T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brandenburg aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T08:00:00+02:00",
+		"Stop": "2018-09-17T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T08:30:00+02:00",
+		"Stop": "2018-09-17T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft (824)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T09:00:00+02:00",
+		"Stop": "2018-09-17T09:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft - Die jungen Ärzte  (49)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T09:45:00+02:00",
+		"Stop": "2018-09-17T10:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Giraffe, Erdmännchen \u0026 Co. (242)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T10:35:00+02:00",
+		"Stop": "2018-09-17T11:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panda, Gorilla \u0026 Co. (254)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T11:25:00+02:00",
+		"Stop": "2018-09-17T12:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Erlebnis Hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T12:15:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb24",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T13:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verrückt nach Meer (156)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T13:10:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ZDF-Mittagsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen: Alzheimer - Kampf gegen das große Vergessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T15:00:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb24",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gefragt - Gejagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T16:15:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb24",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Giraffe, Erdmännchen \u0026 Co. (243)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T17:05:00+02:00",
+		"Stop": "2018-09-17T17:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Unser Sandmännchen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T17:55:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb UM6 - Das Ländermagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:27:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T18:27:00+02:00",
+		"Stop": "2018-09-17T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "zibb",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T18:30:00+02:00",
+		"Stop": "2018-09-17T19:27:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T19:27:00+02:00",
+		"Stop": "2018-09-17T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T19:30:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SUPER.MARKT",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die 30 schönsten Urlaubsziele",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T21:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "rbb24",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T21:45:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tatort: Vielleicht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Polizeiruf 110: Die Entdeckung",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "rbb Berlin",
+		"Start": "2018-09-17T23:30:00+02:00",
+		"Stop": "2018-09-18T00:45:00+02:00",
+		"Info": {}
+	}
+]

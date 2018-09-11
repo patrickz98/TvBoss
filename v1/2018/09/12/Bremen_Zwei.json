@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sechs Stunden Singer/Songwriter, chilliger Jazz und eleganter Pop.",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T00:00:00+02:00",
+		"Stop": "2018-09-12T05:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Morgenandacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Evangelische und katholische Geistliche aus Bremen und der Region geben Inspiration.",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T05:50:00+02:00",
+		"Stop": "2018-09-12T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der inspirierende und neugierige Start in den Tag. Alles was wichtig und interessant ist in Gesprächen, Beiträgen und Reportagen.",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T06:00:00+02:00",
+		"Stop": "2018-09-12T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Zwei",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der Vormittag - verlässliche Informationen aus Politik, Kultur und Gesellschaft. Und ein pointierter Blick auf Philosophie, Kochkultur und Mode.",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T10:00:00+02:00",
+		"Stop": "2018-09-12T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Zwei",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Regionale Geschichten, Trends der Musik- und Popkultur. Hintergründig und auf den Punkt.",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T13:00:00+02:00",
+		"Stop": "2018-09-12T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bremen Zwei",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T16:00:00+02:00",
+		"Stop": "2018-09-12T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gesprächszeit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T18:00:00+02:00",
+		"Stop": "2018-09-12T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sounds",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T19:00:00+02:00",
+		"Stop": "2018-09-12T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Podcast Lab",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T21:00:00+02:00",
+		"Stop": "2018-09-12T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Klassikwelt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Bremen Zwei",
+		"Start": "2018-09-12T22:00:00+02:00",
+		"Stop": "2018-09-13T00:00:00+02:00",
+		"Info": {}
+	}
+]

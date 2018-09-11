@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD-Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1 am Sonntagmorgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der hr1-Talk mit Lars Eidinger",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-16T10:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1-Mixtape",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1 am Sonntag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-16T15:00:00+02:00",
+		"Stop": "2018-09-16T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr1-Song Connection",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr1",
+		"Start": "2018-09-16T19:00:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]

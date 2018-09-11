@@ -1,0 +1,52 @@
+[
+	{
+		"Title": "MDR MUSIKNACHT",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-ANHALT MD",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "DER LANGE SAMSTAG",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-ANHALT MD",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "IHR WOCHENENDE",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-ANHALT MD",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "PARTYABEND",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-ANHALT MD",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR MUSIKNACHT",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR S-ANHALT MD",
+		"Start": "2018-09-15T23:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

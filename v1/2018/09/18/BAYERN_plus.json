@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Schlagernacht von BR und MDR",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BAYERN plus",
+		"Start": "2018-09-18T00:05:00+02:00",
+		"Stop": "2018-09-18T06:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "Al Jazeera",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Al Jazeera  von 18:00 bis 06:00 Uhr",
+		"ChannelName": "AlJaz Balkan/AlJaz (bos/ara)",
+		"Start": "2018-09-13T00:00:00+02:00",
+		"Stop": "2018-09-13T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Al Jazeera",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Al Jazeera  von 18:00 bis 06:00 Uhr",
+		"ChannelName": "AlJaz Balkan/AlJaz (bos/ara)",
+		"Start": "2018-09-13T01:00:00+02:00",
+		"Stop": "2018-09-13T02:00:00+02:00",
+		"Info": {}
+	}
+]

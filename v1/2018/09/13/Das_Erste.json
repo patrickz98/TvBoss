@@ -1,0 +1,372 @@
+[
+	{
+		"Title": "Nachtmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Im Nachtmagazin werden die wichtigsten Ereignisse des abgelaufenen Tages noch einmal zusammengefasst. Zudem gibt es einen Ausblick auf die zu erwartenden Themen des nächsten Tages.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T00:00:00+02:00",
+		"Stop": "2018-09-13T00:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "FilmMittwoch im Ersten: Toulouse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Ein mondänes Hotel irgendwo an der französischen Küste. Hier treffen sich Silvia und Gustav, sie haben sich nach 19 Jahren Ehe vor Kurzem getrennt. Aber sie kennen sich gut, und es beginnt ein Schlagabtausch, bei dem Silvia stets einen Schritt voraus scheint. So kommt sie rasch dahinter, dass Gustavs neue, jüngere Freundin bereits ein Kind von ihm erwartet. Das heimliche Treffen zwischen Silvia und Gustav bekommt eine neue Wendung, als Gustav plötzlich erfährt, dass das Konferenzzentrum in Toulouse, in dem er sich angeblich aufhält, bei einem Terroranschlag in die Luft gesprengt wurde.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T00:20:00+02:00",
+		"Stop": "2018-09-13T01:53:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T01:53:00+02:00",
+		"Stop": "2018-09-13T01:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hoffnungslos glücklich - Jeder ist ein Geschenk",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Schicksal trifft Marissa hart: Zunächst erkrankt ihr Sohn Jack an Leukämie, und dann findet sie heraus, dass ihr Mann David seit Jahren fremdgeht. Die verzweifelte Mutter ist am Boden zerstört, doch ausgerechnet die Untreue ihres Gatten lässt Hoffnung aufkeimen: Falls David mit einer seiner zahlreichen Geliebten ein Kind gezeugt hat, dann gäbe es einen überlebenswichtigen Knochenmarkspender für ihren Sohn. Marissa überwindet ihre Wut und taucht in die amouröse Vergangenheit ihres Mannes ein. Die verzweifelte Suche nach Jacks mutmaßlichen Halbgeschwistern hält unliebsame Überraschungen für sie parat.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T01:55:00+02:00",
+		"Stop": "2018-09-13T03:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Maischberger",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Sandra Maischberger diskutiert mit Gästen aktuelle Themen, die gesellschaftlich relevant sind, von Schönheitswahn bis Rassismus - journalistisch, kontrovers, informativ und unterhaltend.Die Bandbreite bei Maischberger reicht von Politik, Gesellschaft und Boulevard bis Sport. Ihre Gäste sind Prominente, Fachleute und Betroffene.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T03:30:00+02:00",
+		"Stop": "2018-09-13T04:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Deutschlandbilder",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Deutsche Landschaften, Städte, Inseln",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T04:45:00+02:00",
+		"Stop": "2018-09-13T04:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T04:58:00+02:00",
+		"Stop": "2018-09-13T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Plusminus",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Sendung vermittelt Hintergründe, deckt Missstände auf und bringt eine Vielzahl ganz konkreter Verbrauchertipps.Moderation: Pinar Atalay",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T05:00:00+02:00",
+		"Stop": "2018-09-13T05:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ZDF-Morgenmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Für einen guten Start in den Tag",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T05:30:00+02:00",
+		"Stop": "2018-09-13T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T09:00:00+02:00",
+		"Stop": "2018-09-13T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Live nach Neun",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das neue Vormittagsformat geht raus ins Leben: Mit Live-Schalten zu den Menschen auf dem Land und in den Städten - immer auf der Suche nach Alltagshelden und Anpackern; Menschen, die unser Land am Laufen halten.Moderation: Biggi Lechtermann und Marc Weide",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T09:05:00+02:00",
+		"Stop": "2018-09-13T09:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sturm der Liebe (2994)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nach einem Zerwürfnis mit ihren Eltern erfährt Valentina schließlich von Werners lang gehütetem Geheimnis. Kurz darauf hat sie eine folgenreiche Begegnung.Romy ist irritiert darüber, wie sehr Paul um Jessicas Wohlergehen bemüht ist. Sie wird prompt misstrauisch. Was läuft da noch zwischen den beiden?Nach Christophs misslungener Intrige erkennt André, dass er in seinem Leben etwas ändern muss.Clever, charmant, leidenschaftlich: In Folge 2994 taucht unerwartet Joshua Winter, gespielt von Julian Schneider, am \"Fürstenhof\" auf.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T09:55:00+02:00",
+		"Stop": "2018-09-13T10:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T10:44:00+02:00",
+		"Stop": "2018-09-13T10:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Meister des Alltags",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Haftet die Gemeinde, wenn ein Auto beim Abschleppen beschädigt wird? Kann man aus Orangenschalen und Olivenöl eine Kerze herstellen? Und dürfen Motorräder tatsächlich lauter sein als Autos? Dieses Quiz steht mit beiden Beinen fest auf der Erde: Denn mit den Antworten bei \"Meister des Alltags\" lernt man fürs tägliche Leben! Moderator Florian Weber stellt die Alltagstauglichkeit seiner prominenten Kandidaten auf die Probe. Kabarettist Christoph Sonntag und Schauspielerin Alice Hoffmann treten gegen Comedian Bodo Bach und Moderatorin Enie van de Meiklokjes an.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T10:45:00+02:00",
+		"Stop": "2018-09-13T11:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gefragt - Gejagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den \"Jäger\" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den \"Jäger\" gewinnen, retten sie sich und ihr Geld ins Finale.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T11:15:00+02:00",
+		"Stop": "2018-09-13T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T12:00:00+02:00",
+		"Stop": "2018-09-13T12:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Buffet",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Themen:* Aus Omas Küche: \"Hackfleischtörtchen\". Vincent Klink kocht heute diesen Klassiker.* Zuschauerfragen zum Thema: Einfach Gärtnern - geniale Kniffe für den Gartenalltag; Studiogast: Folko Kullmann, Gartenbauwissenschaftler* Gute Idee: Bilderrahmen aus Holzchips - mit Martina Lammel, Designerin?* Michaela Theis* Gallowayfleisch-Versand* 360° QuizModeration: Evelin König",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T12:15:00+02:00",
+		"Stop": "2018-09-13T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Mittagsmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Nach fast 30 Jahren in München sendet das Mittagsmagazin seit Januar 2018 direkt aus dem Herzen der deutschen Hauptstadt. In Berlin sind wir noch näher dran an der deutschen Politik - und das zeigen wir mit noch mehr Gesprächsgästen im Studio, Hintergründen und Reportagen.Ganz wie Sie es vom Mittagsmagazin gewohnt sind, versorgen wir Sie mit aktuellen Informationen, erklären Zusammenhänge und ordnen politische Entscheidungen ein.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T13:00:00+02:00",
+		"Stop": "2018-09-13T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T14:00:00+02:00",
+		"Stop": "2018-09-13T14:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rote Rosen (2731)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Thomas ist gebeutelt von dem Pressewirbel um das wertvolle Service. Er vermutet Gregor hinter der Intrige, wähnt sich aber auf der sicheren Seite, da er nichts Unrechtes getan hat.Sonja ist empört: Sowohl Gregor wie auch Eva wollen sie im Kampf um die Firma instrumentalisieren. Sonja weigert sich, aber ihr schlechtes Gewissen gegenüber Eva und die Sehnsucht nach Tilmann schüren ihre innere Unruhe.Anna versorgt in der Notaufnahme viele Patienten, die keine medizinischen Notfälle sind.Moritz' Prüfung zum Koch steht bevor.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T14:10:00+02:00",
+		"Stop": "2018-09-13T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T15:00:00+02:00",
+		"Stop": "2018-09-13T15:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sturm der Liebe (2995)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Alicia lässt sich trotz Bedenken auf den ungewöhnlichen Plan von Viktor ein, um Christoph zu überlisten. Doch das wird schwieriger als gedacht.Nataschas Rückkehr aus dem Urlaub steht kurz bevor. Aus Angst, sie könne den Kontakt zu Michael suchen, verhindert Xenia eine Annäherung der beiden mit allen Mitteln.Valentina spürt direkt eine Verbindung zu dem Unbekannten. Aber kann sie Joshua wirklich trauen?Paul beteuert vor Romy seine Treue. Dafür sagt er sogar seine Teilnahme an der Bierprinzenwahl ab. Romy erkennt, dass sie zu eifersüchtig reagiert hat und will es wiedergutmachen.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T15:10:00+02:00",
+		"Stop": "2018-09-13T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T16:00:00+02:00",
+		"Stop": "2018-09-13T16:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Stadt, Land, Haus (8)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Im Großraum München ist Mareile Höppner mit den Kandidatenpaaren in drei Sehnsuchts-Immobilien unterwegs, eine davon ist ein umgebauter Hochbunker. Doch kann ein Bunker ein Wohntraum sein? Und welche besonderen Gegenstände konterkarieren den schlichten Betonstil der Wohnung? Tradition und bayerische Gemütlichkeit dürfen in München und Umgebung nicht fehlen: Eine Villa am Tegernsee führt die Kandidaten ins reine Idyll. Lässt allein die Lage der Immobilie den Preis in die Höhe schnellen? Moderation: Mareile Höppner",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T16:10:00+02:00",
+		"Stop": "2018-09-13T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T17:00:00+02:00",
+		"Stop": "2018-09-13T17:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Brisant",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Träume und Tragödien, menschliche und tierische Schicksale liefern den Stoff für 'Brisant', das tägliche Boulevard-Magazin der ARD. Eine Mischung aus Information und Unterhaltung: schnell, spannend.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T17:15:00+02:00",
+		"Stop": "2018-09-13T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gefragt - Gejagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Vier Kandidaten müssen in Einzelrunden eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den \"Jäger\" müssen sie dann ihr Geld verteidigen. Werden sie dabei von ihm eingeholt, scheiden sie aus. Wenn die Kandidaten aber gegen den \"Jäger\" gewinnen, retten sie sich und ihr Geld ins Finale.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T18:00:00+02:00",
+		"Stop": "2018-09-13T18:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft - Die jungen Ärzte (155)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der neue Assistenzarzt Mikko Rantala trifft auf die werdenden Eltern Thorsten und Nina Gehrau, die zu einer Kreißsaal-Führung ans JTK gekommen sind. Doch so weit kommen sie leider nicht, denn Thorsten bricht zusammen: Herzstillstand! Auf der Intensivstation stellt sich heraus, dass Thorsten unter einem seltenen Syndrom leidet. Der Patient steht unter Schock, als er erfährt, dass sein Leiden vererbbar ist. Zusammen bangen die jungen Eltern, als Dr. Niklas Ahrend und Mikko ihnen erklären, dass der Fötus zwar nicht Thorstens Erbkrankheit hat, dafür aber ein wesentlich ernsteres Problem.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T18:50:00+02:00",
+		"Stop": "2018-09-13T19:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wissen vor acht - Mensch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wenn der Bauch der Frauen in der Schwangerschaft immer größer wird, kann man bei ihren Partnern ganz Ähnliches feststellen. Männer nehmen ebenfalls zu und sind emotional sensibler. Können sie etwa co-schwanger sein? Susanne Holst klärt auf, in \"Wissen vor acht - Mensch\".",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T19:45:00+02:00",
+		"Stop": "2018-09-13T19:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter vor acht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wie wird das Wetter? Sonne in Stuttgart, Nebel in Nürnberg, Bremen bewölkt? Hier gibt's die aktuellen Wetterprognosen.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T19:50:00+02:00",
+		"Stop": "2018-09-13T19:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Börse vor acht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Börsensendung vom Frankfurter Parkett - immer kurz vor der 20-Uhr-Tagesschau",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T19:55:00+02:00",
+		"Stop": "2018-09-13T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Nachrichten der ARD",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T20:00:00+02:00",
+		"Stop": "2018-09-13T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Füchsin - Dunkle Fährte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Mittfünfzigerin Anne Marie Fuchs lebt bescheiden und zurückgezogen in Düsseldorf. Ihr einziger regelmäßiger Kontakt ist die Chefin des Restaurant-Cafés \"Mittsommer\", Simone Papst, die stets einen guten Kaffee für Anne bereit hält und bei der sie anschreiben lassen kann. Als der beste Kumpel von Simones Bruder Sebastian ermordet aufgefunden wird und Sebastian spurlos verschwindet, bietet Anne ihre Hilfe an. Schnell wird klar, dass die unscheinbare Dame, die immer knapp bei Kasse ist, ein absoluter Ermittlungsprofi mit messerscharfem Verstand zu sein scheint.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T20:15:00+02:00",
+		"Stop": "2018-09-13T21:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kontraste",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "KONTRASTE - das Hintergrundmagazin vom Rundfunk Berlin-Brandenburg. Kein Infotainment, keine Politikerphrasen. Geht den Dingen auf den Grund: neugierig und mit sorgfältiger Recherche. Bezieht Stellung und bringt Gegensätze auf den Punkt.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T21:45:00+02:00",
+		"Stop": "2018-09-13T22:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesthemen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Die Tagesthemen vermitteln ergänzende Informationen zu den tagesaktuellen Ereignissen und zeigen Zusammenhänge und Hintergründe.Moderation: Ingo Zamperoni",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T22:15:00+02:00",
+		"Stop": "2018-09-13T22:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nuhr im Ersten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Angriffslustig und scharfzüngig präsentiert Dieter Nuhr eine neue Ausgabe von \"Nuhr im Ersten - Der Satiregipfel\". Seine Gäste: * Abdelkarim* Ingo Appelt* Dr. Eckart von Hirschhausen* Torsten Sträter",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T22:45:00+02:00",
+		"Stop": "2018-09-13T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Drei. Zwo. Eins. Michl Müller",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Auch im September geht der selbsternannte \"fränggische Dreggsagg\" Michl Müller in seiner kabarettistischen Chart-Show \"Drei.Zwo.Eins.Michl Müller\" wieder auf satirischen Konfrontationskurs mit allem, was in Gesellschaft, Politik, Sport und Boulevard für Aufsehen sorgt. Er legt sich mit Schlagzeilen-Dauerbrennern wie Seehofer, Trump oder dem \"Brexit\"-Rätsel Theresa May an und nimmt sie kräftig auf die Schippe.Zu Gast in dieser Sendung ist \"Alfons\", der Reporter, der den französischen Akzent zu seinem Merkmal gemacht hat.",
+		"ChannelName": "Das Erste",
+		"Start": "2018-09-13T23:30:00+02:00",
+		"Stop": "2018-09-14T00:15:00+02:00",
+		"Info": {}
+	}
+]

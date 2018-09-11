@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Der Morgen mit Tatjana Brand",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Wochenend' und Angerstein",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Für uns in Mecklenburg-Vorpommern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - Klönkist / Plappermoehl",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T19:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-15T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 1 Radio MV - \"Wochenend - Lieblingsmix\"",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T20:15:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 1 Radio MV SN",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

@@ -1,0 +1,442 @@
+[
+	{
+		"Title": "Die Tagesschau vor 20 Jahren",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T01:05:00+02:00",
+		"Stop": "2018-09-17T01:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bob Ross - The Joy of Painting",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T01:20:00+02:00",
+		"Stop": "2018-09-17T01:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T01:50:00+02:00",
+		"Stop": "2018-09-17T02:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T02:55:00+02:00",
+		"Stop": "2018-09-17T03:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T03:10:00+02:00",
+		"Stop": "2018-09-17T04:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T04:10:00+02:00",
+		"Stop": "2018-09-17T04:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night CLASSICS",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T04:25:00+02:00",
+		"Stop": "2018-09-17T05:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T05:45:00+02:00",
+		"Stop": "2018-09-17T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bob Ross - The Joy of Painting",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Englisch für Anfänger",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T06:30:00+02:00",
+		"Stop": "2018-09-17T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Russisch, bitte!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T07:00:00+02:00",
+		"Stop": "2018-09-17T07:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Grundkurs Deutsch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T07:30:00+02:00",
+		"Stop": "2018-09-17T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tele-Gym",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T08:00:00+02:00",
+		"Stop": "2018-09-17T08:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panoramabilder",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T08:15:00+02:00",
+		"Stop": "2018-09-17T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schulfernsehen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T09:30:00+02:00",
+		"Stop": "2018-09-17T09:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schulfernsehen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T09:45:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ich mach's!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T10:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ich mach's!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T10:15:00+02:00",
+		"Stop": "2018-09-17T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "selbstbestimmt! Die Reportage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T10:30:00+02:00",
+		"Stop": "2018-09-17T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen: Pflegekräfte am Limit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T11:00:00+02:00",
+		"Stop": "2018-09-17T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesgespräch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T12:05:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "service: gesundheit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T13:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bergauf-Bergab",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T13:30:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Unkraut",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T14:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gesundheit!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T14:30:00+02:00",
+		"Stop": "2018-09-17T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Willi wills wissen (122)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T15:00:00+02:00",
+		"Stop": "2018-09-17T15:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Paula und die wilden Tiere",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T15:25:00+02:00",
+		"Stop": "2018-09-17T15:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "neuneinhalb",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T15:50:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-retro: Das Profil - Peter Handke",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Newton",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T16:30:00+02:00",
+		"Stop": "2018-09-17T16:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Vom Ahorn bis zur Zwiebel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T16:55:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Alles Wissen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T17:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "nano",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T17:45:00+02:00",
+		"Stop": "2018-09-17T18:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Planet Wissen: Mehr als Show - Wie Hypnose heilen kann",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T18:15:00+02:00",
+		"Stop": "2018-09-17T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-centauri",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T19:15:00+02:00",
+		"Stop": "2018-09-17T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "alpha-demokratie",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T19:30:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Weltspiegel-Reportage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T20:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Was Kinder stark macht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T20:45:00+02:00",
+		"Stop": "2018-09-17T22:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Campus",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T22:15:00+02:00",
+		"Stop": "2018-09-17T22:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "service: gesundheit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T22:45:00+02:00",
+		"Stop": "2018-09-17T23:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "The Day - News in Review",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T23:15:00+02:00",
+		"Stop": "2018-09-17T23:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "English bite-size",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T23:40:00+02:00",
+		"Stop": "2018-09-17T23:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Tagesschau vor 20 Jahren",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ARD-alpha",
+		"Start": "2018-09-17T23:45:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

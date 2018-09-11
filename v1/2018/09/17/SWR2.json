@@ -1,0 +1,462 @@
+[
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Nachtkonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T00:05:00+02:00",
+		"Stop": "2018-09-17T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T02:00:00+02:00",
+		"Stop": "2018-09-17T02:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Nachtkonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T02:03:00+02:00",
+		"Stop": "2018-09-17T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T04:00:00+02:00",
+		"Stop": "2018-09-17T04:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Nachtkonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T04:03:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T05:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Nachtkonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T05:03:00+02:00",
+		"Stop": "2018-09-17T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T08:00:00+02:00",
+		"Stop": "2018-09-17T08:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Journal am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T08:10:00+02:00",
+		"Stop": "2018-09-17T08:29:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Programmtipps",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T08:29:00+02:00",
+		"Stop": "2018-09-17T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Wissen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T08:30:00+02:00",
+		"Stop": "2018-09-17T08:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Programmtipps",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T08:58:00+02:00",
+		"Stop": "2018-09-17T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T09:00:00+02:00",
+		"Stop": "2018-09-17T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Musikstunde",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T09:05:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Treffpunkt Klassik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T10:05:00+02:00",
+		"Stop": "2018-09-17T11:57:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Kulturservice",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T11:57:00+02:00",
+		"Stop": "2018-09-17T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell mit Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T12:00:00+02:00",
+		"Stop": "2018-09-17T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kurznachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T12:30:00+02:00",
+		"Stop": "2018-09-17T12:33:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Journal am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T12:33:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Mittagskonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T13:05:00+02:00",
+		"Stop": "2018-09-17T14:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Programmtipps",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T14:58:00+02:00",
+		"Stop": "2018-09-17T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T15:00:00+02:00",
+		"Stop": "2018-09-17T15:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Leben",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T15:05:00+02:00",
+		"Stop": "2018-09-17T15:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Fortsetzung folgt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T15:30:00+02:00",
+		"Stop": "2018-09-17T15:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Lesenswert Kritik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T15:55:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Impuls",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T16:05:00+02:00",
+		"Stop": "2018-09-17T16:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Programmtipps",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T16:58:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Forum",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T17:05:00+02:00",
+		"Stop": "2018-09-17T17:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Jazz vor Sechs",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T17:50:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell mit Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Aktuell - Wirtschaft",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T18:30:00+02:00",
+		"Stop": "2018-09-17T18:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Israelitische Feier zum Versöhnungsfest",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T18:40:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Tandem",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T19:05:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Abendkonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T20:03:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T22:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 Essay",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T22:03:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-17T23:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR2 JetztMusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR2",
+		"Start": "2018-09-17T23:03:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

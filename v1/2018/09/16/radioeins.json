@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "Late Night Lounge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T01:00:00+02:00",
+		"Stop": "2018-09-16T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Club Room",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T04:00:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der schöne Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Zwei auf Eins -",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T09:00:00+02:00",
+		"Stop": "2018-09-16T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Sonntagsfahrer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T12:00:00+02:00",
+		"Stop": "2018-09-16T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hörbar Rust",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T14:00:00+02:00",
+		"Stop": "2018-09-16T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die blaue Stunde",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T16:00:00+02:00",
+		"Stop": "2018-09-16T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Literaturagenten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T18:00:00+02:00",
+		"Stop": "2018-09-16T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "King's Hour",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T20:00:00+02:00",
+		"Stop": "2018-09-16T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Elektro Beats",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T21:00:00+02:00",
+		"Stop": "2018-09-16T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Roots",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioeins",
+		"Start": "2018-09-16T23:00:00+02:00",
+		"Stop": "2018-09-17T01:00:00+02:00",
+		"Info": {}
+	}
+]

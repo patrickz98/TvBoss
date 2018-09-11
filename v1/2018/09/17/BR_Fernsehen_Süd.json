@@ -1,0 +1,362 @@
+[
+	{
+		"Title": "Ein Ferienhaus in Schottland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T01:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schuhbecks",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T01:30:00+02:00",
+		"Stop": "2018-09-17T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Unter unserem Himmel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T02:00:00+02:00",
+		"Stop": "2018-09-17T02:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bergauf-Bergab",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T02:45:00+02:00",
+		"Stop": "2018-09-17T03:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Frankenschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T03:15:00+02:00",
+		"Stop": "2018-09-17T04:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schwaben \u0026 Altbayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T04:00:00+02:00",
+		"Stop": "2018-09-17T04:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Alpen-Donau-Adria",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T04:45:00+02:00",
+		"Stop": "2018-09-17T05:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Space Night",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T05:20:00+02:00",
+		"Stop": "2018-09-17T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bergauf-Bergab",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Sturm der Liebe (2996)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T06:30:00+02:00",
+		"Stop": "2018-09-17T07:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tele-Gym",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T07:20:00+02:00",
+		"Stop": "2018-09-17T07:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panoramabilder",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T07:35:00+02:00",
+		"Stop": "2018-09-17T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tele-Gym",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T08:30:00+02:00",
+		"Stop": "2018-09-17T08:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Eisbär, Affe \u0026 Co",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T08:45:00+02:00",
+		"Stop": "2018-09-17T09:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panda, Gorilla \u0026 Co",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T09:35:00+02:00",
+		"Stop": "2018-09-17T10:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "natur exclusiv",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T10:25:00+02:00",
+		"Stop": "2018-09-17T11:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Länder-Menschen-Abenteuer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T11:10:00+02:00",
+		"Stop": "2018-09-17T11:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Unterwegs im Schwarzwald",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T11:55:00+02:00",
+		"Stop": "2018-09-17T12:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Dings vom Dach",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T12:40:00+02:00",
+		"Stop": "2018-09-17T13:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "In aller Freundschaft (782)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T13:25:00+02:00",
+		"Stop": "2018-09-17T14:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kunst + Krempel",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T14:10:00+02:00",
+		"Stop": "2018-09-17T14:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Gefragt - Gejagt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T14:40:00+02:00",
+		"Stop": "2018-09-17T15:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Schnittgut. Alles aus dem Garten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T15:30:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rundschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wir in Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T16:15:00+02:00",
+		"Stop": "2018-09-17T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau - Der Süden",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T17:30:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rundschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T18:30:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Querbeet Classix",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Dahoam is Dahoam (2187)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T19:30:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das perfekte Herrchen (5/5)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Bayern erleben",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T21:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rundschau-Magazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T21:45:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lebenslinien",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T22:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Verschwinden (2/4)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "BR Fernsehen Süd",
+		"Start": "2018-09-17T22:45:00+02:00",
+		"Stop": "2018-09-18T00:15:00+02:00",
+		"Info": {}
+	}
+]

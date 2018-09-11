@@ -1,0 +1,2812 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T00:05:00+02:00",
+		"Stop": "2018-09-17T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T06:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:08:00+02:00",
+		"Stop": "2018-09-17T06:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:13:00+02:00",
+		"Stop": "2018-09-17T06:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:14:00+02:00",
+		"Stop": "2018-09-17T06:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:15:00+02:00",
+		"Stop": "2018-09-17T06:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:20:00+02:00",
+		"Stop": "2018-09-17T06:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:25:00+02:00",
+		"Stop": "2018-09-17T06:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:28:00+02:00",
+		"Stop": "2018-09-17T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:30:00+02:00",
+		"Stop": "2018-09-17T06:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:38:00+02:00",
+		"Stop": "2018-09-17T06:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:43:00+02:00",
+		"Stop": "2018-09-17T06:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:44:00+02:00",
+		"Stop": "2018-09-17T06:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:45:00+02:00",
+		"Stop": "2018-09-17T06:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:50:00+02:00",
+		"Stop": "2018-09-17T06:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:55:00+02:00",
+		"Stop": "2018-09-17T06:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T06:58:00+02:00",
+		"Stop": "2018-09-17T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:00:00+02:00",
+		"Stop": "2018-09-17T07:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:08:00+02:00",
+		"Stop": "2018-09-17T07:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:13:00+02:00",
+		"Stop": "2018-09-17T07:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:14:00+02:00",
+		"Stop": "2018-09-17T07:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:15:00+02:00",
+		"Stop": "2018-09-17T07:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Thema des Tages",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:20:00+02:00",
+		"Stop": "2018-09-17T07:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:28:00+02:00",
+		"Stop": "2018-09-17T07:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:30:00+02:00",
+		"Stop": "2018-09-17T07:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:38:00+02:00",
+		"Stop": "2018-09-17T07:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:43:00+02:00",
+		"Stop": "2018-09-17T07:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:44:00+02:00",
+		"Stop": "2018-09-17T07:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:45:00+02:00",
+		"Stop": "2018-09-17T07:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:50:00+02:00",
+		"Stop": "2018-09-17T07:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:55:00+02:00",
+		"Stop": "2018-09-17T07:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T07:58:00+02:00",
+		"Stop": "2018-09-17T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:00:00+02:00",
+		"Stop": "2018-09-17T08:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:08:00+02:00",
+		"Stop": "2018-09-17T08:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:13:00+02:00",
+		"Stop": "2018-09-17T08:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:14:00+02:00",
+		"Stop": "2018-09-17T08:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:15:00+02:00",
+		"Stop": "2018-09-17T08:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Thema des Tages (Wiederholung)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:20:00+02:00",
+		"Stop": "2018-09-17T08:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:28:00+02:00",
+		"Stop": "2018-09-17T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:30:00+02:00",
+		"Stop": "2018-09-17T08:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:38:00+02:00",
+		"Stop": "2018-09-17T08:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:43:00+02:00",
+		"Stop": "2018-09-17T08:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:44:00+02:00",
+		"Stop": "2018-09-17T08:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:45:00+02:00",
+		"Stop": "2018-09-17T08:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:50:00+02:00",
+		"Stop": "2018-09-17T08:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:55:00+02:00",
+		"Stop": "2018-09-17T08:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T08:58:00+02:00",
+		"Stop": "2018-09-17T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:00:00+02:00",
+		"Stop": "2018-09-17T09:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:08:00+02:00",
+		"Stop": "2018-09-17T09:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:13:00+02:00",
+		"Stop": "2018-09-17T09:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:14:00+02:00",
+		"Stop": "2018-09-17T09:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:15:00+02:00",
+		"Stop": "2018-09-17T09:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:20:00+02:00",
+		"Stop": "2018-09-17T09:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:25:00+02:00",
+		"Stop": "2018-09-17T09:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:28:00+02:00",
+		"Stop": "2018-09-17T09:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:30:00+02:00",
+		"Stop": "2018-09-17T09:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:38:00+02:00",
+		"Stop": "2018-09-17T09:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:43:00+02:00",
+		"Stop": "2018-09-17T09:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:44:00+02:00",
+		"Stop": "2018-09-17T09:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:45:00+02:00",
+		"Stop": "2018-09-17T09:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:50:00+02:00",
+		"Stop": "2018-09-17T09:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:55:00+02:00",
+		"Stop": "2018-09-17T09:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T09:58:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T10:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:08:00+02:00",
+		"Stop": "2018-09-17T10:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:13:00+02:00",
+		"Stop": "2018-09-17T10:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:14:00+02:00",
+		"Stop": "2018-09-17T10:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:15:00+02:00",
+		"Stop": "2018-09-17T10:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:20:00+02:00",
+		"Stop": "2018-09-17T10:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:25:00+02:00",
+		"Stop": "2018-09-17T10:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:28:00+02:00",
+		"Stop": "2018-09-17T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:30:00+02:00",
+		"Stop": "2018-09-17T10:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:38:00+02:00",
+		"Stop": "2018-09-17T10:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:43:00+02:00",
+		"Stop": "2018-09-17T10:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:44:00+02:00",
+		"Stop": "2018-09-17T10:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:45:00+02:00",
+		"Stop": "2018-09-17T10:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:50:00+02:00",
+		"Stop": "2018-09-17T10:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:55:00+02:00",
+		"Stop": "2018-09-17T10:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T10:58:00+02:00",
+		"Stop": "2018-09-17T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:00:00+02:00",
+		"Stop": "2018-09-17T11:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:08:00+02:00",
+		"Stop": "2018-09-17T11:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:13:00+02:00",
+		"Stop": "2018-09-17T11:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:14:00+02:00",
+		"Stop": "2018-09-17T11:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:15:00+02:00",
+		"Stop": "2018-09-17T11:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:20:00+02:00",
+		"Stop": "2018-09-17T11:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:25:00+02:00",
+		"Stop": "2018-09-17T11:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:28:00+02:00",
+		"Stop": "2018-09-17T11:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:30:00+02:00",
+		"Stop": "2018-09-17T11:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:38:00+02:00",
+		"Stop": "2018-09-17T11:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:43:00+02:00",
+		"Stop": "2018-09-17T11:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:44:00+02:00",
+		"Stop": "2018-09-17T11:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:45:00+02:00",
+		"Stop": "2018-09-17T11:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:50:00+02:00",
+		"Stop": "2018-09-17T11:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:55:00+02:00",
+		"Stop": "2018-09-17T11:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T11:58:00+02:00",
+		"Stop": "2018-09-17T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:00:00+02:00",
+		"Stop": "2018-09-17T12:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:08:00+02:00",
+		"Stop": "2018-09-17T12:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:13:00+02:00",
+		"Stop": "2018-09-17T12:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:14:00+02:00",
+		"Stop": "2018-09-17T12:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:15:00+02:00",
+		"Stop": "2018-09-17T12:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:20:00+02:00",
+		"Stop": "2018-09-17T12:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:25:00+02:00",
+		"Stop": "2018-09-17T12:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:28:00+02:00",
+		"Stop": "2018-09-17T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:30:00+02:00",
+		"Stop": "2018-09-17T12:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:38:00+02:00",
+		"Stop": "2018-09-17T12:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:43:00+02:00",
+		"Stop": "2018-09-17T12:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:44:00+02:00",
+		"Stop": "2018-09-17T12:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:45:00+02:00",
+		"Stop": "2018-09-17T12:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:50:00+02:00",
+		"Stop": "2018-09-17T12:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:55:00+02:00",
+		"Stop": "2018-09-17T12:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T12:58:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T13:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:08:00+02:00",
+		"Stop": "2018-09-17T13:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:13:00+02:00",
+		"Stop": "2018-09-17T13:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:14:00+02:00",
+		"Stop": "2018-09-17T13:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:15:00+02:00",
+		"Stop": "2018-09-17T13:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:20:00+02:00",
+		"Stop": "2018-09-17T13:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:25:00+02:00",
+		"Stop": "2018-09-17T13:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:28:00+02:00",
+		"Stop": "2018-09-17T13:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:30:00+02:00",
+		"Stop": "2018-09-17T13:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:38:00+02:00",
+		"Stop": "2018-09-17T13:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:43:00+02:00",
+		"Stop": "2018-09-17T13:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:44:00+02:00",
+		"Stop": "2018-09-17T13:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:45:00+02:00",
+		"Stop": "2018-09-17T13:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:50:00+02:00",
+		"Stop": "2018-09-17T13:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:55:00+02:00",
+		"Stop": "2018-09-17T13:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T13:58:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T14:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:08:00+02:00",
+		"Stop": "2018-09-17T14:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:13:00+02:00",
+		"Stop": "2018-09-17T14:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:14:00+02:00",
+		"Stop": "2018-09-17T14:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:15:00+02:00",
+		"Stop": "2018-09-17T14:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:20:00+02:00",
+		"Stop": "2018-09-17T14:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:25:00+02:00",
+		"Stop": "2018-09-17T14:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:28:00+02:00",
+		"Stop": "2018-09-17T14:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:30:00+02:00",
+		"Stop": "2018-09-17T14:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:38:00+02:00",
+		"Stop": "2018-09-17T14:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:43:00+02:00",
+		"Stop": "2018-09-17T14:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:44:00+02:00",
+		"Stop": "2018-09-17T14:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:45:00+02:00",
+		"Stop": "2018-09-17T14:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:50:00+02:00",
+		"Stop": "2018-09-17T14:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:55:00+02:00",
+		"Stop": "2018-09-17T14:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T14:58:00+02:00",
+		"Stop": "2018-09-17T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:00:00+02:00",
+		"Stop": "2018-09-17T15:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:08:00+02:00",
+		"Stop": "2018-09-17T15:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:13:00+02:00",
+		"Stop": "2018-09-17T15:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:14:00+02:00",
+		"Stop": "2018-09-17T15:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:15:00+02:00",
+		"Stop": "2018-09-17T15:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:20:00+02:00",
+		"Stop": "2018-09-17T15:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:25:00+02:00",
+		"Stop": "2018-09-17T15:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:28:00+02:00",
+		"Stop": "2018-09-17T15:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:30:00+02:00",
+		"Stop": "2018-09-17T15:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:38:00+02:00",
+		"Stop": "2018-09-17T15:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:43:00+02:00",
+		"Stop": "2018-09-17T15:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:44:00+02:00",
+		"Stop": "2018-09-17T15:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:45:00+02:00",
+		"Stop": "2018-09-17T15:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:50:00+02:00",
+		"Stop": "2018-09-17T15:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:55:00+02:00",
+		"Stop": "2018-09-17T15:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T15:58:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T16:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:08:00+02:00",
+		"Stop": "2018-09-17T16:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:13:00+02:00",
+		"Stop": "2018-09-17T16:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:14:00+02:00",
+		"Stop": "2018-09-17T16:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:15:00+02:00",
+		"Stop": "2018-09-17T16:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:20:00+02:00",
+		"Stop": "2018-09-17T16:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:25:00+02:00",
+		"Stop": "2018-09-17T16:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:28:00+02:00",
+		"Stop": "2018-09-17T16:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:30:00+02:00",
+		"Stop": "2018-09-17T16:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:38:00+02:00",
+		"Stop": "2018-09-17T16:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:43:00+02:00",
+		"Stop": "2018-09-17T16:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:44:00+02:00",
+		"Stop": "2018-09-17T16:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:45:00+02:00",
+		"Stop": "2018-09-17T16:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:50:00+02:00",
+		"Stop": "2018-09-17T16:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:55:00+02:00",
+		"Stop": "2018-09-17T16:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T16:58:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T17:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:08:00+02:00",
+		"Stop": "2018-09-17T17:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:13:00+02:00",
+		"Stop": "2018-09-17T17:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:14:00+02:00",
+		"Stop": "2018-09-17T17:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:15:00+02:00",
+		"Stop": "2018-09-17T17:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Thema des Tages",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:20:00+02:00",
+		"Stop": "2018-09-17T17:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:28:00+02:00",
+		"Stop": "2018-09-17T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:30:00+02:00",
+		"Stop": "2018-09-17T17:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:38:00+02:00",
+		"Stop": "2018-09-17T17:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:43:00+02:00",
+		"Stop": "2018-09-17T17:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:44:00+02:00",
+		"Stop": "2018-09-17T17:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:45:00+02:00",
+		"Stop": "2018-09-17T17:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:50:00+02:00",
+		"Stop": "2018-09-17T17:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:55:00+02:00",
+		"Stop": "2018-09-17T17:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T17:58:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T18:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:08:00+02:00",
+		"Stop": "2018-09-17T18:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:13:00+02:00",
+		"Stop": "2018-09-17T18:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:14:00+02:00",
+		"Stop": "2018-09-17T18:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:15:00+02:00",
+		"Stop": "2018-09-17T18:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Thema des Tages (Wiederholung)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:20:00+02:00",
+		"Stop": "2018-09-17T18:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:28:00+02:00",
+		"Stop": "2018-09-17T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:30:00+02:00",
+		"Stop": "2018-09-17T18:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:38:00+02:00",
+		"Stop": "2018-09-17T18:43:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:43:00+02:00",
+		"Stop": "2018-09-17T18:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:44:00+02:00",
+		"Stop": "2018-09-17T18:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:45:00+02:00",
+		"Stop": "2018-09-17T18:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:50:00+02:00",
+		"Stop": "2018-09-17T18:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:55:00+02:00",
+		"Stop": "2018-09-17T18:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T18:58:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T19:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:08:00+02:00",
+		"Stop": "2018-09-17T19:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:13:00+02:00",
+		"Stop": "2018-09-17T19:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:14:00+02:00",
+		"Stop": "2018-09-17T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:15:00+02:00",
+		"Stop": "2018-09-17T19:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:20:00+02:00",
+		"Stop": "2018-09-17T19:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:25:00+02:00",
+		"Stop": "2018-09-17T19:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:28:00+02:00",
+		"Stop": "2018-09-17T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:30:00+02:00",
+		"Stop": "2018-09-17T19:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:38:00+02:00",
+		"Stop": "2018-09-17T19:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:44:00+02:00",
+		"Stop": "2018-09-17T19:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:45:00+02:00",
+		"Stop": "2018-09-17T19:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:50:00+02:00",
+		"Stop": "2018-09-17T19:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:55:00+02:00",
+		"Stop": "2018-09-17T19:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T19:58:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:08:00+02:00",
+		"Stop": "2018-09-17T20:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:13:00+02:00",
+		"Stop": "2018-09-17T20:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:14:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T20:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:20:00+02:00",
+		"Stop": "2018-09-17T20:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:25:00+02:00",
+		"Stop": "2018-09-17T20:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:28:00+02:00",
+		"Stop": "2018-09-17T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:30:00+02:00",
+		"Stop": "2018-09-17T20:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:38:00+02:00",
+		"Stop": "2018-09-17T20:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:44:00+02:00",
+		"Stop": "2018-09-17T20:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:45:00+02:00",
+		"Stop": "2018-09-17T20:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:50:00+02:00",
+		"Stop": "2018-09-17T20:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:55:00+02:00",
+		"Stop": "2018-09-17T20:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T20:58:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T21:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:08:00+02:00",
+		"Stop": "2018-09-17T21:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:13:00+02:00",
+		"Stop": "2018-09-17T21:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:14:00+02:00",
+		"Stop": "2018-09-17T21:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:15:00+02:00",
+		"Stop": "2018-09-17T21:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:20:00+02:00",
+		"Stop": "2018-09-17T21:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:25:00+02:00",
+		"Stop": "2018-09-17T21:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:28:00+02:00",
+		"Stop": "2018-09-17T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:30:00+02:00",
+		"Stop": "2018-09-17T21:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:38:00+02:00",
+		"Stop": "2018-09-17T21:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:44:00+02:00",
+		"Stop": "2018-09-17T21:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:45:00+02:00",
+		"Stop": "2018-09-17T21:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Themen und Termine",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:50:00+02:00",
+		"Stop": "2018-09-17T21:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:55:00+02:00",
+		"Stop": "2018-09-17T21:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T21:58:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:08:00+02:00",
+		"Stop": "2018-09-17T22:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:13:00+02:00",
+		"Stop": "2018-09-17T22:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:14:00+02:00",
+		"Stop": "2018-09-17T22:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:15:00+02:00",
+		"Stop": "2018-09-17T22:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:20:00+02:00",
+		"Stop": "2018-09-17T22:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:25:00+02:00",
+		"Stop": "2018-09-17T22:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:28:00+02:00",
+		"Stop": "2018-09-17T22:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:30:00+02:00",
+		"Stop": "2018-09-17T22:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:38:00+02:00",
+		"Stop": "2018-09-17T22:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:44:00+02:00",
+		"Stop": "2018-09-17T22:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:45:00+02:00",
+		"Stop": "2018-09-17T22:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:50:00+02:00",
+		"Stop": "2018-09-17T22:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport kompakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:55:00+02:00",
+		"Stop": "2018-09-17T22:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T22:58:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-17T23:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Bayern",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:08:00+02:00",
+		"Stop": "2018-09-17T23:13:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Börse",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:13:00+02:00",
+		"Stop": "2018-09-17T23:14:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:14:00+02:00",
+		"Stop": "2018-09-17T23:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:15:00+02:00",
+		"Stop": "2018-09-17T23:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Hintergrund",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:20:00+02:00",
+		"Stop": "2018-09-17T23:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:25:00+02:00",
+		"Stop": "2018-09-17T23:28:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:28:00+02:00",
+		"Stop": "2018-09-17T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Infoblock",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:30:00+02:00",
+		"Stop": "2018-09-17T23:38:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Wirtschaft und Börse (Wiederholung)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:38:00+02:00",
+		"Stop": "2018-09-17T23:44:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:44:00+02:00",
+		"Stop": "2018-09-17T23:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:45:00+02:00",
+		"Stop": "2018-09-17T23:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Themen und Termine (Wiederholung)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:50:00+02:00",
+		"Stop": "2018-09-17T23:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "B5 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:55:00+02:00",
+		"Stop": "2018-09-17T23:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Verkehr und Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "B5 aktuell",
+		"Start": "2018-09-17T23:58:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

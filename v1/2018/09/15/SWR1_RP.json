@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "Die Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Morgen Rheinland-Pfalz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T05:00:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um 12",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Arbeitsplatz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Stadion",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T15:00:00+02:00",
+		"Stop": "2018-09-15T17:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Rheinland-Pfalz Stadion",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T17:15:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Abend Rheinland-Pfalz",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR1 RP",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

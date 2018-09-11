@@ -1,0 +1,52 @@
+[
+	{
+		"Title": "sport inside",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T00:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Europamagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-18T00:30:00+02:00",
+		"Stop": "2018-09-18T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachtmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-18T01:00:00+02:00",
+		"Stop": "2018-09-18T01:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Westpol",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-18T01:20:00+02:00",
+		"Stop": "2018-09-18T01:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Abendschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "tagesschau24",
+		"Start": "2018-09-18T01:50:00+02:00",
+		"Stop": "2018-09-18T02:20:00+02:00",
+		"Info": {}
+	}
+]

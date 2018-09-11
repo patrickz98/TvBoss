@@ -1,0 +1,102 @@
+[
+	{
+		"Title": "Die ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T09:00:00+02:00",
+		"Stop": "2018-09-17T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um Zwölf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T12:00:00+02:00",
+		"Stop": "2018-09-17T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW Regional um halb Eins",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T12:30:00+02:00",
+		"Stop": "2018-09-17T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T13:00:00+02:00",
+		"Stop": "2018-09-17T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 BW Regional um Vier",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T16:00:00+02:00",
+		"Stop": "2018-09-17T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuell um Fünf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T17:00:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SWR4 am Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR4 BW",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

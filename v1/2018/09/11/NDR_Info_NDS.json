@@ -1,0 +1,212 @@
+[
+	{
+		"Title": "Nachtclub",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten und WetterErstsendung Dienstag, Wiederholung am Mittwoch auf NDR Blue",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T00:00:00+02:00",
+		"Stop": "2018-09-11T02:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nightlounge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Stündlich Nachrichten, Wetter",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T02:00:00+02:00",
+		"Stop": "2018-09-11T05:56:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Morgenandacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T05:56:00+02:00",
+		"Stop": "2018-09-11T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Informationsradio - mit Nachrichten im Viertelstundentakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Nachrichten im Viertelstundentakt",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T06:00:00+02:00",
+		"Stop": "2018-09-11T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T13:00:00+02:00",
+		"Stop": "2018-09-11T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mittagsecho",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T13:05:00+02:00",
+		"Stop": "2018-09-11T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Informationsradio - mit Nachrichten im Viertelstundentakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Nachrichten im Viertelstundentakt",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T14:00:00+02:00",
+		"Stop": "2018-09-11T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Echo des Tages",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T18:30:00+02:00",
+		"Stop": "2018-09-11T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Informationsradio - mit Nachrichten im Viertelstundentakt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "mit Nachrichten im Viertelstundentakt",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T19:00:00+02:00",
+		"Stop": "2018-09-11T19:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ohrenbär - Radiogeschichten für kleine Leute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Und dann kam CurtVon Susanne FriedmannEs liest Barbara SchnitzlerAufnahme des RBB",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T19:50:00+02:00",
+		"Stop": "2018-09-11T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T20:00:00+02:00",
+		"Stop": "2018-09-11T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Zeitzeichen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Der Start der DDR-Hörfunk-HitparadeVon Thomas KlugAufnahme des WDR",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T20:15:00+02:00",
+		"Stop": "2018-09-11T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Forum",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Feature von Georg Schwarte",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T20:30:00+02:00",
+		"Stop": "2018-09-11T20:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Standpunkte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T20:50:00+02:00",
+		"Stop": "2018-09-11T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T21:00:00+02:00",
+		"Stop": "2018-09-11T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Redezeit",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Wie wichtig ist unsere Darmflora?Moderation: Ulrike HeckmannSie können die Sendung auch live als Videostream im Internet sehen - ndr.de/redezeit",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T21:05:00+02:00",
+		"Stop": "2018-09-11T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T22:00:00+02:00",
+		"Stop": "2018-09-11T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Play Jazz!",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "Das Magazin aus der Welt des Jazz. Auf dem Programm stehen aktuelle CDs (darunter das \"Album der Woche\") und Klassiker, Porträts von Künstlern und Plattenfirmen, Konzerte, Bücher und Filme. Play Jazz! spürt Trends nach und erinnert in der Rubrik \"Remember\" an die großen Momente der Jazzgeschichte. Im \"Fenster nach Europa\" gibt es regelmäßig Höhepunkte von allen bedeutenden europäischen Jazzfestivals. Play Jazz! blickt auf die Jazz Szene im Sendegebiet und informiert in Interviews und Reportagen über die Arbeit von Clubs, Jazzinitiativen und Festivals in Norddeutschland.",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T22:05:00+02:00",
+		"Stop": "2018-09-11T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T23:00:00+02:00",
+		"Stop": "2018-09-11T23:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachtclub Magazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T23:05:00+02:00",
+		"Stop": "2018-09-11T23:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Berichte von heute",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": ".",
+		"ChannelName": "NDR Info NDS",
+		"Start": "2018-09-11T23:30:00+02:00",
+		"Stop": "2018-09-12T00:00:00+02:00",
+		"Info": {}
+	}
+]

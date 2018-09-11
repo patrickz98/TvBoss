@@ -1,0 +1,92 @@
+[
+	{
+		"Title": "ARD-Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T00:05:00+02:00",
+		"Stop": "2018-09-17T05:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Morgen Brandenburg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T05:03:00+02:00",
+		"Stop": "2018-09-17T10:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hallo Brandenburg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T10:03:00+02:00",
+		"Stop": "2018-09-17T14:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Antenne am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T14:03:00+02:00",
+		"Stop": "2018-09-17T17:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Panorama",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T17:03:00+02:00",
+		"Stop": "2018-09-17T19:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Zappelduster",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T19:03:00+02:00",
+		"Stop": "2018-09-17T19:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lollipop",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T19:08:00+02:00",
+		"Stop": "2018-09-17T21:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Antenne-Gespräch",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T21:03:00+02:00",
+		"Stop": "2018-09-17T22:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Pop nach zehn",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-17T22:03:00+02:00",
+		"Stop": "2018-09-18T00:05:00+02:00",
+		"Info": {}
+	}
+]

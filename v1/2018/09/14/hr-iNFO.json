@@ -1,0 +1,162 @@
+[
+	{
+		"Title": "Aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T06:00:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuelles",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T19:05:00+02:00",
+		"Stop": "2018-09-14T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T19:30:00+02:00",
+		"Stop": "2018-09-14T19:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Interview",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T19:35:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-14T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Tag in Hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T20:15:00+02:00",
+		"Stop": "2018-09-14T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T20:30:00+02:00",
+		"Stop": "2018-09-14T20:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kulturlust",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T20:35:00+02:00",
+		"Stop": "2018-09-14T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T21:00:00+02:00",
+		"Stop": "2018-09-14T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuelles \u0026 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T21:05:00+02:00",
+		"Stop": "2018-09-14T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T21:30:00+02:00",
+		"Stop": "2018-09-14T21:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Politik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T21:35:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-14T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr2 - Der Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T22:05:00+02:00",
+		"Stop": "2018-09-14T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-14T23:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	}
+]

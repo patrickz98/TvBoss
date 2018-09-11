@@ -1,0 +1,32 @@
+[
+	{
+		"Title": "Banana (3)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ONE",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T00:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Banana (4)",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ONE",
+		"Start": "2018-09-18T00:25:00+02:00",
+		"Stop": "2018-09-18T00:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Füchsin - Dunkle Fährte",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "ONE",
+		"Start": "2018-09-18T00:50:00+02:00",
+		"Stop": "2018-09-18T02:20:00+02:00",
+		"Info": {}
+	}
+]

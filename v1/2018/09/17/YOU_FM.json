@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "YOU FM Die beste Morningshow der Welt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Worktime",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Der schöne Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Music like me",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Sounds",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Nacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-17T23:59:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "YOU FM Junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "YOU FM",
+		"Start": "2018-09-17T23:59:00+02:00",
+		"Stop": "2018-09-18T05:00:00+02:00",
+		"Info": {}
+	}
+]

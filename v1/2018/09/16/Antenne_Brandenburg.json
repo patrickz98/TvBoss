@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "ARD-Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T00:05:00+02:00",
+		"Stop": "2018-09-16T06:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Guten Morgen Brandenburg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T06:03:00+02:00",
+		"Stop": "2018-09-16T10:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hallo Brandenburg",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T10:03:00+02:00",
+		"Stop": "2018-09-16T14:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Antenne - Das Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T14:03:00+02:00",
+		"Stop": "2018-09-16T19:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Zappelduster",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T19:03:00+02:00",
+		"Stop": "2018-09-16T19:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lollipop",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T19:08:00+02:00",
+		"Stop": "2018-09-16T21:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Pique Dame",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T21:03:00+02:00",
+		"Stop": "2018-09-16T22:03:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Pop nach zehn",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "Antenne Brandenburg",
+		"Start": "2018-09-16T22:03:00+02:00",
+		"Stop": "2018-09-17T00:05:00+02:00",
+		"Info": {}
+	}
+]

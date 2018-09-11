@@ -1,0 +1,112 @@
+[
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Johannes und der Morgenhahn",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T09:00:00+02:00",
+		"Stop": "2018-09-17T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten - Der Tag um 12",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T12:00:00+02:00",
+		"Stop": "2018-09-17T12:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T12:10:00+02:00",
+		"Stop": "2018-09-17T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Ramm am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T15:00:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Fazit vom Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T19:00:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten - Der ganze Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T22:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Abend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T22:08:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR - Musiknacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR THÜRINGEN EF",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

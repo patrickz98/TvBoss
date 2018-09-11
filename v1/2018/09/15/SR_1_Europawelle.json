@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T00:05:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T06:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Samstag im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T06:04:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T14:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Dein Samstag im Saarland",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T14:04:00+02:00",
+		"Stop": "2018-09-15T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T21:00:00+02:00",
+		"Stop": "2018-09-15T21:04:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "SR 1 - Lounge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SR 1 Europawelle",
+		"Start": "2018-09-15T21:04:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

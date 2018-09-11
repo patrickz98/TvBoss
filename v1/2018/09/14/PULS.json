@@ -1,0 +1,72 @@
+[
+	{
+		"Title": "RuhePULS",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hochfahren",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T07:00:00+02:00",
+		"Stop": "2018-09-14T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Freundeskreis",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T10:00:00+02:00",
+		"Stop": "2018-09-14T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Filter",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T15:00:00+02:00",
+		"Stop": "2018-09-14T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lieblingsplatten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T19:00:00+02:00",
+		"Stop": "2018-09-14T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Fatoni Show",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T20:00:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Spätschicht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "PULS",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

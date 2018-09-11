@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "1LIVE Fiehe",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T00:00:00+02:00",
+		"Stop": "2018-09-17T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T01:00:00+02:00",
+		"Stop": "2018-09-17T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Olli Briesch und dem Imhof",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T05:00:00+02:00",
+		"Stop": "2018-09-17T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Tina Middendorf",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T10:00:00+02:00",
+		"Stop": "2018-09-17T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Linda Reitinger und dem Meyer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T14:00:00+02:00",
+		"Stop": "2018-09-17T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE mit Johanna Tänzer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T18:00:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Plan B",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "1LIVE Soundstories",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "1LIVE",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-18T00:00:00+02:00",
+		"Info": {}
+	}
+]

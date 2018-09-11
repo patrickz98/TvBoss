@@ -1,0 +1,732 @@
+[
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Nachtkonzert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T00:05:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T06:08:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wort zum Tage",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:08:00+02:00",
+		"Stop": "2018-09-15T06:10:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:10:00+02:00",
+		"Stop": "2018-09-15T06:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:15:00+02:00",
+		"Stop": "2018-09-15T06:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:30:00+02:00",
+		"Stop": "2018-09-15T06:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kalenderblatt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:45:00+02:00",
+		"Stop": "2018-09-15T06:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T06:50:00+02:00",
+		"Stop": "2018-09-15T07:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T07:00:00+02:00",
+		"Stop": "2018-09-15T07:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T07:05:00+02:00",
+		"Stop": "2018-09-15T07:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR Kultur - Empfehlungen fürs Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T07:15:00+02:00",
+		"Stop": "2018-09-15T07:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T07:20:00+02:00",
+		"Stop": "2018-09-15T07:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Presseschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T07:30:00+02:00",
+		"Stop": "2018-09-15T07:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T07:45:00+02:00",
+		"Stop": "2018-09-15T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T08:00:00+02:00",
+		"Stop": "2018-09-15T08:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Morgen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T08:05:00+02:00",
+		"Stop": "2018-09-15T08:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T08:15:00+02:00",
+		"Stop": "2018-09-15T08:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Feuilleton",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T08:30:00+02:00",
+		"Stop": "2018-09-15T08:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T08:45:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T09:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Mein Fieber geht wieder vorüber",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T09:05:00+02:00",
+		"Stop": "2018-09-15T09:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T09:35:00+02:00",
+		"Stop": "2018-09-15T09:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR Kultur - Empfehlungen fürs Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T09:45:00+02:00",
+		"Stop": "2018-09-15T09:51:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T09:51:00+02:00",
+		"Stop": "2018-09-15T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T10:00:00+02:00",
+		"Stop": "2018-09-15T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Vormittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T10:05:00+02:00",
+		"Stop": "2018-09-15T10:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T10:15:00+02:00",
+		"Stop": "2018-09-15T10:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Feuilleton",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T10:30:00+02:00",
+		"Stop": "2018-09-15T10:40:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kalenderblatt",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T10:40:00+02:00",
+		"Stop": "2018-09-15T10:50:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das Gedicht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T10:50:00+02:00",
+		"Stop": "2018-09-15T11:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T11:00:00+02:00",
+		"Stop": "2018-09-15T11:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR trifft - Menschen von hier",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T11:05:00+02:00",
+		"Stop": "2018-09-15T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T12:00:00+02:00",
+		"Stop": "2018-09-15T12:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T12:05:00+02:00",
+		"Stop": "2018-09-15T12:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T12:15:00+02:00",
+		"Stop": "2018-09-15T12:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T12:30:00+02:00",
+		"Stop": "2018-09-15T12:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T12:45:00+02:00",
+		"Stop": "2018-09-15T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T13:00:00+02:00",
+		"Stop": "2018-09-15T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T13:05:00+02:00",
+		"Stop": "2018-09-15T13:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hörer empfehlen Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T13:15:00+02:00",
+		"Stop": "2018-09-15T13:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T13:30:00+02:00",
+		"Stop": "2018-09-15T13:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Hörer empfehlen Kultur",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T13:45:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T14:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T14:05:00+02:00",
+		"Stop": "2018-09-15T14:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Lebensart am Sonnabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T14:15:00+02:00",
+		"Stop": "2018-09-15T14:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T14:30:00+02:00",
+		"Stop": "2018-09-15T14:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR Vorschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T14:45:00+02:00",
+		"Stop": "2018-09-15T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T15:00:00+02:00",
+		"Stop": "2018-09-15T15:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T15:05:00+02:00",
+		"Stop": "2018-09-15T15:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T15:15:00+02:00",
+		"Stop": "2018-09-15T15:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T15:30:00+02:00",
+		"Stop": "2018-09-15T15:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Musiktipp",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T15:45:00+02:00",
+		"Stop": "2018-09-15T16:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T16:00:00+02:00",
+		"Stop": "2018-09-15T16:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Studiosession",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T16:05:00+02:00",
+		"Stop": "2018-09-15T16:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T16:30:00+02:00",
+		"Stop": "2018-09-15T16:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T16:45:00+02:00",
+		"Stop": "2018-09-15T17:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T17:00:00+02:00",
+		"Stop": "2018-09-15T17:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR am Nachmittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T17:05:00+02:00",
+		"Stop": "2018-09-15T17:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T17:15:00+02:00",
+		"Stop": "2018-09-15T17:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wetter + Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T17:30:00+02:00",
+		"Stop": "2018-09-15T17:45:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Thema",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T17:45:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T18:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Figarino",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T18:05:00+02:00",
+		"Stop": "2018-09-15T18:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Songs und Chansons",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T18:30:00+02:00",
+		"Stop": "2018-09-15T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T19:00:00+02:00",
+		"Stop": "2018-09-15T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Diskurs",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T19:05:00+02:00",
+		"Stop": "2018-09-15T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Jazz Lounge",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T19:30:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-15T20:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Opernmagazin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T20:05:00+02:00",
+		"Stop": "2018-09-15T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Filmmusik, Musical, Operette",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T21:00:00+02:00",
+		"Stop": "2018-09-15T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Spezial",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T22:00:00+02:00",
+		"Stop": "2018-09-15T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "MDR KULTUR - Nachtmusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR KULTUR",
+		"Start": "2018-09-15T23:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

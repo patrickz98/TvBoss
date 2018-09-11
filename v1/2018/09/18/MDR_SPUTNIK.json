@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "SPUTNIK Deine Lieblingsmusik",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-18T00:00:00+02:00",
+		"Stop": "2018-09-18T01:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Junge Nacht der ARD",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "MDR SPUTNIK",
+		"Start": "2018-09-18T01:00:00+02:00",
+		"Stop": "2018-09-18T05:00:00+02:00",
+		"Info": {}
+	}
+]

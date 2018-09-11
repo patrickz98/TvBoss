@@ -1,0 +1,62 @@
+[
+	{
+		"Title": "ARD Popnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das NDR 2 Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das NDR 2 Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-15T10:00:00+02:00",
+		"Stop": "2018-09-15T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die NDR 2 Bundesligashow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-15T15:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Das NDR 2 Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "NDR 2 Soundcheck Party",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "NDR 2 NDS",
+		"Start": "2018-09-15T21:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

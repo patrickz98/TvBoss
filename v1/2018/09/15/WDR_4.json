@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "ARD Hitnacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T00:00:00+02:00",
+		"Stop": "2018-09-15T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T06:00:00+02:00",
+		"Stop": "2018-09-15T08:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mittendrin",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T08:00:00+02:00",
+		"Stop": "2018-09-15T08:55:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Kirche in WDR 4",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T08:55:00+02:00",
+		"Stop": "2018-09-15T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T09:00:00+02:00",
+		"Stop": "2018-09-15T14:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Mein Wochenende",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T14:00:00+02:00",
+		"Stop": "2018-09-15T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Scheinwerfer",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T18:00:00+02:00",
+		"Stop": "2018-09-15T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "WDR 4 Radioabend",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "WDR 4",
+		"Start": "2018-09-15T20:00:00+02:00",
+		"Stop": "2018-09-16T00:00:00+02:00",
+		"Info": {}
+	}
+]

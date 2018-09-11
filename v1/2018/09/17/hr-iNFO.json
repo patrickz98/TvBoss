@@ -1,0 +1,142 @@
+[
+	{
+		"Title": "Aktuell",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T06:00:00+02:00",
+		"Stop": "2018-09-17T19:20:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T19:20:00+02:00",
+		"Stop": "2018-09-17T19:25:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Cybercrime - ein Podcast von hr-iNFO",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T19:25:00+02:00",
+		"Stop": "2018-09-17T20:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Tagesschau",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T20:00:00+02:00",
+		"Stop": "2018-09-17T20:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Der Tag in Hessen",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T20:15:00+02:00",
+		"Stop": "2018-09-17T20:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T20:30:00+02:00",
+		"Stop": "2018-09-17T20:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wissenswert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T20:35:00+02:00",
+		"Stop": "2018-09-17T21:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T21:00:00+02:00",
+		"Stop": "2018-09-17T21:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Aktuelles \u0026 Sport",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T21:05:00+02:00",
+		"Stop": "2018-09-17T21:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T21:30:00+02:00",
+		"Stop": "2018-09-17T21:35:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Wissenswert",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T21:35:00+02:00",
+		"Stop": "2018-09-17T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter und Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T22:00:00+02:00",
+		"Stop": "2018-09-17T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "hr2 - Der Tag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T22:05:00+02:00",
+		"Stop": "2018-09-17T23:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-Infonacht",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "hr-iNFO",
+		"Start": "2018-09-17T23:00:00+02:00",
+		"Stop": "2018-09-18T06:00:00+02:00",
+		"Info": {}
+	}
+]

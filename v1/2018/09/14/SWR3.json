@@ -1,0 +1,82 @@
+[
+	{
+		"Title": "Luna",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T00:00:00+02:00",
+		"Stop": "2018-09-14T05:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Morningshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T05:00:00+02:00",
+		"Stop": "2018-09-14T09:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Vormittagsshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T09:00:00+02:00",
+		"Stop": "2018-09-14T12:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Topthemen am Mittag",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T12:00:00+02:00",
+		"Stop": "2018-09-14T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Festivalradio",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T13:00:00+02:00",
+		"Stop": "2018-09-14T15:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Die Nachmittagsshow",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T15:00:00+02:00",
+		"Stop": "2018-09-14T18:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Festivalradio",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T18:00:00+02:00",
+		"Stop": "2018-09-14T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Popshop",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "SWR3",
+		"Start": "2018-09-14T22:00:00+02:00",
+		"Stop": "2018-09-15T00:00:00+02:00",
+		"Info": {}
+	}
+]

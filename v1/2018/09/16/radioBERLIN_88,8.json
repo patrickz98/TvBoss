@@ -1,0 +1,162 @@
+[
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T00:00:00+02:00",
+		"Stop": "2018-09-16T00:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ARD-POPNACHT",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T00:05:00+02:00",
+		"Stop": "2018-09-16T05:59:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Eröffnungsansage radioBERLIN 88,8",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T05:59:00+02:00",
+		"Stop": "2018-09-16T06:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T06:00:00+02:00",
+		"Stop": "2018-09-16T06:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "radioBERLIN 88,8 GUTEN MORGEN BERLIN",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T06:05:00+02:00",
+		"Stop": "2018-09-16T10:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T10:00:00+02:00",
+		"Stop": "2018-09-16T10:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "radioBERLIN 88,8 GUT LEBEN IN BERLIN",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T10:05:00+02:00",
+		"Stop": "2018-09-16T13:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T13:00:00+02:00",
+		"Stop": "2018-09-16T13:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "radioBERLIN 88,8 DER LANGE SONNTAG",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T13:05:00+02:00",
+		"Stop": "2018-09-16T19:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T19:00:00+02:00",
+		"Stop": "2018-09-16T19:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "radioBERLIN 88,8 OHRENBÄR",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T19:05:00+02:00",
+		"Stop": "2018-09-16T19:15:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ZUR DEBATTE",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T19:15:00+02:00",
+		"Stop": "2018-09-16T19:30:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "radioBERLIN 88,8 POP LOUNGE",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T19:30:00+02:00",
+		"Stop": "2018-09-16T21:58:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "ABENDSEGEN",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T21:58:00+02:00",
+		"Stop": "2018-09-16T22:00:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "Nachrichten, Wetter, Verkehr",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T22:00:00+02:00",
+		"Stop": "2018-09-16T22:05:00+02:00",
+		"Info": {}
+	},
+	{
+		"Title": "radioBERLIN 88,8 POP NACH ZEHN",
+		"Subtitle": "",
+		"Summary": "",
+		"Description": "",
+		"ChannelName": "radioBERLIN 88,8",
+		"Start": "2018-09-16T22:05:00+02:00",
+		"Stop": "2018-09-17T00:00:00+02:00",
+		"Info": {}
+	}
+]
