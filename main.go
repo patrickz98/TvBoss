@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"os"
 	"regexp"
+	"strconv"
 	"strings"
 	"time"
 )
@@ -81,11 +82,37 @@ func match(jsonPath string, value []EpgInfo) []EpgInfo {
 	return value
 }
 
+func getLimit() string {
+	resp, err := http.Get("http://overdvb-c.local:9981/api/epg/events/grid?limit=0")
+
+	if err != nil {
+		panic(err)
+	}
+
+	defer resp.Body.Close()
+
+	tvhBytes, err := ioutil.ReadAll(resp.Body)
+
+	if err != nil {
+		panic(err)
+	}
+
+	var epg Epg
+	err = json.Unmarshal(tvhBytes, &epg)
+
+	if err != nil {
+		panic(err)
+	}
+
+	return strconv.Itoa(epg.TotalCount)
+}
+
 func main() {
+
 	// resp, err := http.Get("http://overdvb-c.local:9981/api/epg/content_type/list")
 	// resp, err := http.Get("http://overdvb-c.local:9981/api/epg/events/grid")
 	// resp, err := http.Get("http://overdvb-c.local:9981/api/epg/events/grid?limit=23407")
-	resp, err := http.Get("http://overdvb-c.local:9981/api/epg/events/grid?limit=24001")
+	resp, err := http.Get("http://overdvb-c.local:9981/api/epg/events/grid?limit=" + getLimit())
 
 	if err != nil {
 		panic(err)
