@@ -44,6 +44,43 @@ type EpgInfo struct {
 	Info map[string][]string
 }
 
+func contains(array []EpgInfo, search EpgInfo) bool {
+	for _, value := range array {
+		if value.Start == search.Start {
+			return true
+		}
+	}
+
+	return false
+}
+
+func match(jsonPath string, value []EpgInfo) []EpgInfo {
+	if _, err := os.Stat(jsonPath); err == nil {
+		jsonFile, err := os.Open(jsonPath)
+
+		if err != nil {
+			panic(err)
+		}
+
+		defer jsonFile.Close()
+
+		byteValue, _ := ioutil.ReadAll(jsonFile)
+
+		var info []EpgInfo
+		json.Unmarshal(byteValue, &info)
+
+		for _, entries := range value {
+			if !contains(info, entries) {
+				info = append(info, entries)
+			}
+		}
+
+		return info
+	}
+
+	return value
+}
+
 func main() {
 	// resp, err := http.Get("http://overdvb-c.local:9981/api/epg/content_type/list")
 	// resp, err := http.Get("http://overdvb-c.local:9981/api/epg/events/grid")
@@ -132,10 +169,13 @@ func main() {
 		channel := key[11:]
 
 		path := "v1/" + year + "/" + month + "/" + day + "/"
+		jsonPath := path + channel + ".json"
 		os.MkdirAll(path, os.ModePerm)
 
-		jsonBytes, _ := json.MarshalIndent(value, "", "\t")
-		err := ioutil.WriteFile(path + channel + ".json", jsonBytes, 0644)
+		dataDB := match(jsonPath, value)
+
+		jsonBytes, _ := json.MarshalIndent(dataDB, "", "\t")
+		err := ioutil.WriteFile(jsonPath, jsonBytes, 0644)
 
 		if err != nil {
 			panic(err)
