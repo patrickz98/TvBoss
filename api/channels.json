@@ -1,0 +1,1038 @@
+{
+    "entries": [
+        {
+            "uuid": "c35b35805d2b529b7a9f93bf069d6e73",
+            "enabled": true,
+            "name": "MDR KULTUR",
+            "number": 0,
+            "icon": "picon://1_0_2_6F0F_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F0F_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "9426a533759a0b70dd387a9db8842bdc"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "69a20179fffb7acd4d0cfc80d31b6cde"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "ff67b7805ee76a49ca3f0a1397103a98",
+            "enabled": true,
+            "name": "TNT Serie",
+            "number": 0,
+            "icon": "picon://1_0_1_32_1_85_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_32_1_85_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "3698e6f3a3f299d32920912ba0794e48"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "47905f1c85ca655faba44ad7735745b9"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "af7f4c0298e01fb4e065d877b78e1c79",
+            "enabled": true,
+            "name": "BR-KLASSIK",
+            "number": 0,
+            "icon": "picon://1_0_2_6EF3_44D_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6EF3_44D_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "5d927cfccf3c4ef36f7049baafb36432"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "147266675acea8baeb667fc65569be03"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "d5536f823f61a0c34de4800fe996a132",
+            "enabled": true,
+            "name": "QVC",
+            "number": 0,
+            "icon": "picon://1_0_1_D170_2717_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_D170_2717_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "f86d589b36157f11210005219434a940"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "a63887829d1d177ae05291b7c7364cd6",
+            "enabled": true,
+            "name": "PHOENIX",
+            "number": 0,
+            "icon": "picon://1_0_1_7035_41B_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_7035_41B_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "86fd1a7b8d5eecd9f4f20f6594e32089"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "8798202f1689257e974307350f77ac8a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "8b3f36039b8a73051f73ef202a752f9c",
+            "enabled": true,
+            "name": "SUPER RTL",
+            "number": 8,
+            "icon": "picon://1_0_1_D162_2713_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_D162_2713_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "62fd4a7467ed75f7a33d335eb616dfe5"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "b301c3831415d097f33dfde4358de4f3",
+            "enabled": true,
+            "name": "SR 3 Saarlandwelle",
+            "number": 0,
+            "icon": "picon://1_0_2_6F2F_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F2F_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "b879a7f8021162b9bf84725467202646"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "50dda2110dce02203668b03a3705be73"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "3d1c69046356b588d16c4411215d3a64",
+            "enabled": true,
+            "name": "WDR Köln",
+            "number": 0,
+            "icon": "picon://1_0_1_6DCF_44D_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_6DCF_44D_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "f2c62e3e10cc64695680eefeb8d119c5"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "8798202f1689257e974307350f77ac8a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "1b467e052e07f5bbaf992e9a96b38d5b",
+            "enabled": true,
+            "name": ".",
+            "number": 0,
+            "icon": "picon://1_0_1_CF6E_2714_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CF6E_2714_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "4a7fca924a122eeb5f94153f879d0b66"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "75e6c485a5e2be53bcc8d99043ae827f",
+            "enabled": true,
+            "name": "TLC",
+            "number": 0,
+            "icon": "picon://1_0_1_CFE4_2712_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CFE4_2712_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "33f9681d59cd67c9d826c47da4277d28"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "f4518586d087437b8cb80bd0dc5330d4",
+            "enabled": true,
+            "name": "NDR FS HH HD",
+            "number": 17,
+            "icon": "picon://1_0_19_2859_44D_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_19_2859_44D_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "a4c343a7a0c351e93dacf906f4656720"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "4918c158608b929e84f86b575faca191",
+                "8798202f1689257e974307350f77ac8a",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "380f94062fdc0d77b423af0fe4956914",
+            "enabled": true,
+            "name": "HSE24 EXTRA",
+            "number": 0,
+            "icon": "picon://1_0_1_C756_2721_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_C756_2721_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "ad801f0b045b60d516be35853809a464"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "81cbf006e620ba265d63de0d3a4ea8f8",
+            "enabled": true,
+            "name": "Bremen Eins",
+            "number": 0,
+            "icon": "picon://1_0_2_6F20_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F20_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "cc9c5a29440e57af6bd822a38bd694db"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "a3c0f8b82b8ed437dad6d76e668bf2c9"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "effdca87d571a62423f8df0314b2ccb9",
+            "enabled": true,
+            "name": "LRT Lituanica/GINX TV (lit/engl)",
+            "number": 0,
+            "icon": "picon://1_0_1_D03B_2725_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_D03B_2725_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "6f19422f9881d48b1704eedb04f912da"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "30c2f588d829cef975c065c203231b14",
+            "enabled": true,
+            "name": "NDR1 Welle Nord KI",
+            "number": 0,
+            "icon": "picon://1_0_2_6F1A_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F1A_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "f1bfaccd3633d455abd5da82730c050c"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "f9a32a835626f87781d09865d0c19452"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "848d020ba2a1323792e8a25edd34b6d7",
+            "enabled": true,
+            "name": "HSE24 HD",
+            "number": 0,
+            "icon": "picon://1_0_19_C36A_2716_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_19_C36A_2716_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "7ccae054f96f61f18e31afdf7f8ca270"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "4918c158608b929e84f86b575faca191",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "6e5a770bc8cf184202967f98cd214316",
+            "enabled": true,
+            "name": "NDR Info NDS",
+            "number": 0,
+            "icon": "picon://1_0_2_6F17_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F17_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "a2b8925b24aa8b43ff763f94380f6ea5"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "f9a32a835626f87781d09865d0c19452"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "9824220c9fbb954dc28e7026cad44e96",
+            "enabled": true,
+            "name": "Welt der Wunder TV",
+            "number": 31,
+            "icon": "picon://1_0_1_C763_2725_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_C763_2725_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "e235cb1b7a4ca87f814c0e4bf162a085"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "38d7930c17f468eef3207df8e468195e",
+            "enabled": true,
+            "name": "COSMO",
+            "number": 0,
+            "icon": "picon://1_0_2_6F40_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F40_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "9d36aa19064a4f51670549a0d865b68a"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "371fa4b79519eddc283473bc24adce4a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "0d41fb0c44fa1373f9f3f7fcbe7a8bbe",
+            "enabled": true,
+            "name": "ARD-alpha",
+            "number": 0,
+            "icon": "picon://1_0_1_6F47_41B_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_6F47_41B_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "f4d538ba35ab8c0300903c612019b6b9"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "8798202f1689257e974307350f77ac8a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "d7d2628da50387e95695c02e653c1d8f",
+            "enabled": true,
+            "name": "Dlf",
+            "number": 0,
+            "icon": "picon://1_0_2_6D6D_437_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6D6D_437_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "71f6e77272c543e82e35100df269e9da"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "8e49e61ba0d7b9dcf2ef5750116ec07c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "45aaf00e238cb92ab7048a808305c97d",
+            "enabled": true,
+            "name": "Chillout",
+            "number": 0,
+            "icon": "picon://1_0_2_C42B_2712_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_C42B_2712_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "15f5ee60f3fa45eea9524ef37d54d21c"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "52848bd1bae38151d39f1268c5707886"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "936c1e0f86afd60527bc26e52ca1bfcd",
+            "enabled": true,
+            "name": "rbb Berlin",
+            "number": 0,
+            "icon": "picon://1_0_1_6E2E_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_6E2E_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "ca0be97d64f8a7f5f02e4e17ac562e8e"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "8798202f1689257e974307350f77ac8a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "b828298f3d9eac348de0dcc61548910e",
+            "enabled": true,
+            "name": "euronews (ita)",
+            "number": 0,
+            "icon": "picon://1_0_1_CFDF_2715_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CFDF_2715_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "810b01b42d535fe335d13ec21c2f9494"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "4cb978e6e8344ad4d0a1af18d99da104"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "46832810813ae345c023bba963ac13a3",
+            "enabled": true,
+            "name": "MDR KLASSIK",
+            "number": 0,
+            "icon": "picon://1_0_2_6F13_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F13_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "b2baadbbcacddd0ab80a6104f9a9bb43"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "69a20179fffb7acd4d0cfc80d31b6cde"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "927fef104837b2ee8d1d0f98c79806cc",
+            "enabled": true,
+            "name": "NDR 1 Radio MV SN",
+            "number": 0,
+            "icon": "picon://1_0_2_6F1B_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F1B_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "dc9b9b53218acad47c197a4b1e6ec714"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "f9a32a835626f87781d09865d0c19452"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "4a2ae392b7cee01284fb08f4f398b980",
+            "enabled": true,
+            "name": "WDR 4",
+            "number": 0,
+            "icon": "picon://1_0_2_6F3E_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F3E_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "9c75f9436afdbc5e5c93ff9d10af7dc4"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "371fa4b79519eddc283473bc24adce4a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "2a99a713e38ecde22462abdf20aa934d",
+            "enabled": true,
+            "name": "Bremen Zwei",
+            "number": 0,
+            "icon": "picon://1_0_2_6F21_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F21_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "0442f80e93b1bbf71fe32340e48c4a7c"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "a3c0f8b82b8ed437dad6d76e668bf2c9"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "cd254494cd2bb79c7e2f17ae5cfc301c",
+            "enabled": true,
+            "name": "RTL NITRO",
+            "number": 12,
+            "icon": "picon://1_0_1_CF76_2712_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CF76_2712_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "1ce0528777bda9b1015b1650a3aadd7a"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "689f509462d4339a497b7a540cc27a19",
+            "enabled": true,
+            "name": "1-2-3.tv HD",
+            "number": 0,
+            "icon": "picon://1_0_19_C39E_2727_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_19_C39E_2727_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "b59f9393dfd07226bb0fb43ef3e984ad"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "4918c158608b929e84f86b575faca191",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "4d5a7b1457bd308d5ecd1787d85c7b6e",
+            "enabled": true,
+            "name": "WDR 2 Rheinland",
+            "number": 0,
+            "icon": "picon://1_0_2_6F3C_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F3C_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "5fa46d7689d2c6d8a6f7f361b0033d68"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "371fa4b79519eddc283473bc24adce4a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "e3414e153b57bb14940c4b339786e8cc",
+            "enabled": true,
+            "name": "euronews (fre)",
+            "number": 0,
+            "icon": "picon://1_0_1_CFDB_2715_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CFDB_2715_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "786dac2fd22838669f54c2f43cff5c1d"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "44a35a954f8ccea10e188c0e327a7b95",
+            "enabled": true,
+            "name": "1LIVE",
+            "number": 0,
+            "icon": "picon://1_0_2_6F3B_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F3B_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "e2a7c3466f327a3350b32f358f522698"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "371fa4b79519eddc283473bc24adce4a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "7e7df595ad43719a22493940c65998df",
+            "enabled": true,
+            "name": "N-JOY",
+            "number": 0,
+            "icon": "picon://1_0_2_6F18_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F18_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "4409f01fe1a7e098eb875c80304c575b"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "f9a32a835626f87781d09865d0c19452"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "5b4b4b16bef47fe392d50f306ae8edb4",
+            "enabled": true,
+            "name": "WDR 5",
+            "number": 0,
+            "icon": "picon://1_0_2_6F3F_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F3F_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "8463f9cf7e5b89b06f1bc1ed6541c1bd"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "371fa4b79519eddc283473bc24adce4a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "0648409714a365c57ad1d83d82968d3c",
+            "enabled": true,
+            "name": "Kulturradio",
+            "number": 0,
+            "icon": "picon://1_0_2_6F25_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F25_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "90b196c0e263678070fc88d0fa18b96d"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "36f73ec80475d61d8941166abb938e7f"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "8e06a1174bcae4d610015aecd357efbf",
+            "enabled": true,
+            "name": "hr4",
+            "number": 0,
+            "icon": "picon://1_0_2_6F06_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F06_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "c5ccdf34f7eb3a1a1bb3e84de9e428c3"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "acb387ac4d4741068a863fd915065308"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "bc7c689888e326d39d33d95cc70fbf5f",
+            "enabled": true,
+            "name": "ProSieben",
+            "number": 6,
+            "icon": "picon://1_0_1_D175_2718_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_D175_2718_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "f97526089599726fa57c1c3e633eb80a"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "2b029598697a05aa373de1f3055cc31c",
+            "enabled": true,
+            "name": "PCNE/NTD TV (chi)",
+            "number": 0,
+            "icon": "picon://1_0_1_C75A_2725_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_C75A_2725_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "07fd6d0354657266d360a54c83aa3013"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "1441a3194d2db808fce17846a8e41e90",
+            "enabled": true,
+            "name": "SWR1 RP",
+            "number": 0,
+            "icon": "picon://1_0_2_6F32_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F32_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "5241b3f505d90bbd0635fd32b6da1674"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "b3f08bd9541dfbd4569a605a79654467"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "a3bb091aa081be001a3d33f8e83e4f4a",
+            "enabled": true,
+            "name": "WDR 3",
+            "number": 0,
+            "icon": "picon://1_0_2_6F3D_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F3D_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "e8cda8a15690ad795e622b833846d3eb"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "371fa4b79519eddc283473bc24adce4a"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "06bfda9a3001caf3f934fc692f5c3b36",
+            "enabled": true,
+            "name": "euronews (por)",
+            "number": 0,
+            "icon": "picon://1_0_1_CFE1_2715_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CFE1_2715_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "ad1ec832a64ffcf6c512e95ceb9a8141"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "6ed2b304e8b13111512a7d4b50a9ff16"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "d150471b49c04a386c4903071c6b7f1d",
+            "enabled": true,
+            "name": "B5 aktuell",
+            "number": 0,
+            "icon": "picon://1_0_2_6EF4_44D_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6EF4_44D_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "c5ca796575ae10e7121fa8ada7ec99d5"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "147266675acea8baeb667fc65569be03"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "77fe5b9bcfec750648a4132565a43825",
+            "enabled": true,
+            "name": "MTV",
+            "number": 0,
+            "icon": "picon://1_0_1_CF0C_2714_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CF0C_2714_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "48844558786a1d1c611668391d22693a"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "a680941bbd646a114f31cebd75419146",
+            "enabled": true,
+            "name": "SWR4 BW",
+            "number": 0,
+            "icon": "picon://1_0_2_6F35_431_1_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_2_6F35_431_1_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "5e15f1859d8060b37b7e3dbcec46db4f"
+            ],
+            "tags": [
+                "f52f2a8da5b73ec1c34418bcdb73a31b",
+                "b3f08bd9541dfbd4569a605a79654467"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "7618051e52c3d25a4ef5a8eaabb92b77",
+            "enabled": true,
+            "name": "Nickelodeon",
+            "number": 32,
+            "icon": "picon://1_0_1_CF0E_2717_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CF0E_2717_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "93a610807afdab5f01dfeadd030ccf30"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "e700a320da08a4dbde6cf5a28cd417a2",
+            "enabled": true,
+            "name": "QVC HD",
+            "number": 0,
+            "icon": "picon://1_0_19_C36B_2716_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_19_C36B_2716_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "825b04abad7a956d9f213f6a190768d9"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "4918c158608b929e84f86b575faca191",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "e48eeaa0f478029b8279cddc9305283e",
+            "enabled": true,
+            "name": "DRF1",
+            "number": 0,
+            "icon": "picon://1_0_1_CF1A_2721_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_CF1A_2721_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "d28fce2948084c11bbc6d22e0dd0619b"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "15dc78a1e8f5a3caf66fb926eefc9f3a",
+            "enabled": true,
+            "name": "kabel eins",
+            "number": 7,
+            "icon": "picon://1_0_1_D176_2718_F001_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_1_D176_2718_F001_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "5f214152a4dd0423dd9ad2c65828e504"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35",
+                "da77e0cb9a8c374fb32e055cfc97ab5c",
+                "3da3309f1795a995886642479ec5f5e8"
+            ],
+            "bouquet": ""
+        },
+        {
+            "uuid": "9b128ca1fbd1edf84cfd023603ed1dad",
+            "enabled": true,
+            "name": "Sky Sport Bundesliga 8",
+            "number": 0,
+            "icon": "picon://1_0_D3_142_1_85_FFFF0000_0_0_0.png",
+            "icon_public_url": "/1_0_D3_142_1_85_FFFF0000_0_0_0.png",
+            "epgauto": true,
+            "epggrab": [],
+            "dvr_pre_time": 0,
+            "dvr_pst_time": 0,
+            "services": [
+                "d677dd35254153ab15c926e17939158b"
+            ],
+            "tags": [
+                "a04b348d4de57a74ded40bfbc74764a0",
+                "29488db3275c1a56b996add34e1bdb35"
+            ],
+            "bouquet": ""
+        }
+    ],
+    "total": 194
+}
